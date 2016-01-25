@@ -43,15 +43,6 @@ Algorithm / Data structure implementations.
 [soulmachine/acm-cheat-sheet (Chinese)](https://github.com/soulmachine/acm-cheat-sheet)  
 [日月卦長的模板庫 (Chinese)](http://sunmoon-template.blogspot.tw/)
 
-### Problem Classifiers
-Sites classifying programming problems.  
-
-- [A2 Online Judge](http://a2oj.com/Categories.jsp)
-- [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
-- [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
-- [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
-- [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
-
 ### Language Specifics
 This section mainly focuses on C++ and other miscellaneous knowledge.  
 
@@ -68,6 +59,33 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)
 
+### Sites to Practice
+Good online judges to practice.
+
+- [Codeforces](http://codeforces.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [SPOJ](http://www.spoj.com/)
+- [sgu](http://acm.sgu.ru/)
+- [Timus](http://acm.timus.ru/)
+- [CodeChef](https://www.codechef.com/)
+- [PKU OJ](http://poj.org/)
+- [UVa](https://uva.onlinejudge.org/) (Practice with [uHunt](http://uhunt.felix-halim.net/id/13568) is strongly advised)
+- [Project Euler](https://projecteuler.net/)
+
+### Problem Classifiers
+Sites/Pages classifying programming problems.  
+
+- [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
+- [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
+- [UVa Online Judge (CP, CP2, CP3)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
+- [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
+- [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
+- [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
+
+### Sites to ask questions
+- [Codeforces](http://codeforces.com/)
+- [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
+- [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
 
 ## Social Media
@@ -91,6 +109,7 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/#team-trainings)
 
 ### Youtube and Livestreams
+[HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw)
 - Petr Mitrichev (Petr): [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
 - Egor Kulikov (Egor): [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
 - Adam Bardashevich (subscriber): [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw)
