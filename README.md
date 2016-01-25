@@ -11,7 +11,7 @@ A list of curated lists.
 - [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)
 
 ### Generic
-Sites/Pages covering a broad range of topics.
+Sites / Pages covering a broad range of topics.
 
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
@@ -77,7 +77,7 @@ Good online judges to practice.
 - [Project Euler](https://projecteuler.net/)
 
 #### Problem classifiers
-Sites/Pages classifying programming problems.
+Sites / Pages classifying programming problems.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
@@ -86,7 +86,7 @@ Sites/Pages classifying programming problems.
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
-### Books
+### Books (some taken from USACO)
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim
 - [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
