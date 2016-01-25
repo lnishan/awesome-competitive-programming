@@ -1,5 +1,5 @@
-# CP-Resources
-A curated list of competitive programming (CP) / algorithms / data structures resources.
+# Awesome-Competitive-Programming
+A curated list of awesome competitive programming resources.
 
 ## Useful resources
 
