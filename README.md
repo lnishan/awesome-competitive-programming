@@ -73,7 +73,7 @@ Good online judges to practice.
 - [UVa](https://uva.onlinejudge.org/) (Practice with [uHunt](http://uhunt.felix-halim.net/id/13568) is strongly advised)
 - [Project Euler](https://projecteuler.net/)
 
-### Problem Classifiers
+#### Problem Classifiers
 Sites/Pages classifying programming problems.  
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
@@ -82,6 +82,21 @@ Sites/Pages classifying programming problems.
 - [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
+
+### Books
+- [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim
+- [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
+- [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
+- [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
+- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.books.com.tw/products/0010650143), by 劉汝佳
+- [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
+- [算法藝術與信息競賽 (Chinese)](http://www.books.com.tw/products/CN10672273), by 劉汝佳, 黃亮
+
+#### Books for algorithms
+- [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Cormen, Leiserson, Rivest, and Stein
+- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Kleinberg and Tardos
+- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Skiena
+- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Sedgewick and Wayne
 
 ### Sites to ask questions
 - [Codeforces](http://codeforces.com/)
