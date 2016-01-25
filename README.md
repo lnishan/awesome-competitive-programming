@@ -4,13 +4,13 @@ A curated list of awesome competitive programming/algorithms/data structures mat
 ## Useful materials
 
 ### List of lists
-A list of curated lists.  
+A list of curated lists.
 
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 
 ### Generic
-Sites covering a broad range of topics.  
+Sites covering a broad range of topics.
 
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
@@ -26,7 +26,7 @@ Sites covering a broad range of topics.
 [Main Page - E-Maxx Algorithms (English)](http://e-maxx-eng.github.io/)
 
 ### Implementations / Notebooks
-Algorithm / Data structure implementations.  
+Algorithm / Data structure implementations.
 
 - [Data Structures and Algorithms in C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
 - [Stanford University ACM Team Notebook (2013-14)](http://stanford.edu/~liszt90/acm/notebook.html)
@@ -44,7 +44,7 @@ Algorithm / Data structure implementations.
 [日月卦長的模板庫 (Chinese)](http://sunmoon-template.blogspot.tw/)
 
 ### Language Specifics
-This section mainly focuses on C++ and other miscellaneous knowledge.  
+This section mainly focuses on C++ and other miscellaneous knowledge.
 
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
 [Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
@@ -74,7 +74,7 @@ Good online judges to practice.
 - [Project Euler](https://projecteuler.net/)
 
 #### Problem Classifiers
-Sites/Pages classifying programming problems.  
+Sites/Pages classifying programming problems.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
@@ -105,7 +105,7 @@ Sites/Pages classifying programming problems.
 
 
 ## Social Media
-(I kind of feel like a stalker while making this list ...)  
+(I kind of feel like a stalker while making this list ...)
 
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
@@ -133,6 +133,8 @@ Sites/Pages classifying programming problems.
 - Vladimir Smykalov (enot.1.10): [Twitch](http://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
 
 ### Quora
+Great people to follow.
+
 - [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek)
 - [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi)
 - [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2)
