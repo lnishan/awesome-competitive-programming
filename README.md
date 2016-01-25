@@ -115,7 +115,7 @@ Meet the god-like programmers!
 - [Codeforces blogs](http://codeforces.com/)
 - Petr Mitrichev (Petr): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
 - Bruce Merry (bmerry): [Entropy always increases](http://blog.brucemerry.org.za/)
-- Adam Pohorecki (Psyho): [Psyho's blog](http://psyho.gg/)
+- Przemysław Dębiak (Psyho): [Psyho's blog](http://psyho.gg/)
 - Anudeep Nekkanti (anudeep2011): [Namespace Anudeep ;)](http://blog.anudeep2011.com/)
 - vexorian (vexorian): [vexorian's blog](http://www.vexorian.com/)
 - Ashar Fuadi (fushar): [Fushar's blog](http://fusharblog.com/)
