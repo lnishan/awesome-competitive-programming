@@ -1,7 +1,7 @@
 # Awesome-Competitive-Programming
-A curated list of awesome competitive programming/algorithms/data structures materials
+A curated list of awesome competitive programming / algorithm / data structure materials
 
-## Useful materials
+## Awesome materials
 
 ### List of lists
 A list of curated lists.
@@ -43,7 +43,7 @@ Algorithm / Data structure implementations.
 [soulmachine/acm-cheat-sheet (Chinese)](https://github.com/soulmachine/acm-cheat-sheet)  
 [日月卦長的模板庫 (Chinese)](http://sunmoon-template.blogspot.tw/)
 
-### Language Specifics
+### Language specifics
 This section mainly focuses on C++ and other miscellaneous knowledge.
 
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
@@ -59,7 +59,9 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)
 
-### Sites to Practice
+## Awesome references
+
+### Sites to practice
 Good online judges to practice.
 
 - [Codeforces](http://codeforces.com/)
@@ -73,7 +75,7 @@ Good online judges to practice.
 - [UVa](https://uva.onlinejudge.org/) (Practice with [uHunt](http://uhunt.felix-halim.net/id/13568) is strongly advised)
 - [Project Euler](https://projecteuler.net/)
 
-#### Problem Classifiers
+#### Problem classifiers
 Sites/Pages classifying programming problems.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
@@ -104,8 +106,9 @@ Sites/Pages classifying programming problems.
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
 
-## Social Media
-(I kind of feel like a stalker while making this list ...)
+## Social media
+Meet the god-like programmers!  
+(I kind of feel like a stalker while making this list xD)
 
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
@@ -122,7 +125,7 @@ Sites/Pages classifying programming problems.
 - Yuhao Du (TooDifficuIt): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
 
 ### Team Wikis
-- Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/#team-trainings)
+- Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
 
 ### Youtube and Livestreams
 - [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw)
