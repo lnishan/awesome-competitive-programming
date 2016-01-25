@@ -1,15 +1,17 @@
 # Awesome-Competitive-Programming
-A curated list of awesome competitive programming materials.
+A curated list of awesome competitive programming/algorithms/data structures materials
 
 ## Useful materials
 
 ### List of lists
 A list of curated lists.  
+
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 
 ### Generic
-Sites covering a wide array of topics.  
+Sites covering a broad range of topics.  
+
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
@@ -25,6 +27,7 @@ Sites covering a wide array of topics.
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.  
+
 - [Data Structures and Algorithms in C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
 - [Stanford University ACM Team Notebook (2013-14)](http://stanford.edu/~liszt90/acm/notebook.html)
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
@@ -41,7 +44,8 @@ Algorithm / Data structure implementations.
 [日月卦長的模板庫 (Chinese)](http://sunmoon-template.blogspot.tw/)
 
 ### Problem Classifiers
-Sites classifying programming problems.
+Sites classifying programming problems.  
+
 - [A2 Online Judge](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
 - [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
@@ -50,10 +54,12 @@ Sites classifying programming problems.
 
 ### Language Specifics
 This section mainly focuses on C++ and other miscellaneous knowledge.  
+
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
 [Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
 - [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)
 - [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643)
+- [What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
 [C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
@@ -65,7 +71,8 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 
 
 ## Social Media
-(I kind of feel like a stalker while making this list ...) 
+(I kind of feel like a stalker while making this list ...)  
+
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
 - Petr Mitrichev (Petr): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
