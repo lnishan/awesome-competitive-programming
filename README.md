@@ -3,9 +3,10 @@ A curated list of competitive programming (CP) / algorithms / data structures re
 
 ## Useful resources
 
-### Generic / Lists of lists
-Sorted from easiest to hardest,
+### List of lists
+I believe these resources covered almost all the topics you'll see in competitive programming.
 
+Sorted from easiest to hardest,
 - [CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
 - [建國中學資訊科培訓 (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)
 - [数据结构与算法/leetcode/lintcode题解 tutorials (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)
@@ -22,7 +23,6 @@ Sorted from easiest to hardest,
 
 ### Implementations / Notebooks
 Listed in no particular order,
-
 - [Data Structures and Algorithms in C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
 - [Stanford University ACM Team Notebook (2013-14)](http://stanford.edu/~liszt90/acm/notebook.html)
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
@@ -40,9 +40,23 @@ Listed in no particular order,
 
 ### Problem Classifiers
 Again listed in no particular order,
-
 - [A2 Online Judge](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
 - [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
 - [Hackerrank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
+
+### Language Specifics
+This section mainly focuses on C++ and other misc. knowlege.
+Sorted from easiest to hardest,
+- [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
+[Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
+- [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643)
+- [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
+[C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)
+- [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
+- [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)
+- [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
+- [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)
