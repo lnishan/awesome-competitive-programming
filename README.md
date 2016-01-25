@@ -8,9 +8,10 @@ A list of curated lists.
 
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+- [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)
 
 ### Generic
-Sites covering a broad range of topics.
+Sites/Pages covering a broad range of topics.
 
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
