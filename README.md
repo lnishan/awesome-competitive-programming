@@ -1,7 +1,7 @@
 # Awesome-Competitive-Programming
 A curated list of awesome competitive programming materials.
 
-## Useful resources
+## Useful materials
 
 ### List of lists
 A list of curated lists.  
@@ -77,6 +77,7 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - LiJie Chen (WJMZBMR): [WJMZBMR (Chinese)](http://wjmzbmr.com/)
 - Huang I-Wen (dreamoon): [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/)
 - Po-Jui Chen (a00012025): [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/)
+- Shiang-Yun Yang (morris1028): [Morris' Blog (Chinese)](http://morris821028.github.io/)
 - Yuhao Du (TooDifficuIt): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
 
 ### Team Wikis
