@@ -1,10 +1,10 @@
-# CP-Resources
-A curated list of competitive programming (CP) / algorithms / data structures resources.
+# Awesome-Competitive-Programming
+A curated list of awesome competitive programming materials.
 
 ## Useful resources
 
 ### Generic / List of lists
-I believe these resources covered almost all the topics you'll see in competitive programming.
+A list of sites with great materials. You'll find almost all the topics with regard to competitive programming in these places.
 
 Sorted from easiest to hardest,
 - [CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
