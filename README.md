@@ -12,7 +12,7 @@ A list of curated lists.
 Sites covering a wide array of topics.  
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
-- [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
+- [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)
 - [PEGWiki (Much better than Wikipedia)](http://wcipeg.com/wiki/Special:AllPages)
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)
@@ -96,6 +96,6 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4)
 - [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri)
 - [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho)
-- [Thanh Trung Nguyen(I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen)
+- [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen)
 - [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti)
 - [Staven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao)
