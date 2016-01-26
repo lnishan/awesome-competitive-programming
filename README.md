@@ -6,6 +6,7 @@ A curated list of awesome competitive programming / algorithm / data structure m
 ### List of lists
 A list of curated lists.
 
+- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 - [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)
