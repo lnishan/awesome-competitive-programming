@@ -143,6 +143,8 @@ Great people to follow.
 - [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek)
 - [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi)
 - [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2)
+- [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov)
+- [Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko)
 - [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4)
 - [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri)
 - [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho)
@@ -150,7 +152,3 @@ Great people to follow.
 - [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti)
 - [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao)
 - [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V)
-
-
-
-
