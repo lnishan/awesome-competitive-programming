@@ -147,4 +147,4 @@ Great people to follow.
 - [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho)
 - [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen)
 - [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti)
-- [Staven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao)
+- [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao)
