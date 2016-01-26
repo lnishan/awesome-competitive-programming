@@ -96,10 +96,10 @@ Sites / Pages classifying programming problems.
 - [算法艺术与信息学竞赛 (Chinese)](http://www.books.com.tw/products/CN10672273), by 劉汝佳, 黃亮
 
 #### Books for algorithms
-- [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Cormen, Leiserson, Rivest, and Stein
-- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Kleinberg and Tardos
-- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Skiena
-- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Sedgewick and Wayne
+- [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos
+- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena
+- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne
 
 ### Sites to ask questions
 - [Codeforces](http://codeforces.com/)
