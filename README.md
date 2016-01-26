@@ -75,6 +75,7 @@ Good online judges to practice.
 - [PKU OJ](http://poj.org/)
 - [UVa](https://uva.onlinejudge.org/) (Practice with [uHunt](http://uhunt.felix-halim.net/id/13568) is strongly advised)
 - [Project Euler](https://projecteuler.net/)
+- [Hackerearth](https://www.hackerearth.com/)
 
 #### Problem classifiers
 Sites / Pages classifying programming problems.
@@ -148,3 +149,8 @@ Great people to follow.
 - [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen)
 - [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti)
 - [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao)
+- [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V)
+
+
+
+
