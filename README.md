@@ -14,7 +14,9 @@ A list of curated lists.
 ### Generic
 Sites / Pages covering a broad range of topics.
 
-- [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- [MAXimal :: algo (E-Maxx) (Russian)](http://e-maxx.ru/algo/)  
+[Main Page - E-Maxx Algorithms (English)](http://e-maxx-eng.github.io/)
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)
@@ -23,16 +25,15 @@ Sites / Pages covering a broad range of topics.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)
-- [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://github.com/oeddyo/algorithm/tree/master/resources/%E7%89%9B%E4%BA%BA%E8%B0%88ACM%E7%BB%8F%E9%AA%8C(%E5%8C%85%E6%8B%AC%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E8%AE%BA%E6%96%87)/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E8%AE%BA%E6%96%87)
-- [MAXimal :: algo (E-Maxx) (Russian)](http://e-maxx.ru/algo/)  
-[Main Page - E-Maxx Algorithms (English)](http://e-maxx-eng.github.io/)
+- [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.
 
 - [Data Structures and Algorithms in C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
 - [Stanford University ACM Team Notebook (2013-14)](http://stanford.edu/~liszt90/acm/notebook.html)
-- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
+- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)
+- [igor's code archive](http://shygypsy.com/tools/)
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)
 - [bobogei81123/bcw_codebook (Chinese)](https://github.com/bobogei81123/bcw_codebook)
 - [ACM-Obsidian/acm-template (Chinese)](https://github.com/ACM-Obsidian/acm-template)
@@ -40,7 +41,7 @@ Algorithm / Data structure implementations.
 [BrockCSC/acm-icpc](https://github.com/BrockCSC/acm-icpc)  
 [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 [t3nsor/codebook](https://github.com/t3nsor/codebook)  
-[marioyc/ACM-ICPC-Library (PT)](https://github.com/marioyc/ACM-ICPC-Library)  
+[marioyc/ACM-ICPC-Library (Spanish)](https://github.com/marioyc/ACM-ICPC-Library)  
 [EnigmaHuang/ACM-ICPC-Algorithm (Chinese)](https://github.com/EnigmaHuang/ACM-ICPC-Algorithm)  
 [soulmachine/acm-cheat-sheet (Chinese)](https://github.com/soulmachine/acm-cheat-sheet)  
 [日月卦長的模板庫 (Chinese)](http://sunmoon-template.blogspot.tw/)
@@ -141,10 +142,10 @@ Meet the god-like people!
 ### Quora
 Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers))
 
-Awesome people to follow (Too many people to list, separated by commas and in groups of 3 thus):  
+Awesome people to follow (Too many people to list, separated by commas and in groups of 3's thus):  
 [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek), 
 [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi), 
-[Jonathan Paulson(jonathanpaulson)](https://www.quora.com/profile/Joshua-Pan-1),   
+[Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Joshua-Pan-1),   
 [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2), 
 [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov), 
 [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k),   
