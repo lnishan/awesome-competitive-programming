@@ -31,20 +31,20 @@ Sites / Pages covering a broad range of topics.
 Algorithm / Data structure implementations.
 
 - [Data Structures and Algorithms in C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
-- [Stanford University ACM Team Notebook (2013-14)](http://stanford.edu/~liszt90/acm/notebook.html)
+- [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)
+- [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)
 - [igor's code archive](http://shygypsy.com/tools/)
+- [tzupengwang/PECaveros](https://github.com/tzupengwang/PECaveros)
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)
 - [bobogei81123/bcw_codebook (Chinese)](https://github.com/bobogei81123/bcw_codebook)
 - [ACM-Obsidian/acm-template (Chinese)](https://github.com/ACM-Obsidian/acm-template)
 - Some other notebooks:  
 [BrockCSC/acm-icpc](https://github.com/BrockCSC/acm-icpc)  
-[foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 [t3nsor/codebook](https://github.com/t3nsor/codebook)  
 [marioyc/ACM-ICPC-Library (Spanish)](https://github.com/marioyc/ACM-ICPC-Library)  
 [EnigmaHuang/ACM-ICPC-Algorithm (Chinese)](https://github.com/EnigmaHuang/ACM-ICPC-Algorithm)  
 [soulmachine/acm-cheat-sheet (Chinese)](https://github.com/soulmachine/acm-cheat-sheet)  
-[日月卦長的模板庫 (Chinese)](http://sunmoon-template.blogspot.tw/)
 
 ### Language specifics
 This section mainly focuses on C++ and other miscellaneous knowledge.
