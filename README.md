@@ -1,11 +1,22 @@
 # Awesome-Competitive-Programming
-A curated list of awesome competitive programming / algorithm / data structure materials
+A curated list of awesome competitive programming / algorithm / data structure materials.  
+
+*This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
+For the time being I'm still looking to improve on the current contents before submitting a PR.*
+
+*Please visit [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding), if you would like to see awesome materials categorized by problem topics.*
+
+
+## Contributing
+Please kindly refer to [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md)
+
 
 ## Awesome materials
 
 ### List of lists
 A list of curated lists.
 
+- [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)
 - [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
@@ -62,6 +73,7 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)
 
+
 ## Awesome references
 
 ### Sites to practice
@@ -111,8 +123,7 @@ Sites / Pages classifying programming problems.
 
 
 ## Social media
-Meet the god-like people!  
-(I kind of feel like a stalker while making this list xD)
+Meet the god-like people!
 
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
