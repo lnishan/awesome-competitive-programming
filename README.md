@@ -11,7 +11,7 @@ For the time being I'm still looking to improve on the current contents before s
 Please kindly refer to [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md)
 
 
-## Awesome materials
+## Awesome reference materials
 
 ### List of lists
 A list of curated lists.
@@ -28,8 +28,6 @@ Sites / Pages covering a broad range of topics.
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [MAXimal :: algo (E-Maxx) (Russian)](http://e-maxx.ru/algo/)  
 [Main Page - E-Maxx Algorithms (English)](http://e-maxx-eng.github.io/)
-- [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
-- [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)
 - [PEGWiki (Much better than Wikipedia)](http://wcipeg.com/wiki/Special:AllPages)
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)
@@ -37,6 +35,7 @@ Sites / Pages covering a broad range of topics.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)
 - [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)
+
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.
@@ -74,7 +73,14 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)
 
 
-## Awesome references
+## Awesome learning materials
+
+### Course
+It's highly recommended to begin your competitive programming journey through these awesome courses!
+
+- [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
+- [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
+- [NCTU DCP4631: Problem Solving and Programming Techinques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
 
 ### Sites to practice
 Good online judges to practice.
