@@ -11,6 +11,26 @@ For the time being I'm still looking to improve on the current contents before s
 Please kindly refer to [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md)
 
 
+## Table of contents
+* [Awesome reference materials](https://github.com/lnishan/awesome-competitive-programming#awesome-reference-materials)
+    * [List of lists](https://github.com/lnishan/awesome-competitive-programming#list-of-lists)
+    * [Generic](https://github.com/lnishan/awesome-competitive-programming#generic)
+    * [Implementations / Notebooks](https://github.com/lnishan/awesome-competitive-programming#implementations--notebooks)
+    * [Language specifics](https://github.com/lnishan/awesome-competitive-programming#language-specifics)
+* [Awesome learning materials](https://github.com/lnishan/awesome-competitive-programming#awesome-learning-materials)
+    * [Open courses](https://github.com/lnishan/awesome-competitive-programming#open-courses)
+    * [Sites to practice](https://github.com/lnishan/awesome-competitive-programming#sites-to-practice)
+    * [Problem classifiers](https://github.com/lnishan/awesome-competitive-programming#problem-classifiers)
+    * [Books (some taken from USACO)](https://github.com/lnishan/awesome-competitive-programming#books-some-taken-from-usaco)
+        * [Books for algorithms](https://github.com/lnishan/awesome-competitive-programming#books-for-algorithms)
+    * [Sites to ask questions](https://github.com/lnishan/awesome-competitive-programming#sites-to-ask-questions)
+* [Social media](https://github.com/lnishan/awesome-competitive-programming#social-media)
+	* [Blogs](https://github.com/lnishan/awesome-competitive-programming#blogs)
+	* [Team Wikis](https://github.com/lnishan/awesome-competitive-programming#team-wikis)
+	* [Youtube and Livestreams](https://github.com/lnishan/awesome-competitive-programming#youtube-and-livestreams)
+	* [Quora](https://github.com/lnishan/awesome-competitive-programming#quora)
+
+
 ## Awesome reference materials
 
 ### List of lists
@@ -44,17 +64,10 @@ Algorithm / Data structure implementations.
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)
-- [igor's code archive](http://shygypsy.com/tools/)
 - [tzupengwang/PECaveros](https://github.com/tzupengwang/PECaveros)
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)
-- [bobogei81123/bcw_codebook (Chinese)](https://github.com/bobogei81123/bcw_codebook)
 - [ACM-Obsidian/acm-template (Chinese)](https://github.com/ACM-Obsidian/acm-template)
-- Some other notebooks:  
-[BrockCSC/acm-icpc](https://github.com/BrockCSC/acm-icpc)  
-[t3nsor/codebook](https://github.com/t3nsor/codebook)  
-[marioyc/ACM-ICPC-Library (Spanish)](https://github.com/marioyc/ACM-ICPC-Library)  
-[EnigmaHuang/ACM-ICPC-Algorithm (Chinese)](https://github.com/EnigmaHuang/ACM-ICPC-Algorithm)  
-[soulmachine/acm-cheat-sheet (Chinese)](https://github.com/soulmachine/acm-cheat-sheet)  
+- [igor's code archive](http://shygypsy.com/tools/)
 
 ### Language specifics
 This section mainly focuses on C++ and other miscellaneous knowledge.
@@ -75,7 +88,7 @@ This section mainly focuses on C++ and other miscellaneous knowledge.
 
 ## Awesome learning materials
 
-### Course
+### Open courses
 It's highly recommended to begin your competitive programming journey through these awesome courses!
 
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
