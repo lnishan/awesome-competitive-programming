@@ -8,7 +8,7 @@ For the time being I'm still looking to improve on the current contents before s
 
 
 ## Contributing
-Please kindly refer to [CONTRIBUTING.md](blob/master/CONTRIBUTING.md)
+Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 ## Table of contents
