@@ -8,27 +8,27 @@ For the time being I'm still looking to improve on the current contents before s
 
 
 ## Contributing
-Please kindly refer to [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md)
+Please kindly refer to [CONTRIBUTING.md](blob/master/CONTRIBUTING.md)
 
 
 ## Table of contents
-* [Awesome reference materials](https://github.com/lnishan/awesome-competitive-programming#awesome-reference-materials)
-    * [List of lists](https://github.com/lnishan/awesome-competitive-programming#list-of-lists)
-    * [Generic](https://github.com/lnishan/awesome-competitive-programming#generic)
-    * [Implementations / Notebooks](https://github.com/lnishan/awesome-competitive-programming#implementations--notebooks)
-    * [Language specifics](https://github.com/lnishan/awesome-competitive-programming#language-specifics)
-* [Awesome learning materials](https://github.com/lnishan/awesome-competitive-programming#awesome-learning-materials)
-    * [Open courses](https://github.com/lnishan/awesome-competitive-programming#open-courses)
-    * [Sites to practice](https://github.com/lnishan/awesome-competitive-programming#sites-to-practice)
-    * [Problem classifiers](https://github.com/lnishan/awesome-competitive-programming#problem-classifiers)
-    * [Books (some taken from USACO)](https://github.com/lnishan/awesome-competitive-programming#books-some-taken-from-usaco)
-        * [Books for algorithms](https://github.com/lnishan/awesome-competitive-programming#books-for-algorithms)
-    * [Sites to ask questions](https://github.com/lnishan/awesome-competitive-programming#sites-to-ask-questions)
-* [Social media](https://github.com/lnishan/awesome-competitive-programming#social-media)
-	* [Blogs](https://github.com/lnishan/awesome-competitive-programming#blogs)
-	* [Team Wikis](https://github.com/lnishan/awesome-competitive-programming#team-wikis)
-	* [Youtube and Livestreams](https://github.com/lnishan/awesome-competitive-programming#youtube-and-livestreams)
-	* [Quora](https://github.com/lnishan/awesome-competitive-programming#quora)
+* [Awesome reference materials](#awesome-reference-materials)
+    * [List of lists](#list-of-lists)
+    * [Generic](#generic)
+    * [Implementations / Notebooks](#implementations--notebooks)
+    * [Language specifics](#language-specifics)
+* [Awesome learning materials](#awesome-learning-materials)
+    * [Open courses](#open-courses)
+    * [Sites to practice](#sites-to-practice)
+    * [Problem classifiers](#problem-classifiers)
+    * [Books (some taken from USACO)](#books-some-taken-from-usaco)
+        * [Books for algorithms](#books-for-algorithms)
+    * [Sites to ask questions](#sites-to-ask-questions)
+* [Social media](#social-media)
+	* [Blogs](#blogs)
+	* [Team Wikis](#team-wikis)
+	* [Youtube and Livestreams](#youtube-and-livestreams)
+	* [Quora](#quora)
 
 
 ## Awesome reference materials
@@ -55,7 +55,6 @@ Sites / Pages covering a broad range of topics.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)
 - [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)
-
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.
@@ -103,7 +102,7 @@ Good online judges to practice.
 - [CodeChef](https://www.codechef.com/)
 - [SPOJ](http://www.spoj.com/)
 - [Timus](http://acm.timus.ru/)
-- [sgu](http://acm.sgu.ru/)
+- [SGU](http://acm.sgu.ru/)
 - [HackerRank](https://www.hackerrank.com)
 - [PKU OJ](http://poj.org/)
 - [UVa](https://uva.onlinejudge.org/) (Practice with [uHunt](http://uhunt.felix-halim.net/id/13568) is strongly advised)
