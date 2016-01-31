@@ -121,8 +121,8 @@ Sites / Pages classifying programming problems.
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
 #### Contest calendars
-
 Calendars for impending programming contests.
+
 - [Programming Contest Calendar | HackerRank](https://www.hackerrank.com/calendar)
 - [clist.by](http://clist.by/)
 - [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
