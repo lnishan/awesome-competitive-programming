@@ -20,7 +20,8 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 * [Awesome learning materials](#awesome-learning-materials)
     * [Open courses](#open-courses)
     * [Sites to practice](#sites-to-practice)
-    * [Problem classifiers](#problem-classifiers)
+        * [Problem classifiers](#problem-classifiers)
+        * [Contest calendars](#contest-calendars)
     * [Books (some taken from USACO)](#books-some-taken-from-usaco)
         * [Books for algorithms](#books-for-algorithms)
     * [Sites to ask questions](#sites-to-ask-questions)
@@ -118,6 +119,14 @@ Sites / Pages classifying programming problems.
 - [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
+
+#### Contest calendars
+
+Calendars for impending programming contests.
+- [Programming Contest Calendar | HackerRank](https://www.hackerrank.com/calendar)
+- [clist.by](http://clist.by/)
+- [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
+- [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
 ### Books (some taken from USACO)
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim
