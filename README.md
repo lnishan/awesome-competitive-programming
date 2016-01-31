@@ -119,6 +119,7 @@ Sites / Pages classifying programming problems.
 - [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
+- [Uri Online Judge (https://www.urionlinejudge.com.br/)]
 
 #### Contest calendars
 Calendars for impending programming contests.
