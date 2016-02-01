@@ -8,14 +8,14 @@ For the time being I'm still looking to improve on the current contents before s
 
 
 ## Contributing
-Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md)
+Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 
 ## Table of contents
-* [Awesome reference materials](#awesome-reference-materials)
+* [Awesome tutorial articles](#awesome-tutorial-articles)
     * [List of lists](#list-of-lists)
     * [Generic](#generic)
-    * [Implementations / Notebooks](#implementations--notebooks)
+        * [Implementations / Notebooks](#implementations--notebooks)
     * [Language specifics](#language-specifics)
 * [Awesome learning materials](#awesome-learning-materials)
     * [Open courses](#open-courses)
@@ -32,19 +32,19 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 	* [Quora](#quora)
 
 
-## Awesome reference materials
+## Awesome tutorial articles
 
 ### List of lists
 A list of curated lists.
 
 - [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
-A great curated list of awesome resources classified by problem topics. It includes links to great learning materials and problems to practice for each respective topic. It is also featured on the official awesome list.
+A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
-A sizable collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, Mob and a lot more.
+A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, Mob and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
-One of the most complete list of competitive programming resources out there. A must-have in your browser bookmark.
+A very complete list of competitive programming resources. A must-have in your browser bookmark.
 - [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)  
-This page introduced the competitive programming scene very thoroughly and referenced great websites.
+This page introduced the competitive programming scene thoroughly and referenced some great websites.
 
 ### Generic
 Sites / Pages covering a broad range of topics.
@@ -52,10 +52,10 @@ Sites / Pages covering a broad range of topics.
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
-Emaxx is widely used in the Russian-speaking competitive programming scene. The English version only translated a small fraction of the original site, but Google Translate of Russian would work okay.
+Emaxx is widely used in the Russian-speaking competitive programming scene. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)  
-Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary website for algorithm courses.
-- [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)  
+Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
+- [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
 PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
 A set of videos explaining LeetCode problems.
@@ -64,28 +64,36 @@ This site offers tutorials on popular interview topics.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
 Good lecture materials made by CKHS Infor Club.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
-演算法筆記 is one of the most popular tutorial website among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topis.
+演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topis.
 - [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 
-### Implementations / Notebooks
-Algorithm / Data structure implementations.
+#### Implementations / Notebooks
+Algorithm / Data structure implementations.  
+It is advised that you write your own ones before looking at others'.
 
-- [Data Structures and Algorithms in JAVA and C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
-- [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)
-- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)
-- [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)
-- [tzupengwang/PECaveros](https://github.com/tzupengwang/PECaveros)
-- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)
-- [ACM-Obsidian/acm-template (Chinese)](https://github.com/ACM-Obsidian/acm-template)
-- [igor's code archive](http://shygypsy.com/tools/)
+- [Data Structures and Algorithms in Java and C++](https://sites.google.com/site/indy256/)  
+This site contains plenty of implementations for algorithms and data structures.
+- [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
+Stanford's team notebook is well maintained and the codes within are high-quality.
+- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
+One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
+- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)
+A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the ACM-ICPC World Final 2016. It has many nice implmentations for advanced data structures and algorithms.
+- [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
+A notebook with some advanced data structures and algorithms.
+- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
+A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here remain relevant.
+- [igor's code archive](http://shygypsy.com/tools/)  
+A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.
 
 ### Language specifics
 This section mainly focuses on languages and other miscellaneous knowledge.
 
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
 [Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
-- [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)
+- [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)  
+Learn how C++ I/O functions interact and function, and how that matters (Test results included).
 - [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643)
 - [What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
