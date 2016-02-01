@@ -38,7 +38,6 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 A list of curated lists.
 
 - [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)
-- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 - [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)
@@ -117,6 +116,7 @@ Sites / Pages classifying programming problems.
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
 - [UVa Online Judge (CP, CP2, CP3)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 - [Codeforces Tags (DP for instance)](http://codeforces.com/problemset/tags/dp)
+- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
