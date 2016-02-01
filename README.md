@@ -4,7 +4,7 @@ A curated list of awesome competitive programming / algorithm / data structure m
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
 
-*Please visit [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding), if you would like to see awesome materials categorized by problem topics.*
+*Please visit [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding), if you would like to see awesome materials classified by topics.*
 
 
 ## Contributing
@@ -37,29 +37,41 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 ### List of lists
 A list of curated lists.
 
-- [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)
-- [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)
-- [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
-- [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)
+- [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
+A great curated list of awesome resources classified by problem topics. It includes links to great learning materials and problems to practice for each respective topic. It is also featured on the official awesome list.
+- [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
+A sizable collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, Mob and a lot more.
+- [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
+One of the most complete list of competitive programming resources out there. A must-have in your browser bookmark.
+- [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)  
+This page introduced the competitive programming scene very thoroughly and referenced great websites.
 
 ### Generic
 Sites / Pages covering a broad range of topics.
 
-- [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-- [MAXimal :: algo (E-Maxx) (Russian)](http://e-maxx.ru/algo/)  
-[Main Page - E-Maxx Algorithms (English)](http://e-maxx-eng.github.io/)
-- [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)
-- [PEGWiki (Much better than Wikipedia)](http://wcipeg.com/wiki/Special:AllPages)
-- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)
+- [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
+This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
+- [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
+Emaxx is widely used in the Russian-speaking competitive programming scene. The English version only translated a small fraction of the original site, but Google Translate of Russian would work okay.
+- [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)  
+Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary website for algorithm courses.
+- [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)  
+PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
+- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
+A set of videos explaining LeetCode problems.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)
-- [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)
-- [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)
-- [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)
+This site offers tutorials on popular interview topics.
+- [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
+Good lecture materials made by CKHS Infor Club.
+- [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
+演算法筆記 is one of the most popular tutorial website for the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topis.
+- [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)  
+These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.
 
-- [Data Structures and Algorithms in C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
+- [Data Structures and Algorithms in JAVA and C++ - Algorithms and Data Structures](https://sites.google.com/site/indy256/algo_cpp)
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)
@@ -69,7 +81,7 @@ Algorithm / Data structure implementations.
 - [igor's code archive](http://shygypsy.com/tools/)
 
 ### Language specifics
-This section mainly focuses on C++ and other miscellaneous knowledge.
+This section mainly focuses on languages and other miscellaneous knowledge.
 
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
 [Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
@@ -98,7 +110,8 @@ It's highly recommended to begin your competitive programming journey through th
 Good online judges to practice.
 
 - [Codeforces](http://codeforces.com/)
-- [TopCoder](https://www.topcoder.com/)
+- [TopCoder](https://www.topcoder.com/)  
+Topcoder has been around since 2001. It's considered to be one of the most prestigious organizations when it comes to programming contests.
 - [CodeChef](https://www.codechef.com/)
 - [SPOJ](http://www.spoj.com/)
 - [Timus](http://acm.timus.ru/)
