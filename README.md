@@ -59,12 +59,12 @@ Geeksforgeeks has a large amount of nicely written articles on different topics.
 PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
 A set of videos explaining LeetCode problems.
-- [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)
+- [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
 This site offers tutorials on popular interview topics.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
 Good lecture materials made by CKHS Infor Club.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
-演算法筆記 is one of the most popular tutorial website for the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topis.
+演算法筆記 is one of the most popular tutorial website among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topis.
 - [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 
