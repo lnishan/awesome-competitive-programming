@@ -64,7 +64,7 @@ This site offers tutorials on popular interview topics.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
 Good lecture materials made by CKHS Infor Club.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
-演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topis.
+演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topics.
 - [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 
@@ -79,7 +79,7 @@ Stanford's team notebook is well maintained and the codes within are high-qualit
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
 - [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)
-A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the ACM-ICPC World Final 2016. It has many nice implmentations for advanced data structures and algorithms.
+A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the ACM-ICPC World Final 2016. It has many nice implementations for advanced data structures and algorithms.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 A notebook with some advanced data structures and algorithms.
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
@@ -120,19 +120,19 @@ It's highly recommended that you begin your competitive programming journey thro
 
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
-- [NCTU DCP4631: Problem Solving and Programming Techinques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
+- [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
 
 ### Sites to practice
 Good online judges / contest platforms to practice.
 
 - [Codeforces](http://codeforces.com/)  
-Codeforces is one of the most popular contest platforms in the world. It was created and is maintained by a group of competitive programmers from Saratov State University led by Mikhail Mirzayanov. Regular contests are held quite It is home to numerous awesome original problems. Best of all, every contest provides helpful tutorials (written by the problem setters themselves). In addition, there are many warm-hearted Codeforces members who would kindly answer your questions if you have any. In short, one would learn and improve tremendously here.
+Codeforces is one of the most popular contest platforms in the world. It was created and is maintained by a group of competitive programmers from Saratov State University led by Mikhail Mirzayanov. Regular contests are held quite frequently. It is home to numerous awesome original problems. Best of all, every contest provides helpful tutorials (written by the problem setters themselves). In addition, there are many warm-hearted Codeforces members who would kindly answer your questions if you have any. In short, one would learn and improve tremendously here.
 - [TopCoder](https://www.topcoder.com/)  
-TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more difficult (and more interesting to some) than others. Hence, it draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discuessed event.
+TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more difficult (and more interesting to some) than others. Hence, it draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discussed event.
 - [CodeChef](https://www.codechef.com/)  
 CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
 - [SPOJ](http://www.spoj.com/)  
-The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its commmunity of problem setters or are taken from previous programming contests, some of which are great problems for practice (Refer to problem classifiers below). SPOJ also allows advanced users to organize contests under their own rules.
+The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or are taken from previous programming contests, some of which are great problems for practice (Refer to problem classifiers below). SPOJ also allows advanced users to organize contests under their own rules.
 - [Timus](http://acm.timus.ru/)  
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
