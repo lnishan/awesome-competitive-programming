@@ -125,16 +125,19 @@ It's highly recommended that you begin your competitive programming journey thro
 ### Sites to practice
 Good online judges / contest platforms to practice.
 
-- [Codeforces](http://codeforces.com/)
+- [Codeforces](http://codeforces.com/)  
+Codeforces is one of the most popular contest platforms in the world. It was created and is maintained by a group of competitive programmers from Saratov State University led by Mikhail Mirzayanov. Regular contests are held quite It is home to numerous awesome original problems. Best of all, every contest provides helpful tutorials (written by the problem setters themselves). In addition, there are many warm-hearted Codeforces members who would kindly answer your questions if you have any. In short, one would learn and improve tremendously here.
 - [TopCoder](https://www.topcoder.com/)  
-Topcoder has been around since 2001. It's considered to be one of the most prestigious organizations when it comes to programming contests.
-- [CodeChef](https://www.codechef.com/)
+TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more difficult (and more interesting to some) than others. Hence, it draws elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discuessed event.
+- [CodeChef](https://www.codechef.com/)  
+CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
 - [SPOJ](http://www.spoj.com/)
 - [Timus](http://acm.timus.ru/)
 - [SGU](http://acm.sgu.ru/)
 - [HackerRank](https://www.hackerrank.com)
 - [PKU OJ](http://poj.org/)
-- [UVa](https://uva.onlinejudge.org/) (Practice with [uHunt](http://uhunt.felix-halim.net/id/13568) is strongly advised)
+- [UVa](https://uva.onlinejudge.org/)  
+An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0).
 - [Project Euler](https://projecteuler.net/)
 - [Hackerearth](https://www.hackerearth.com/)
 
