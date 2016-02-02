@@ -141,11 +141,11 @@ TopCoder has been around since 2001. Rich in history, It's considered to be one 
 - [CodeChef](https://www.codechef.com/)  
 CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
 - [SPOJ](http://www.spoj.com/)  
-The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or are taken from previous programming contests, some of which are great problems for practice (Refer to problem classifiers below). SPOJ also allows advanced users to organize contests under their own rules.
+The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (Refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules.
 - [Timus](http://acm.timus.ru/)  
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
-SGU is an old-school online judge maintained by Saratov State University. Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
+SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
 - [HackerRank](https://www.hackerrank.com)  
 HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages (including, but not limited to, Java, C++, PHP, SQL) and span multiple computer science domains.
 - [POJ](http://poj.org/)  
