@@ -40,7 +40,7 @@ A list of curated lists.
 - [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
 A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
-A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, Mob and a lot more.
+A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
 - [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)  
@@ -91,31 +91,39 @@ A good notebook by Igor Naverniouk who is currently a software engineer at Googl
 This section mainly focuses on languages and other miscellaneous knowledge.
 
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
-[Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
+[Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)  
+Learn basic usage of C++ standard template libraries.
 - [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)  
 Learn how C++ I/O functions interact and function, and how that matters (Test results included).
-- [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643)
-- [What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)
+- [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643)  
+[What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)
+An enormous amount of C++ tricks for competitive programming. Note that some should be used with care.
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
-[C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)
-- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
-- [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
-- [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)
-- [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)
-- [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)
+[C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)  
+Detailed introductions on the extra data structure implementations by GNU C++.
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)  
+A huge compiled list of cool bit manipulation tricks.
+- [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
+This post teaches everything you need to know about floating point numbers.
+- [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)  
+Similar post on floating point numbers.
+- [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)  
+A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++.
+- [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)  
+A detailed side-by-side reference sheet. This is very useful for a C++ programmer who wants to learn other languages (like Java).
 
 
 ## Awesome learning materials
 
 ### Open courses
-It's highly recommended to begin your competitive programming journey through these awesome courses!
+It's highly recommended that you begin your competitive programming journey through these awesome courses!
 
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
 - [NCTU DCP4631: Problem Solving and Programming Techinques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
 
 ### Sites to practice
-Good online judges to practice.
+Good online judges / contest platforms to practice.
 
 - [Codeforces](http://codeforces.com/)
 - [TopCoder](https://www.topcoder.com/)  
