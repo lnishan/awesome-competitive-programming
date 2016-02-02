@@ -92,25 +92,25 @@ This section mainly focuses on languages and other miscellaneous knowledge.
 
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
 [Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)  
-Learn basic usage of C++ standard template libraries.
+Learn how to use basic C++ standard template libraries.
 - [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)  
-Learn how C++ I/O functions interact and function, and how that matters (Test results included).
+Learn more about C++ I/O optimizations.
 - [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643)  
-[What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)
-An enormous amount of C++ tricks for competitive programming. Note that some should be used with care.
+[What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)  
+Plentiful C++ tricks for competitive programming. Note that some should be used with care.
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
 [C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)  
-Detailed introductions on the extra data structure implementations by GNU C++.
+Detailed introductions about the extra data structure implemented in GNU C++.
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)  
 A huge compiled list of cool bit manipulation tricks.
 - [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
-This post teaches everything you need to know about floating point numbers.
+This post teaches everything one needs to know about floating point numbers. A must read especially for geometry topics.
 - [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)  
 Similar post on floating point numbers.
 - [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)  
 A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++.
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)  
-A detailed side-by-side reference sheet. This is very useful for a C++ programmer who wants to learn other languages (like Java).
+A detailed side-by-side reference sheet. This is very helpful for a C++ programmer who wants to learn Java (for BigInteger mostly).
 
 
 ## Awesome learning materials
@@ -128,18 +128,26 @@ Good online judges / contest platforms to practice.
 - [Codeforces](http://codeforces.com/)  
 Codeforces is one of the most popular contest platforms in the world. It was created and is maintained by a group of competitive programmers from Saratov State University led by Mikhail Mirzayanov. Regular contests are held quite It is home to numerous awesome original problems. Best of all, every contest provides helpful tutorials (written by the problem setters themselves). In addition, there are many warm-hearted Codeforces members who would kindly answer your questions if you have any. In short, one would learn and improve tremendously here.
 - [TopCoder](https://www.topcoder.com/)  
-TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more difficult (and more interesting to some) than others. Hence, it draws elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discuessed event.
+TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more difficult (and more interesting to some) than others. Hence, it draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discuessed event.
 - [CodeChef](https://www.codechef.com/)  
 CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
-- [SPOJ](http://www.spoj.com/)
-- [Timus](http://acm.timus.ru/)
-- [SGU](http://acm.sgu.ru/)
-- [HackerRank](https://www.hackerrank.com)
-- [PKU OJ](http://poj.org/)
+- [SPOJ](http://www.spoj.com/)  
+The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its commmunity of problem setters or are taken from previous programming contests, some of which are great problems for practice (Refer to problem classifiers below). SPOJ also allows advanced users to organize contests under their own rules.
+- [Timus](http://acm.timus.ru/)  
+Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
+- [SGU](http://acm.sgu.ru/)  
+SGU is an old-school online judge maintained by Saratov State University. Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
+- [HackerRank](https://www.hackerrank.com)  
+HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages (including, but not limited to, Java, C++, PHP, SQL) and span multiple computer science domains.
+- [POJ](http://poj.org/)  
+POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
 - [UVa](https://uva.onlinejudge.org/)  
-An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0).
-- [Project Euler](https://projecteuler.net/)
+An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
+- [Project Euler](https://projecteuler.net/)  
+There are lots of good math problems on this site. You may also discuss with others on its forum.
 - [Hackerearth](https://www.hackerearth.com/)
+- [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
+Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming contests in Japan.
 
 #### Problem classifiers
 Sites / Pages classifying programming problems.
@@ -165,8 +173,8 @@ Calendars for impending programming contests.
 - [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
 - [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
-- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.books.com.tw/products/0010650143), by 劉汝佳
 - [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
+- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.books.com.tw/products/0010650143), by 劉汝佳
 - [算法艺术与信息学竞赛 (Chinese)](http://www.books.com.tw/products/CN10672273), by 劉汝佳, 黃亮
 
 #### Books for algorithms
