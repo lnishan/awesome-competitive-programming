@@ -1,5 +1,11 @@
 # Awesome-Competitive-Programming
-A curated list of awesome competitive programming / algorithm / data structure materials.  
+A curated list of awesome competitive programming / algorithm / data structure materials.
+
+TODO List:
+
+1. New section: Virtual contests (eg. vjudge)
+2. New section: Other useful websites (eg. visualgo)
+3. Better descriptions
 
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
@@ -131,7 +137,7 @@ Good online judges / contest platforms to practice.
 - [Codeforces](http://codeforces.com/)  
 Codeforces is one of the most popular contest platforms in the world. Currently maintained by Saratov State University, it features regular contests and numerous awesome original problems. Every contest provides immediate helpful tutorials. Furthermore, many warm-hearted Codeforces members kindly answers questions on Codeforces. One would indeed learn and improve tremendously here.
 - [TopCoder](https://www.topcoder.com/)  
-TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. It draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discussed event.
+TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. Hence, TopCoder draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discussed event.
 - [CodeChef](https://www.codechef.com/)  
 CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
 - [SPOJ](http://www.spoj.com/)  
