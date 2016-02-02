@@ -43,8 +43,8 @@ A curated list of awesome resources classified by problem topics. It includes gr
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
-- [網站 - 演算法筆記 (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/web.html)  
-This page introduced the competitive programming scene thoroughly and referenced some great websites.
+- [Useful links (Mostly Russian)](http://codeforces.com/blog/entry/512)  
+A compiled list of useful links. Most of which are in Russian.
 
 ### Generic
 Sites / Pages covering a broad range of topics.
@@ -78,7 +78,7 @@ This site contains plenty of implementations for algorithms and data structures.
 Stanford's team notebook is well maintained and the codes within are high-quality.
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
-- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)
+- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)  
 A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the ACM-ICPC World Final 2016. It has many nice implementations for advanced data structures and algorithms.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 A notebook with some advanced data structures and algorithms.
