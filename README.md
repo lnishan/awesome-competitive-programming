@@ -100,9 +100,9 @@ Learn more about C++ I/O optimizations.
 Plentiful C++ tricks for competitive programming. Note that some should be used with care.
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
 [C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)  
-Detailed introductions about the extra data structure implemented in GNU C++.
+Detailed introductions on the extra data structures implemented in GNU C++.
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)  
-A huge compiled list of cool bit manipulation tricks.
+A huge compiled list of bit manipulation tricks.
 - [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
 This post teaches everything one needs to know about floating point numbers. A must read especially for geometry topics.
 - [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)  
@@ -120,7 +120,7 @@ It's highly recommended that you begin your competitive programming journey thro
 
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
 This course offers comprehensive lecture slides and a short list of exercise problems.
-- [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
+- [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  
 Awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
 - [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  
 A course on basic topics featuring good lecture slides.
