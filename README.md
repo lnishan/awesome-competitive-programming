@@ -118,9 +118,12 @@ A detailed side-by-side reference sheet. This is very helpful for a C++ programm
 ### Open courses
 It's highly recommended that you begin your competitive programming journey through these awesome courses!
 
-- [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)
+- [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
+This course offers comprehensive lecture slides and a short list of exercise problems.
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
-- [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
+Awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
+- [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  
+A course on basic topics featuring good lecture slides.
 
 ### Sites to practice
 Good online judges / contest platforms to practice.
@@ -145,12 +148,14 @@ POJ is an online judge maintained by Peking University. It holds a large amount 
 An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
 - [Project Euler](https://projecteuler.net/)  
 There are lots of good math problems on this site. You may also discuss with others on its forum.
-- [Hackerearth](https://www.hackerearth.com/)
+- [Hackerearth](https://www.hackerearth.com/)  
+HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. Its clients include Adobe, Altimetrik, Citrix Systems, InMobi, Symantec and Wipro.
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
 Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming contests in Japan.
 
 #### Problem classifiers
-Sites / Pages classifying programming problems.
+Sites / Pages classifying programming problems.  
+One may select a category (eg. DP) of interest and practice problems on that topic.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
@@ -169,8 +174,10 @@ Calendars for impending programming contests.
 - [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
 ### Books (some taken from USACO)
+A list of recommended books for competitive programming.
+
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
-This book contains a collection of relevant data structures, algorithms, and programming tips.
+This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.
 - [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
 - [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
@@ -192,7 +199,8 @@ This book is often referred to as the "bible" for algorithms and data structures
 
 
 ## Social media
-Meet the god-like people!
+Meet the god-like people!  
+One may learn helpful tips, tutorials and insights from these people :)
 
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
