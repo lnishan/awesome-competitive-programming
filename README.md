@@ -1,16 +1,14 @@
 # Awesome-Competitive-Programming
 A curated list of awesome competitive programming / algorithm / data structure materials.
 
-TODO List:
+TODOs:
 
-1. New section: Virtual contests (eg. vjudge)
-2. New section: Other useful websites (eg. visualgo)
-3. Better descriptions
+1. Better descriptions.
+2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
+3. ICPC News site (eg. snarknews)
 
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
-
-*Please visit [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding), if you would like to see awesome materials classified by topics.*
 
 
 ## Contributing
@@ -18,10 +16,10 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 
 ## Table of contents
-* [Awesome tutorial articles](#awesome-tutorial-articles)
+* [Awesome reference materials](#awesome-reference-materials)
     * [List of lists](#list-of-lists)
     * [Generic](#generic)
-        * [Implementations / Notebooks](#implementations--notebooks)
+    * [Implementations / Notebooks](#implementations--notebooks)
     * [Language specifics](#language-specifics)
 * [Awesome learning materials](#awesome-learning-materials)
     * [Open courses](#open-courses)
@@ -31,6 +29,7 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
     * [Books (some taken from USACO)](#books-some-taken-from-usaco)
         * [Books for algorithms](#books-for-algorithms)
     * [Sites to ask questions](#sites-to-ask-questions)
+    * [Other awesome websites](#other-awesome-websites)
 * [Social media](#social-media)
 	* [Blogs](#blogs)
 	* [Team Wikis](#team-wikis)
@@ -38,7 +37,7 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 	* [Quora](#quora)
 
 
-## Awesome tutorial articles
+## Awesome reference materials
 
 ### List of lists
 A list of curated lists.
@@ -49,12 +48,11 @@ A curated list of awesome resources classified by problem topics. It includes gr
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
-- [Useful links (Mostly Russian)](http://codeforces.com/blog/entry/512)  
-A compiled list of useful links. Most of which are in Russian.
 
 ### Generic
 Sites / Pages covering a broad range of topics.
 
+- [List of lists](#list-of-lists)
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
@@ -67,14 +65,12 @@ PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-
 A set of videos explaining LeetCode problems.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
 This site offers tutorials on popular interview topics.
-- [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
-Good lecture materials made by CKHS Infor Club.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
 演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topics.
 - [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 
-#### Implementations / Notebooks
+### Implementations / Notebooks
 Algorithm / Data structure implementations.  
 It is advised that you write your own ones before looking at others'.
 
@@ -130,6 +126,8 @@ This course offers comprehensive lecture slides and a short list of exercise pro
 Awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
 - [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  
 A course on basic topics featuring good lecture slides.
+- [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
+Good lecture materials made by CKHS Infor Club.
 
 ### Sites to practice
 Good online judges / contest platforms to practice.
@@ -202,6 +200,16 @@ This book is often referred to as the "bible" for algorithms and data structures
 - [Codeforces](http://codeforces.com/)
 - [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
+
+### Other awesome websites
+- [vjudge](http://vjudge.net)  
+This website allows users to create virtual contests with problems from notable problem archives.
+- [BNU Online Judge](http://www.bnuoj.com/v3/)  
+This online judge also allows users to create virtual contests.
+- [visualgo](http://visualgo.net)
+visualgo features a large amount of visualization tools for algorithms and data structures.
+- [Useful links (Mostly Russian)](http://codeforces.com/blog/entry/512)  
+A compiled list of useful links. Most of which are in Russian.
 
 
 ## Social media
