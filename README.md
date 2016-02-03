@@ -202,11 +202,11 @@ This book is often referred to as the "bible" for algorithms and data structures
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
 ### Other awesome websites
-- [vjudge](http://vjudge.net)  
-This website allows users to create virtual contests with problems from notable problem archives.
+- [Virtual Judge (vjudge)](http://vjudge.net)  
+Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives such as: Codeforces, SPOJ, UVa, POJ, Codechef ... etc..
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
-This online judge also allows users to create virtual contests.
-- [visualgo](http://visualgo.net)
+BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
+- [visualgo](http://visualgo.net)  
 visualgo features a large amount of visualization tools for algorithms and data structures.
 - [Useful links (Mostly Russian)](http://codeforces.com/blog/entry/512)  
 A compiled list of useful links. Most of which are in Russian.
