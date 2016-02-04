@@ -61,6 +61,8 @@ Emaxx is widely used in the Russian-speaking competitive programming scene. Only
 Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
 PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
+- [algolist (Russian)](http://algolist.manual.ru/)
+algolist is a website devoted to algorithms of all sorts.
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
 A set of videos explaining LeetCode problems.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
@@ -81,11 +83,11 @@ Stanford's team notebook is well maintained and the codes within are high-qualit
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
 - [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)  
-A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the ACM-ICPC World Final 2016. It has many nice implementations for advanced data structures and algorithms.
+A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. Nice implementations for advanced data structures and algorithms.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 A notebook with some advanced data structures and algorithms.
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
-A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here remain relevant.
+A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant.
 - [igor's code archive](http://shygypsy.com/tools/)  
 A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.
 
@@ -102,7 +104,7 @@ Learn more about C++ I/O optimizations.
 Plentiful C++ tricks for competitive programming. Note that some should be used with care.
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
 [C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)  
-Detailed introductions on the extra data structures implemented in GNU C++.
+Detailed introduction to the extra data structures implemented in GNU C++.
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)  
 A huge compiled list of bit manipulation tricks.
 - [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
@@ -118,7 +120,7 @@ A detailed side-by-side reference sheet. This is very helpful for a C++ programm
 ## Awesome learning materials
 
 ### Open courses
-It's highly recommended that you begin your competitive programming journey through these awesome courses!
+It's highly recommended that you begin your competitive programming journey with these awesome courses!
 
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
 This course offers comprehensive lecture slides and a short list of exercise problems.
@@ -144,22 +146,24 @@ The SPOJ platform is centered around an online judge system. It holds a staggeri
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
 SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
+POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
+- [HDU](http://acm.hdu.edu.cn/)
+HDU is an online judge maintained by Hangzhou Dianzi University. It holds a pretty nice problemset. Users can also run virtual contests on this platform.
+- [UVa](https://uva.onlinejudge.org/)  
+An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
 - [HackerRank](https://www.hackerrank.com)  
 HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages (including, but not limited to, Java, C++, PHP, SQL) and span multiple computer science domains.
 - [POJ](http://poj.org/)  
-POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
-- [UVa](https://uva.onlinejudge.org/)  
-An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
 - [Project Euler](https://projecteuler.net/)  
 There are lots of good math problems on this site. You may also discuss with others on its forum.
 - [Hackerearth](https://www.hackerearth.com/)  
 HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. Its clients include Adobe, Altimetrik, Citrix Systems, InMobi, Symantec and Wipro.
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
-Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming contests in Japan.
+Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan.
 
 #### Problem classifiers
 Sites / Pages classifying programming problems.  
-One may select a category (eg. DP) of interest and practice problems on that topic.
+You can choose a category (eg. DP) of interest and practice problems on that topic.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
@@ -170,7 +174,8 @@ One may select a category (eg. DP) of interest and practice problems on that top
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
 #### Contest calendars
-Calendars for impending programming contests.
+Calendars for impending programming contests.  
+Never miss another contest!
 
 - [Programming Contest Calendar | HackerRank](https://www.hackerrank.com/calendar)
 - [clist.by](http://clist.by/)
@@ -207,14 +212,12 @@ Virtual Judge (vjudge) allows users to create virtual contests with problems fro
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
 BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
 - [visualgo](http://visualgo.net)  
-visualgo features a large amount of visualization tools for algorithms and data structures.
-- [Useful links (Mostly Russian)](http://codeforces.com/blog/entry/512)  
-A compiled list of useful links. Most of which are in Russian.
+visualgo features a large collection of visualization tools for algorithms and data structures.
 
 
 ## Social media
 Meet the god-like people!  
-One may learn helpful tips, tutorials and insights from these people :)
+Learn helpful tips, tutorials and insights from these people :)
 
 ### Blogs
 - [Codeforces blogs](http://codeforces.com/)
