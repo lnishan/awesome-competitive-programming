@@ -146,7 +146,6 @@ The SPOJ platform is centered around an online judge system. It holds a staggeri
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
 SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
-POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
 - [HDU](http://acm.hdu.edu.cn/)  
 HDU is an online judge maintained by Hangzhou Dianzi University. It holds a pretty nice problemset. Users can also run virtual contests on this platform.
 - [UVa](https://uva.onlinejudge.org/)  
@@ -154,6 +153,7 @@ An old-school problem archive / online judge with rich history. Thousands of pro
 - [HackerRank](https://www.hackerrank.com)  
 HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages (including, but not limited to, Java, C++, PHP, SQL) and span multiple computer science domains.
 - [POJ](http://poj.org/)  
+POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
 - [Project Euler](https://projecteuler.net/)  
 There are lots of good math problems on this site. You may also discuss with others on its forum.
 - [Hackerearth](https://www.hackerearth.com/)  
