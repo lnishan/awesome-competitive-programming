@@ -61,7 +61,7 @@ Emaxx is widely used in the Russian-speaking competitive programming scene. Only
 Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
 PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
-- [algolist (Russian)](http://algolist.manual.ru/)
+- [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
 A set of videos explaining LeetCode problems.
@@ -147,7 +147,7 @@ Timus Online Judge is the largest Russian archive of programming problems with a
 - [SGU](http://acm.sgu.ru/)  
 SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
 POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
-- [HDU](http://acm.hdu.edu.cn/)
+- [HDU](http://acm.hdu.edu.cn/)  
 HDU is an online judge maintained by Hangzhou Dianzi University. It holds a pretty nice problemset. Users can also run virtual contests on this platform.
 - [UVa](https://uva.onlinejudge.org/)  
 An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
