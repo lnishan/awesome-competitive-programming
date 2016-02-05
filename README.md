@@ -42,12 +42,12 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 ### List of lists
 A list of curated lists.
 
-- [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
-A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
+- [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
+A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
 
 ### Generic
 Sites / Pages covering a broad range of topics.
@@ -182,7 +182,7 @@ Never miss another contest!
 - [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
 - [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
-### Books (some taken from USACO)
+### Books
 A list of recommended books for competitive programming.
 
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
@@ -202,9 +202,23 @@ This book is often referred to as the "bible" for algorithms and data structures
 - [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne
 
 ### Sites to ask questions
+
 - [Codeforces](http://codeforces.com/)
 - [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
+
+#### Awesome articles and FAQs
+
+- [The 'science' of training in competitive programming](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
+- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog.](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
+
+- [How do I start competitive programming?](https://www.quora.com/How-do-I-start-competitive-programming-5)
+- [How can I become good at competitive programming?](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
+[What is the best strategy to improve my skills in competitive programming in 2-3 months?](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months)  
+[What is a good 6 month plan to start and progress through competitive programming?](https://www.quora.com/What-is-a-good-6-month-plan-to-start-and-progress-through-competitive-programming)
+- [How is competitive programming different from real-life programming?](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
+- [What have you gained from competitive programming?](https://www.quora.com/What-have-you-gained-from-competitive-programming)
+
 
 ### Other awesome websites
 - [Virtual Judge (vjudge)](http://vjudge.net)  
