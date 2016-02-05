@@ -6,6 +6,7 @@ TODOs:
 1. Better descriptions.
 2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
 3. ICPC News site (eg. snarknews)
+4. A short reference sheet
 
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
@@ -26,9 +27,10 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
     * [Sites to practice](#sites-to-practice)
         * [Problem classifiers](#problem-classifiers)
         * [Contest calendars](#contest-calendars)
-    * [Books (some taken from USACO)](#books-some-taken-from-usaco)
+    * [Books](#books)
         * [Books for algorithms](#books-for-algorithms)
     * [Sites to ask questions](#sites-to-ask-questions)
+        * [Awesome articles and FAQs](#awesome-articles-and-faqs)
     * [Other awesome websites](#other-awesome-websites)
 * [Social media](#social-media)
 	* [Blogs](#blogs)
@@ -138,10 +140,12 @@ Good online judges / contest platforms to practice.
 Codeforces is one of the most popular contest platforms in the world. Currently maintained by Saratov State University, it features regular contests and numerous awesome original problems. Every contest provides immediate helpful tutorials. Furthermore, many warm-hearted Codeforces members kindly answers questions on Codeforces. One would indeed learn and improve tremendously here.
 - [TopCoder](https://www.topcoder.com/)  
 TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. Hence, TopCoder draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discussed event.
+- [Google Code Jam](https://code.google.com/codejam)  
+Google Code Jam is certainly one of the most highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions.
 - [CodeChef](https://www.codechef.com/)  
 CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
 - [SPOJ](http://www.spoj.com/)  
-The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (Refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules.
+The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules.
 - [Timus](http://acm.timus.ru/)  
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
@@ -167,7 +171,7 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
-- [UVa Online Judge (CP, CP2, CP3)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
+- [UVa Online Judge (Competitive Programming Book)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 - [Codeforces Tags (DP as an example)](http://codeforces.com/problemset/tags/dp)
 - [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
@@ -186,13 +190,16 @@ Never miss another contest!
 A list of recommended books for competitive programming.
 
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
-This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.
+This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.  
+The first edition is free for [download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
+- [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb  
+This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
 - [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
 - [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
 - [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
-- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.books.com.tw/products/0010650143), by 劉汝佳
-- [算法艺术与信息学竞赛 (Chinese)](http://www.books.com.tw/products/CN10672273), by 劉汝佳, 黃亮
+- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 劉汝佳p
+- [算法艺术与信息学竞赛 (Chinese)](http://www.amazon.cn/gp/switch-language/product/B002WB0U4Q/480-0744654-1196832?ie=UTF8&language=en_CN), by 劉汝佳, 黃亮
 
 #### Books for algorithms
 - [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
@@ -225,9 +232,10 @@ This book is often referred to as the "bible" for algorithms and data structures
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives such as: Codeforces, SPOJ, UVa, POJ, Codechef ... etc..
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
 BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
-- [visualgo](http://visualgo.net)  
+- [VisuAlgo](http://visualgo.net)  
 visualgo features a large collection of visualization tools for algorithms and data structures.
-
+- [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
+USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
 
 ## Social media
 Meet the god-like people!  
