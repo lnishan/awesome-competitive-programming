@@ -18,17 +18,19 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 ## Table of contents
 * [Awesome reference materials](#awesome-reference-materials)
-    * [List of lists](#list-of-lists)
-    * [Generic](#generic)
+    * [Knowledge](#knowledge)
+        * [Syllabus](#syllabus)
+        * [List of lists](#list-of-lists)
+        * [Articles](#articles)
     * [Implementations / Notebooks](#implementations--notebooks)
     * [Language specifics](#language-specifics)
 * [Awesome learning materials](#awesome-learning-materials)
     * [Open courses](#open-courses)
+    * [Books](#books)
+        * [Books for algorithms](#books-for-algorithms)
     * [Sites to practice](#sites-to-practice)
         * [Problem classifiers](#problem-classifiers)
         * [Contest calendars](#contest-calendars)
-    * [Books](#books)
-        * [Books for algorithms](#books-for-algorithms)
     * [Sites to ask questions](#sites-to-ask-questions)
         * [Awesome articles and FAQs](#awesome-articles-and-faqs)
     * [Other awesome websites](#other-awesome-websites)
@@ -41,8 +43,16 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 ## Awesome reference materials
 
-### List of lists
-A list of curated lists.
+### Knowledge
+
+#### Syllabus
+What to learn / What to look for.
+- [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
+A detailed syllabus on which topics IOI contestants will be contested.
+- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
+
+#### List of lists
+A list of awesome curated lists.
 
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
@@ -51,10 +61,10 @@ A very complete list of competitive programming resources. A must-have in your b
 - [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
 A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
 
-### Generic
-Sites / Pages covering a broad range of topics.
+#### Articles
 
-- [List of lists](#list-of-lists)
+Sites with awesome articles.
+
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
@@ -62,7 +72,7 @@ Emaxx is widely used in the Russian-speaking competitive programming scene. Only
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)  
 Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
-PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
+PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many tospics.
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
@@ -71,7 +81,7 @@ A set of videos explaining LeetCode problems.
 This site offers tutorials on popular interview topics.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
 演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topics.
-- [国家集训队论文 1999-2009 (Papers from Chinese IOI training camps) (Chinese)](https://goo.gl/EJKv9F)  
+- [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 
 ### Implementations / Notebooks
@@ -133,6 +143,28 @@ A course on basic topics featuring good lecture slides.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
 Good lecture materials made by CKHS Infor Club.
 
+### Books
+A list of recommended books for competitive programming.
+
+- [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
+This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.  
+The first edition is free for [download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
+- [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb  
+This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
+- [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
+- [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
+- [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
+- [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
+- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 劉汝佳p
+- [算法艺术与信息学竞赛 (Chinese)](http://www.amazon.cn/gp/switch-language/product/B002WB0U4Q/480-0744654-1196832?ie=UTF8&language=en_CN), by 劉汝佳, 黃亮
+
+#### Books for algorithms
+- [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
+This book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses.
+- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos
+- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena
+- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne
+
 ### Sites to practice
 Good online judges / contest platforms to practice.
 
@@ -173,7 +205,6 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
 - [UVa Online Judge (Competitive Programming Book)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 - [Codeforces Tags (DP as an example)](http://codeforces.com/problemset/tags/dp)
-- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
@@ -185,28 +216,6 @@ Never miss another contest!
 - [clist.by](http://clist.by/)
 - [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
 - [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
-
-### Books
-A list of recommended books for competitive programming.
-
-- [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
-This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.  
-The first edition is free for [download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
-- [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb  
-This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
-- [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
-- [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
-- [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
-- [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
-- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 劉汝佳p
-- [算法艺术与信息学竞赛 (Chinese)](http://www.amazon.cn/gp/switch-language/product/B002WB0U4Q/480-0744654-1196832?ie=UTF8&language=en_CN), by 劉汝佳, 黃亮
-
-#### Books for algorithms
-- [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
-This book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses.
-- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos
-- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena
-- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne
 
 ### Sites to ask questions
 
@@ -279,7 +288,7 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 [Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko), 
 [Vladimir Novakovski (vnovakovski)](https://www.quora.com/profile/Vladimir-Novakovski), 
 [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4),   
-[Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri)
+[Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri), 
 [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu), 
 [Ashish Kedia(ashish1294)](https://www.quora.com/profile/Ashish-Kedia),   
 [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho), 
