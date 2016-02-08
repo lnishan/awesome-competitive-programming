@@ -24,7 +24,7 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
         * [Articles](#articles)
     * [Implementations / Notebooks](#implementations--notebooks)
     * [Language specifics](#language-specifics)
-        * [C/C++](#c--c++)
+        * [C/C++](#cc)
         * [Java](#java)
         * [Miscellaneous](#miscellaneous)
 * [Awesome learning materials](#awesome-learning-materials)
@@ -52,8 +52,9 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 #### Syllabus
 What to learn / What to look for.
 - [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
-A detailed syllabus on which topics IOI contestants will be contested.
+A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
 - [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
+It was said to be an unofficial syllabus for ACM-ICPC.
 
 #### List of lists
 A list of awesome curated lists.
@@ -136,7 +137,7 @@ A quick reference for the famous BigInteger class in Java.
 - [BigNum arithmetic in Java — Let's outperform BigInteger!](http://codeforces.com/blog/entry/17235)  
 A basic but faster custom BigInteger class.
 - [EZ Collections, EZ Life (new Java library for contests)](http://codeforces.com/blog/entry/14328)  
-A Java library for contests written by Alexey Dergunov(dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented.
+A Java library for contests written by Alexey Dergunov (dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented.
 
 #### Miscellaneous
 
