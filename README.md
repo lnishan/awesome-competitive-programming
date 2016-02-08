@@ -51,6 +51,7 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 #### Syllabus
 What to learn / What to look for.
+
 - [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
 A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
 - [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
