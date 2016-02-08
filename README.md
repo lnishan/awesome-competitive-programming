@@ -69,6 +69,9 @@ A curated list of awesome resources classified by problem topics. It includes gr
 #### Articles
 Sites with awesome articles.
 
+In addition to the [List of lists](#list-of-lists) section above,  
+Here are some other ones:
+
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
