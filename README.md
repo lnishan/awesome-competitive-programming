@@ -24,6 +24,9 @@ Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
         * [Articles](#articles)
     * [Implementations / Notebooks](#implementations--notebooks)
     * [Language specifics](#language-specifics)
+        * [C/C++](#c--c++)
+        * [Java](#java)
+        * [Miscellaneous](#miscellaneous)
 * [Awesome learning materials](#awesome-learning-materials)
     * [Open courses](#open-courses)
     * [Books](#books)
@@ -106,6 +109,8 @@ A good notebook by Igor Naverniouk who is currently a software engineer at Googl
 ### Language specifics
 This section mainly focuses on languages and other miscellaneous knowledge.
 
+#### C/C++
+
 - [Power up C++ with the Standard Template Library: Part 1 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)  
 [Power up C++ with the Standard Template Library: Part 2 – topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)  
 Learn how to use basic C++ standard template libraries.
@@ -117,14 +122,30 @@ Plentiful C++ tricks for competitive programming. Note that some should be used 
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
 [C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)  
 Detailed introduction to the extra data structures implemented in GNU C++.
+- [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)  
+A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++.
+
+#### Java
+
+- [How to read input in Java — tutorial](http://codeforces.com/blog/entry/7018)  
+Learn how to read input faster. This is a must-read for those who intend to use Java for competitive programming.
+- [How to sort arrays in Java and avoid TLE](http://codeforces.com/blog/entry/7108)  
+Some tips on how to avoid hitting the worst case of quick sort.
+- [Java.math.BigInteger Class - TutorialPrint](http://www.tutorialspoint.com/java/math/java_math_biginteger.htm)  
+A quick reference for the famous BigInteger class in Java. 
+- [BigNum arithmetic in Java — Let's outperform BigInteger!](http://codeforces.com/blog/entry/17235)  
+A basic but faster custom BigInteger class.
+- [EZ Collections, EZ Life (new Java library for contests)](http://codeforces.com/blog/entry/14328)  
+A Java library for contests written by Alexey Dergunov(dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented.
+
+#### Miscellaneous
+
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)  
 A huge compiled list of bit manipulation tricks.
 - [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
 This post teaches everything one needs to know about floating point numbers. A must read especially for geometry topics.
 - [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)  
 Similar post on floating point numbers.
-- [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)  
-A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++.
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)  
 A detailed side-by-side reference sheet. This is very helpful for a C++ programmer who wants to learn Java (for BigInteger mostly).
 
