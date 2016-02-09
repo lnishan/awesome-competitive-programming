@@ -180,7 +180,6 @@ This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf).
 - [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
 - [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
-- [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
 - [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 劉汝佳p
 - [算法艺术与信息学竞赛 (Chinese)](http://www.amazon.cn/gp/switch-language/product/B002WB0U4Q/480-0744654-1196832?ie=UTF8&language=en_CN), by 劉汝佳, 黃亮
 
