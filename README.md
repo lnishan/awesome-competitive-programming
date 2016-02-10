@@ -55,7 +55,7 @@ A list of awesome curated lists.
 
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
-- [Data Structures and Algorithms - CodeChef Discuss](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
+- [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
 - [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
 A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
@@ -70,7 +70,7 @@ Here are some additional ones:
 This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
 Emaxx is widely used in the Russian-speaking competitive programming scene. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
-- [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms)  
+- [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
 Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
 PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many tospics.
@@ -140,7 +140,7 @@ A Java library for contests written by Alexey Dergunov (dalex). ArrayList, Array
 
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)  
 A huge compiled list of bit manipulation tricks.
-- [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](http://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
+- [Comparing Floating Point Numbers, 2012 Edition | Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)  
 This post teaches everything one needs to know about floating point numbers. A must read especially for geometry topics.
 - [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)  
 Similar post on floating point numbers.
@@ -185,7 +185,7 @@ The Art of Algorithms and Programming Contests (English)
 - [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 劉汝佳, 黃亮
 
 #### Books for algorithms
-- [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
+- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
 Also known as CLRS (taken from name initials), this book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail. The writing is more rigorous and can be difficult to some.
 - [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos  
 This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots.  
@@ -300,7 +300,7 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 Awesome people to follow (Too many people to list, separated by commas and in groups of 3's thus):  
 [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek), 
 [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi), 
-[Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Joshua-Pan-1),   
+[Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson),   
 [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2), 
 [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov), 
 [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k),   
