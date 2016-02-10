@@ -178,7 +178,7 @@ This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf).
 - [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔  
 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional)
 - [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳  
-The Art of Algorithms and Programming Contests (English)
+The Art of Algorithms and Programming Contests (English)  
 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional)
 - [算法竞赛入门经典——训练指南 (Chinese)](http://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋  
 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional)
