@@ -1,4 +1,5 @@
 # Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome competitive programming / algorithm / data structure resources.
 
 This list was created with a view to connect more people to information. It's aimed to cover more aspects of competitive programming and be a useful reference list for all.
@@ -256,7 +257,7 @@ Consider pasting your codes at [ideone](http://ideone.com) or [pastebin](http://
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
 ### Other awesome websites
-- [Virtual Judge (vjudge)](http://vjudge.net)  
+- [Virtual Judge (vjudge)](http://acm.hust.edu.cn/vjudge/)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives such as: Codeforces, SPOJ, UVa, POJ, Codechef ... etc..
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
 BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
@@ -335,6 +336,6 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jasmine Chen](https://github.com/lnishan) has waived all copyright and related or neighboring rights to this work.
