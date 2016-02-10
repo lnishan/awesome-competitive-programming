@@ -4,7 +4,7 @@ A curated list of awesome competitive programming / algorithm / data structure r
 
 This list was created with a view to connect more people to information. It's aimed to cover more aspects of competitive programming and be a useful reference list for all.
 
-*![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (link status powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
+*[![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (link status powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
 
 
 ## Contributing
