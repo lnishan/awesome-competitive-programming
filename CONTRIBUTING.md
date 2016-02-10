@@ -1,4 +1,4 @@
-# Awesome-Competitive-Programming
+# Awesome Competitive Programming
 
 ## Contributing Guidelines
 

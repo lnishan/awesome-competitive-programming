@@ -1,12 +1,14 @@
-# Awesome-Competitive-Programming
+# Awesome Competitive Programming
 A curated list of awesome competitive programming / algorithm / data structure resources.
+
+This list was created with a view to connect more people to information. It's aimed to cover more aspects of competitive programming and be a useful reference list for all.
 
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
 
 
 ## Contributing
-Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (current TODOs are included).
+Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (including TODOs).
 
 
 ## Table of contents
@@ -328,3 +330,10 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 [What is a good 6 month plan to start and progress through competitive programming?](https://www.quora.com/What-is-a-good-6-month-plan-to-start-and-progress-through-competitive-programming)
 - [How is competitive programming different from real-life programming?](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
 - [What have you gained from competitive programming?](https://www.quora.com/What-have-you-gained-from-competitive-programming)
+
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jasmine Chen](https://github.com/lnishan) has waived all copyright and related or neighboring rights to this work.
