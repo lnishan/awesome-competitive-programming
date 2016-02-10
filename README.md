@@ -4,7 +4,7 @@ A curated list of awesome competitive programming / algorithm / data structure r
 
 This list was created with a view to connect more people to information. It's aimed to cover more aspects of competitive programming and be a useful reference list for all.
 
-*Link status: [![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
+*![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (link status powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
 
 
 ## Contributing
@@ -185,7 +185,7 @@ The Art of Algorithms and Programming Contests (English)
 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional)
 - [算法竞赛入门经典——训练指南 (Chinese)](http://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋  
 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional)
-- [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 劉汝佳, 黃亮
+- [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮
 
 #### Books for Algorithms
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
@@ -194,7 +194,7 @@ Also known as CLRS (taken from name initials), this book is often referred to as
 This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots.  
 The lecture slides that accompany the textbook are available on its [official website](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
 - [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena  
-The book is written in more readable text. Some people find the materials are comprehensive than other book. You can find some good resources (including author's own video lectures) on its [official website](http://www.algorist.com).
+The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including author's own video lectures) on its [official website](http://www.algorist.com).
 - [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne  
 This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations.
 
@@ -252,7 +252,7 @@ Never miss another contest!
 
 ### Sites to ask Questions
 These are great sites to ask questions.  
-Consider pasting your codes at [ideone](http://ideone.com) or [pastebin](http://pastebin.com).
+It is suggested that you paste your codes at [ideone](http://ideone.com) or [pastebin](http://pastebin.com).
 
 - [Codeforces](http://codeforces.com/)
 - [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
