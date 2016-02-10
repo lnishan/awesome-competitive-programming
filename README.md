@@ -7,6 +7,8 @@ TODOs:
 2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
 3. ICPC News site (eg. snarknews)
 4. A short reference sheet
+5. Book reviews (recommendations)
+6. Integration with Travis CI and awesome-bot (for automatic link check)
 
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
@@ -71,7 +73,7 @@ A curated list of awesome resources classified by problem topics. It includes gr
 Sites with awesome articles.
 
 In addition to the [List of lists](#list-of-lists) section above,  
-Here are some other ones:
+Here are some additional ones:
 
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
@@ -175,21 +177,31 @@ A list of recommended books for competitive programming.
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
 This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.  
 The first edition is free for [download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
+- [Programming Challenges: The Programming Contest Training Manual](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla  
+This book includes more than 100 programming challenges, as well as the theory and key concepts necessary for approaching them. Problems are organized by topic, and supplemented by complete tutorial material.
+- [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads  
+Most of the problems described in the book are really hard but they are explained in such a way that even beginners can understand.  
+It appears to be out of stock (as of Feb 10, 2016), but you can reserve one on their [official website](http://www.lookingforachallengethebook.com). 
 - [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb  
 This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
-- [Programming Challenges](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla
-- [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads
-- [培養與鍛鍊程式設計的邏輯腦 (Japanese, Chinese)](http://www.books.com.tw/products/0010616945), by 秋葉拓哉, 岩田陽一, 北川宜稔
-- [提升程式設計的解題思考力：國際演算法程式設計競賽訓練指南 (Chinese)](http://www.books.com.tw/products/0010595114), by 劉汝佳, 陳鋒
-- [算法竞赛入门经典 (打下好基礎：程式設計與演算法競賽入門經典) (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 劉汝佳p
-- [算法艺术与信息学竞赛 (Chinese)](http://www.amazon.cn/gp/switch-language/product/B002WB0U4Q/480-0744654-1196832?ie=UTF8&language=en_CN), by 劉汝佳, 黃亮
+- [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔  
+培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional)
+- [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳  
+The Art of Algorithms and Programming Contests (English)
+打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional)
+- [算法竞赛入门经典——训练指南 (Chinese)](http://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋  
+提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional)
+- [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 劉汝佳, 黃亮
 
 #### Books for algorithms
 - [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
 This book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses.
-- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos
-- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena
-- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne
+- [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos  
+The [Lecture slides](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/) that accompany the textbook.
+- [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena  
+Great resources on the [official website](http://www.algorist.com).
+- [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne  
+Neatly categorized, elaborate explanations and fantastic illustrations. 
 
 ### Sites to practice
 Good online judges / contest platforms to practice.
@@ -224,8 +236,8 @@ HackerEarth is a startup technology company based in Bangalore, India that provi
 Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan.
 
 #### Problem classifiers
-Sites / Pages classifying programming problems.  
-You can choose a category (eg. DP) of interest and practice problems on that topic.
+Sites classifying programming problems.  
+Choose a category (eg. DP) of interest and practice problems on that topic.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
