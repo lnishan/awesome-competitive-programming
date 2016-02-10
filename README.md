@@ -1,21 +1,12 @@
 # Awesome-Competitive-Programming
-A curated list of awesome competitive programming / algorithm / data structure materials.
-
-TODOs:
-
-1. Better descriptions.
-2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
-3. ICPC News site (eg. snarknews)
-4. A short reference sheet
-5. Book reviews (recommendations)
-6. Integration with Travis CI and awesome-bot (for automatic link check)
+A curated list of awesome competitive programming / algorithm / data structure resources.
 
 *This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
 For the time being I'm still looking to improve on the current contents before submitting a PR.*
 
 
 ## Contributing
-Please kindly refer to [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (current TODOs are included).
 
 
 ## Table of contents
