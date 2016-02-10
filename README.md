@@ -4,42 +4,44 @@ A curated list of awesome competitive programming / algorithm / data structure r
 
 This list was created with a view to connect more people to information. It's aimed to cover more aspects of competitive programming and be a useful reference list for all.
 
+*Link status: [![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
+
 
 ## Contributing
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (including TODOs).
 
 
-## Table of contents
-* [Awesome reference materials](#awesome-reference-materials)
+## Table of Contents
+* [Awesome Reference Materials](#awesome-reference-materials)
     * [Knowledge](#knowledge)
         * [Syllabus](#syllabus)
-        * [List of lists](#list-of-lists)
+        * [List of Lists](#list-of-lists)
         * [Articles](#articles)
     * [Implementations / Notebooks](#implementations--notebooks)
-    * [Language specifics](#language-specifics)
+    * [Language Specifics](#language-specifics)
         * [C/C++](#cc)
         * [Java](#java)
         * [Miscellaneous](#miscellaneous)
-* [Awesome learning materials](#awesome-learning-materials)
-    * [Open courses](#open-courses)
+* [Awesome Learning Materials](#awesome-learning-materials)
+    * [Open Courses](#open-courses)
     * [Books](#books)
-        * [Books for algorithms](#books-for-algorithms)
-    * [Sites to practice](#sites-to-practice)
-        * [Problem classifiers](#problem-classifiers)
-        * [Contest calendars](#contest-calendars)
-    * [Sites to ask questions](#sites-to-ask-questions)
-    * [Other awesome websites](#other-awesome-websites)
-* [Social media](#social-media)
+        * [Books for Algorithms](#books-for-algorithms)
+    * [Sites to Practice](#sites-to-practice)
+        * [Problem Classifiers](#problem-classifiers)
+        * [Contest Calendars](#contest-calendars)
+    * [Sites to ask Questions](#sites-to-ask-questions)
+    * [Other Awesome Websites](#other-awesome-websites)
+* [Social Media](#social-media)
 	* [Blogs](#blogs)
 	* [Team Wikis](#team-wikis)
 	* [Youtube and Livestreams](#youtube-and-livestreams)
 	* [Quora](#quora)
 * [Appendix](#appendix)
-    * [Awesome articles and FAQs](#awesome-articles-and-faqs)
+    * [Awesome Articles and FAQs](#awesome-articles-and-faqs)
 * [License](#license)
 
 
-## Awesome reference materials
+## Awesome Reference Materials
 
 ### Knowledge
 
@@ -51,7 +53,7 @@ A detailed syllabus on which IOI contestants will be tested. This is still somew
 - [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)  
 It was said to be an unofficial syllabus for ACM-ICPC.
 
-#### List of lists
+#### List of Lists
 A list of awesome curated lists.
 
 - [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
@@ -105,7 +107,7 @@ A neatly categorized notebook in Japanese. This website is no longer being updat
 - [igor's code archive](http://shygypsy.com/tools/)  
 A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.
 
-### Language specifics
+### Language Specifics
 This section mainly focuses on languages and other miscellaneous knowledge.
 
 #### C/C++
@@ -149,7 +151,7 @@ Similar post on floating point numbers.
 A detailed side-by-side reference sheet. This is very helpful for a C++ programmer who wants to learn Java (for BigInteger mostly).
 
 
-## Awesome learning materials
+## Awesome Learning Materials
 
 ### Open courses
 It's highly recommended that you begin your competitive programming journey with these awesome courses!
@@ -185,7 +187,7 @@ The Art of Algorithms and Programming Contests (English)
 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional)
 - [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 劉汝佳, 黃亮
 
-#### Books for algorithms
+#### Books for Algorithms
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
 Also known as CLRS (taken from name initials), this book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail. The writing is more rigorous and can be difficult to some.
 - [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos  
@@ -196,7 +198,7 @@ The book is written in more readable text. Some people find the materials are co
 - [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne  
 This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations.
 
-### Sites to practice
+### Sites to Practice
 Good online judges / contest platforms to practice.
 
 - [Codeforces](http://codeforces.com/)  
@@ -228,7 +230,7 @@ HackerEarth is a startup technology company based in Bangalore, India that provi
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
 Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan.
 
-#### Problem classifiers
+#### Problem Classifiers
 Sites classifying programming problems.  
 Choose a category (eg. DP) of interest and practice problems on that topic.
 
@@ -239,7 +241,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 - [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
-#### Contest calendars
+#### Contest Calendars
 Calendars for impending programming contests.  
 Never miss another contest!
 
@@ -248,7 +250,7 @@ Never miss another contest!
 - [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
 - [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
-### Sites to ask questions
+### Sites to ask Questions
 These are great sites to ask questions.  
 Consider pasting your codes at [ideone](http://ideone.com) or [pastebin](http://pastebin.com).
 
@@ -256,7 +258,7 @@ Consider pasting your codes at [ideone](http://ideone.com) or [pastebin](http://
 - [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
-### Other awesome websites
+### Other Awesome Websites
 - [Virtual Judge (vjudge)](http://acm.hust.edu.cn/vjudge/)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives such as: Codeforces, SPOJ, UVa, POJ, Codechef ... etc..
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
@@ -266,8 +268,8 @@ visualgo features a large collection of visualization tools for algorithms and d
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
 USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
 
-## Social media
-Meet the god-like people!  
+## Social Media
+Meet the god-like competitive programmers!  
 Learn helpful tips, tutorials and insights from these people :)
 
 ### Blogs
@@ -296,7 +298,7 @@ Learn helpful tips, tutorials and insights from these people :)
 - Vladimir Smykalov (enot.1.10): [Twitch](http://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
 
 ### Quora
-Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers))
+Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
 Awesome people to follow (Too many people to list, separated by commas and in groups of 3's thus):  
 [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek), 
@@ -321,7 +323,7 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 
 ## Appendix
 
-### Other awesome articles and FAQs
+### Other Awesome Articles and FAQs
 
 - [The 'science' of training in competitive programming](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
 - [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog.](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
