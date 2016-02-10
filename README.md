@@ -259,7 +259,7 @@ Consider pasting your codes at [ideone](http://ideone.com) or [pastebin](http://
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
 ### Other Awesome Websites
-- [Virtual Judge (vjudge)](http://acm.hust.edu.cn/vjudge/)  
+- [Virtual Judge (vjudge)](http://vjudge.net)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives such as: Codeforces, SPOJ, UVa, POJ, Codechef ... etc..
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
 BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
