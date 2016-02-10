@@ -76,14 +76,14 @@ Geeksforgeeks has a large amount of nicely written articles on different topics.
 PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many tospics.
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
-- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
-A set of videos explaining LeetCode problems.
-- [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
-This site offers tutorials on popular interview topics.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
 演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topics.
 - [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
+- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
+A set of videos explaining LeetCode problems.
+- [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
+This site offers tutorials on popular interview topics.
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.  
@@ -186,13 +186,14 @@ The Art of Algorithms and Programming Contests (English)
 
 #### Books for algorithms
 - [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein  
-This book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses.
+Also known as CLRS (taken from name initials), this book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail. The writing is more rigorous and can be difficult to some.
 - [Algorithm Design](http://www.aw-bc.com/info/kleinberg/), by Jon Kleinberg and Éva Tardos  
-The [Lecture slides](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/) that accompany the textbook.
+This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots.  
+The lecture slides that accompany the textbook are available on its [official website](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
 - [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena  
-Great resources on the [official website](http://www.algorist.com).
+The book is written in more readable text. Some people find the materials are comprehensive than other book. You can find some good resources (including author's own video lectures) on its [official website](http://www.algorist.com).
 - [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne  
-Neatly categorized, elaborate explanations and fantastic illustrations. 
+This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations.
 
 ### Sites to practice
 Good online judges / contest platforms to practice.
@@ -247,6 +248,8 @@ Never miss another contest!
 - [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
 ### Sites to ask questions
+These are great sites to ask questions.  
+Consider pasting your codes at [ideone](http://ideone.com) or [pastebin](http://pastebin.com).
 
 - [Codeforces](http://codeforces.com/)
 - [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)

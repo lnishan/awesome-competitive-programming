@@ -1,4 +1,4 @@
-# Awesome Competitive Programming
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contributing Guidelines
 
@@ -11,7 +11,7 @@ So thank you for paying an interest in this page :)
 2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
 3. ICPC News site (eg. snarknews)
 4. A short reference sheet
-5. Book reviews (recommendations)
+5. Books for math
 6. Integration with Travis CI and awesome-bot (for automatic link check)
 
 ### Submission
