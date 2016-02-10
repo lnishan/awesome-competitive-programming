@@ -20,6 +20,6 @@ So thank you for paying an interest in this page :)
 3. Or, you can simply [message me on Codeforces](http://codeforces.com/usertalk?other=lnishan)
 
 ### Rules
-1. Please do not submit confidential resources (eg. the handouts from closed training camps).
+1. Please do not submit confidential resources (eg. handouts from closed training camps).
 2. To add a new item or make modifications to the list, make sure you state your reasons.
 3. To report a dead link, [create an issue](https://github.com/lnishan/awesome-competitive-programming/issues/new)

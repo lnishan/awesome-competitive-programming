@@ -1,10 +1,7 @@
-# Awesome Competitive Programming
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome competitive programming / algorithm / data structure resources.
 
 This list was created with a view to connect more people to information. It's aimed to cover more aspects of competitive programming and be a useful reference list for all.
-
-*This repository is currently not associated with the official [awesome list](https://github.com/sindresorhus/awesome).  
-For the time being I'm still looking to improve on the current contents before submitting a PR.*
 
 
 ## Contributing
