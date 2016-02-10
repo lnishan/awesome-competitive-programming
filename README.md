@@ -38,6 +38,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 	* [Quora](#quora)
 * [Appendix](#appendix)
     * [Awesome articles and FAQs](#awesome-articles-and-faqs)
+* [License](#license)
 
 
 ## Awesome reference materials
