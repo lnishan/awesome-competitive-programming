@@ -14,7 +14,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
     * [Knowledge](#knowledge)
-        * [Syllabus](#syllabus)
+        * [Syllabuses](#syllabuses)
         * [List of Lists](#list-of-lists)
         * [Articles](#articles)
     * [Implementations / Notebooks](#implementations--notebooks)
@@ -45,7 +45,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ### Knowledge
 
-#### Syllabus
+#### Syllabuses
 What to learn / What to look for.
 
 - [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
@@ -129,15 +129,15 @@ A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the c
 
 #### Java
 
-- [How to read input in Java — tutorial](http://codeforces.com/blog/entry/7018)  
+- [How to read input in Java — tutorial - Codeforces](http://codeforces.com/blog/entry/7018)  
 Learn how to read input faster. This is a must-read for those who intend to use Java for competitive programming.
-- [How to sort arrays in Java and avoid TLE](http://codeforces.com/blog/entry/7108)  
+- [How to sort arrays in Java and avoid TLE - Codeforces](http://codeforces.com/blog/entry/7108)  
 Some tips on how to avoid hitting the worst case of quick sort.
 - [Java.math.BigInteger Class - TutorialPrint](http://www.tutorialspoint.com/java/math/java_math_biginteger.htm)  
 A quick reference for the famous BigInteger class in Java. 
-- [BigNum arithmetic in Java — Let's outperform BigInteger!](http://codeforces.com/blog/entry/17235)  
+- [BigNum arithmetic in Java — Let's outperform BigInteger! - Codeforces](http://codeforces.com/blog/entry/17235)  
 A basic but faster custom BigInteger class.
-- [EZ Collections, EZ Life (new Java library for contests)](http://codeforces.com/blog/entry/14328)  
+- [EZ Collections, EZ Life (new Java library for contests) - Codeforces](http://codeforces.com/blog/entry/14328)  
 A Java library for contests written by Alexey Dergunov (dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented.
 
 #### Miscellaneous
@@ -327,8 +327,8 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 
 ### Other Awesome Articles and FAQs
 
-- [The 'science' of training in competitive programming](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
-- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog.](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
+- [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
+- [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
 
 - [How do I start competitive programming?](https://www.quora.com/How-do-I-start-competitive-programming-5)
 - [How can I become good at competitive programming?](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
