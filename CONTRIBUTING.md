@@ -7,12 +7,11 @@ The guiding principle for this list is to connect more people to information.
 So thank you for paying an interest in this page :)
 
 ### TODOs
-1. Better descriptions.
-2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
-3. ICPC News site (eg. snarknews)
-4. A short reference sheet
-5. Books for math
-6. Integration with Travis CI and awesome-bot (for automatic link check)
+1. Books for math
+2. Better descriptions.
+3. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
+4. ICPC News site (eg. snarknews)
+5. A short reference sheet
 
 ### Submission
 1. For new items, submit a pull request here ([learn how to](https://help.github.com/articles/using-pull-requests/))
