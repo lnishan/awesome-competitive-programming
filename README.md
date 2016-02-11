@@ -122,7 +122,8 @@ Learn more about C++ I/O optimizations.
 Plentiful C++ tricks for competitive programming. Note that some should be used with care.
 - [C++ STL: Policy based data structures - Codeforces](http://codeforces.com/blog/entry/11080)  
 [C++ STL: Policy based data structures. Part 2 - Codeforces](http://codeforces.com/blog/entry/13279)  
-Detailed introduction to the extra data structures implemented in GNU C++.
+Detailed introduction to the extra data structures implemented in GNU C++.  
+The official documentation can be found [here](https://gcc.gnu.org/onlinedocs/libstdc++/ext/pb_ds/).
 - [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)  
 A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++.
 
