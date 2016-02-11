@@ -37,7 +37,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 	* [Youtube and Livestreams](#youtube-and-livestreams)
 	* [Quora](#quora)
 * [Appendix](#appendix)
-    * [Awesome Articles and FAQs](#awesome-articles-and-faqs)
+    * [Other Awesome Articles and FAQs](#other-awesome-articles-and-faqs)
 * [License](#license)
 
 
@@ -153,7 +153,7 @@ A detailed side-by-side reference sheet. This is very helpful for a C++ programm
 
 ## Awesome Learning Materials
 
-### Open courses
+### Open Courses
 It's highly recommended that you begin your competitive programming journey with these awesome courses!
 
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
