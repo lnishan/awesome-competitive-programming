@@ -266,9 +266,11 @@ Virtual Judge (vjudge) allows users to create virtual contests with problems fro
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
 BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
 - [VisuAlgo](http://visualgo.net)  
-visualgo features a large collection of visualization tools for algorithms and data structures.
+VisuAlgo features a large collection of visualization tools for algorithms and data structures.
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
 USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
+- [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
+A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
 
 ## Social Media
 Meet the god-like competitive programmers!  
