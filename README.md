@@ -66,7 +66,7 @@ A curated list of awesome resources classified by problem topics. It includes gr
 #### Articles
 Sites with awesome articles.
 
-In addition to the [List of lists](#list-of-lists) section above,  
+In addition to the [List of Lists](#list-of-lists) section above,  
 Here are some additional ones:
 
 - [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
@@ -80,7 +80,7 @@ PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
-演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts to research into algorithms for a wide variety of topics.
+演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms.
 - [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
