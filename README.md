@@ -92,7 +92,7 @@ This site offers tutorials on popular interview topics.
 Algorithm / Data structure implementations.  
 It is advised that you write your own ones before looking at others'.
 
-- [Data Structures and Algorithms in Java and C++](https://sites.google.com/site/indy256/), by Andrey Naumenko (indy256)  
+- [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256)  
 This site contains a large amount of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
