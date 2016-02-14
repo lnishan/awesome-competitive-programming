@@ -205,9 +205,10 @@ This book is neatly categorized, coupled with elaborate explanations and fantast
 Discrete Mathematics is closely relevant to competitive programming. This book provides comprehensive materials on a wide range of topics including: Logics and Proofs, Sets, Functions, Sequences, Matrices, Number Theory, Recursion, Counting, Probablity, Graphs, Trees and Boolean Alegra to name but a few.
 - [Concrete Mathematics: A Foundation for Computer Science](http://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025), by Ronald L. Graham, Donald E. Knuth, Oren Patashnik  
 The book offers a deeper look into Discrete Mathematics with more stresses on number-related topics.
-- [Linear Algebra with Applications](http://www.amazon.com/Algebra-Applications-Edition-Featured-Introductory/dp/0321962214), by Steven J. Leon
-- [Fundamentals of Probability, with Stochastic Processes](http://www.amazon.com/Fundamentals-Probability-Stochastic-Processes-Edition/dp/0131453408), by Saeed Ghahramani
-- [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya
+- [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?ie=UTF8&qid=1455475253&sr=8-1&keywords=Linear+Algebra+and+Its+Applications), by David C. Lay, Steven R. Lay, Judi J. McDonald  
+The book does a good job at bridging the gap between a physical system (for scientists and engineers) and an abstract system (for mathematicians).
+- [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya  
+An old-time classic. Overall, the author provides a systematic way to creatively solve problems.
 
 ### Sites to Practice
 Good online judges / contest platforms to practice.
