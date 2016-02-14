@@ -353,6 +353,6 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Jasmine Chen](https://github.com/lnishan) has waived all copyright and related or neighboring rights to this work.
+Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
