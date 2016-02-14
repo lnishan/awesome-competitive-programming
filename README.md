@@ -26,6 +26,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
     * [Open Courses](#open-courses)
     * [Books](#books)
         * [Books for Algorithms](#books-for-algorithms)
+        * [Books for Mathematics](#books-for-mathematics)
     * [Sites to Practice](#sites-to-practice)
         * [Problem Classifiers](#problem-classifiers)
         * [Contest Calendars](#contest-calendars)
