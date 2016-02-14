@@ -69,8 +69,8 @@ Sites with awesome articles.
 In addition to the [List of Lists](#list-of-lists) section above,  
 Here are some additional ones:
 
-- [TopCoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
-This is a list of tutorials written by respected TopCoder members. Many top programmers started learning data sciences from here.
+- [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
+This is a list of tutorials written by respected topcoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
 Emaxx is widely used in the Russian-speaking competitive programming scene. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
@@ -93,13 +93,13 @@ Algorithm / Data structure implementations.
 It is advised that you write your own ones before looking at others'.
 
 - [Data Structures and Algorithms in Java and C++](https://sites.google.com/site/indy256/), by Andrey Naumenko (indy256)  
-This site contains plenty of implementations for algorithms and data structures.
+This site contains an enormous amount of implementations for algorithms and data structures in Java and C++.
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
-- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
+- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
-- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)  
-The team notebook for bcw0x1bd2 - the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. Nice implementations for advanced data structures and algorithms.
+- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 from National Taiwan University  
+bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. Nice implementations for advanced data structures and algorithms.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 A notebook with some advanced data structures and algorithms.
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
@@ -198,6 +198,10 @@ The lecture slides that accompany the textbook are available on its [official we
 The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](http://www.algorist.com).
 - [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne  
 This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations.
+
+#### Books for Mathematics
+- [Discrete Mathematics and Its Applications](http://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050), by Kenneth H. Rosen  
+Discrete Mathematics is closely relevant to competitive programming. This book provides comprehensive materials on a wide range of topics including: Logics and Proofs, Sets, Functions, Sequences, Matrices, Number Theory, Recursion, Counting, Probablity, Graphs, Trees and Boolean Alegra to name but a few.
 
 ### Sites to Practice
 Good online judges / contest platforms to practice.
