@@ -61,7 +61,7 @@ A collection of fantastic tutorial blog posts written by Codeforces users. Some 
 - [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
 - [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
-A curated list of awesome resources classified by problem topics. It includes great materials and problems for each respective topic. It is also featured on the official awesome list.
+This list collected materials for some relevant topics in competitive programming.
 
 #### Articles
 Sites with awesome articles.
@@ -92,14 +92,14 @@ This site offers tutorials on popular interview topics.
 Algorithm / Data structure implementations.  
 It is advised that you write your own ones before looking at others'.
 
-- [Data Structures and Algorithms in Java and C++](https://sites.google.com/site/indy256/)  
+- [Data Structures and Algorithms in Java and C++](https://sites.google.com/site/indy256/), by Andrey Naumenko (indy256)  
 This site contains plenty of implementations for algorithms and data structures.
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
 - [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook)  
-A team notebook by bcw0x1bd2 - the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. Nice implementations for advanced data structures and algorithms.
+The team notebook for bcw0x1bd2 - the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. Nice implementations for advanced data structures and algorithms.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
 A notebook with some advanced data structures and algorithms.
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
@@ -160,7 +160,7 @@ It's highly recommended that you begin your competitive programming journey with
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
 This course offers comprehensive lecture slides and a short list of exercise problems.
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  
-Awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
+An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
 - [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  
 A course on basic topics featuring good lecture slides.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
@@ -288,7 +288,7 @@ Learn helpful tips, tutorials and insights from these people :)
 - Huang I-Wen (dreamoon): [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/)
 - Po-Jui Chen (a00012025): [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/)
 - Shiang-Yun Yang (morris1028): [Morris' Blog (Chinese)](http://morris821028.github.io/)
-- Yuhao Du (TooDifficuIt): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
+- Yuhao Du (TooDifficuIt, TooSimple, xudyh): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
 
 ### Team Wikis
 - Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
@@ -316,7 +316,7 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4),   
 [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri), 
 [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu), 
-[Ashish Kedia(ashish1294)](https://www.quora.com/profile/Ashish-Kedia),   
+[Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia),   
 [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho), 
 [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen), 
 [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti),   
@@ -332,12 +332,12 @@ Awesome people to follow (Too many people to list, separated by commas and in gr
 - [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
 - [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
 
-- [How do I start competitive programming?](https://www.quora.com/How-do-I-start-competitive-programming-5)
-- [How can I become good at competitive programming?](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
-[What is the best strategy to improve my skills in competitive programming in 2-3 months?](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months)  
-[What is a good 6 month plan to start and progress through competitive programming?](https://www.quora.com/What-is-a-good-6-month-plan-to-start-and-progress-through-competitive-programming)
-- [How is competitive programming different from real-life programming?](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
-- [What have you gained from competitive programming?](https://www.quora.com/What-have-you-gained-from-competitive-programming)
+- [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5)
+- [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
+[What is the best strategy to improve my skills in competitive programming in 2-3 months? - Quora](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months)  
+[What is a good 6 month plan to start and progress through competitive programming? - Quora](https://www.quora.com/What-is-a-good-6-month-plan-to-start-and-progress-through-competitive-programming)
+- [How is competitive programming different from real-life programming? - Quora](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
+- [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming)
 
 
 ## License
