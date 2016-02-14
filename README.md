@@ -92,8 +92,8 @@ This site offers tutorials on popular interview topics.
 Algorithm / Data structure implementations.  
 It is advised that you write your own ones before looking at others'.
 
-- [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256)  
-This site contains a large amount of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
+- [Data Structures and Algorithms in Java and C++](https://sites.google.com/site/indy256/), by Andrey Naumenko (indy256)  
+This site contains an enormous amount of implementations for algorithms and data structures in Java and C++.
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University  
@@ -202,6 +202,11 @@ This book is neatly categorized, coupled with elaborate explanations and fantast
 #### Books for Mathematics
 - [Discrete Mathematics and Its Applications](http://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050), by Kenneth H. Rosen  
 Discrete Mathematics is closely relevant to competitive programming. This book provides comprehensive materials on a wide range of topics including: Logics and Proofs, Sets, Functions, Sequences, Matrices, Number Theory, Recursion, Counting, Probablity, Graphs, Trees and Boolean Alegra to name but a few.
+- [Concrete Mathematics: A Foundation for Computer Science](http://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025), by Ronald L. Graham, Donald E. Knuth, Oren Patashnik  
+The book offers a deeper look into Discrete Mathematics with more stresses on number-related topics.
+- [Linear Algebra with Applications](http://www.amazon.com/Algebra-Applications-Edition-Featured-Introductory/dp/0321962214), by Steven J. Leon
+- [Fundamentals of Probability, with Stochastic Processes](http://www.amazon.com/Fundamentals-Probability-Stochastic-Processes-Edition/dp/0131453408), by Saeed Ghahramani
+- [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya
 
 ### Sites to Practice
 Good online judges / contest platforms to practice.
