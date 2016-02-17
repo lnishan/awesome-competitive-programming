@@ -315,25 +315,14 @@ Learn helpful tips, tutorials and insights from these people :)
 ### Quora
 Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
-Awesome people to follow (Too many people to list, separated by commas and in groups of 3's thus):  
-[Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek), 
-[Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi), 
-[Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson),   
-[Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2), 
-[Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov), 
-[Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k),   
-[Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko), 
-[Vladimir Novakovski (vnovakovski)](https://www.quora.com/profile/Vladimir-Novakovski), 
-[Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4),   
-[Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri), 
-[Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu), 
-[Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia),   
-[Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho), 
-[Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen), 
-[Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti),   
-[Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao), 
-[Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V), 
-[Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1).
+| Awesome people to follow |  |  |  
+| --- | --- | --- |  
+| [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson) |  
+| [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  
+| [Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko) | [Vladimir Novakovski (vnovakovski)](https://www.quora.com/profile/Vladimir-Novakovski) | [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4) |  
+| [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia) |  
+| [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
+| [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) |
 
 
 ## Appendix
