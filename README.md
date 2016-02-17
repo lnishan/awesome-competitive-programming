@@ -52,7 +52,7 @@ What to learn / What to look for.
 - [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
 A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
 - [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)  
-It was said to be an unofficial syllabus for ACM-ICPC.
+It contains a list of important topics in competitive programming with exercise problems.
 
 #### List of Lists
 A list of awesome curated lists.
@@ -215,7 +215,7 @@ Good online judges / contest platforms to practice.
 
 - [Codeforces](http://codeforces.com/)  
 Codeforces is one of the most popular contest platforms in the world. Currently maintained by Saratov State University, it features regular contests and numerous awesome original problems. Every contest provides immediate helpful tutorials. Furthermore, many warm-hearted Codeforces members kindly answers questions on Codeforces. One would indeed learn and improve tremendously here.
-- [TopCoder](https://www.topcoder.com/)  
+- [topcoder](https://www.topcoder.com/)  
 TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. Hence, TopCoder draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discussed event.
 - [Google Code Jam](https://code.google.com/codejam)  
 Google Code Jam is certainly one of the most highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions.
@@ -258,6 +258,7 @@ Calendars for impending programming contests.
 Never miss another contest!
 
 - [Programming Contest Calendar | HackerRank](https://www.hackerrank.com/calendar)
+- [clist.by](http://clist.by/)
 - [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
 - [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 - [CodeHorizon](http://www.star-lord.me/CodeHorizon/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon)
