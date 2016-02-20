@@ -15,7 +15,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
-    * [Knowledge](#knowledge)
+    * [Algorithms and Data Structures](#algorithms-and-data-structures)
         * [Syllabuses](#syllabuses)
         * [List of Lists](#list-of-lists)
         * [Articles](#articles)
@@ -49,10 +49,11 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ## Awesome Reference Materials
 
-### Knowledge
+### Algorithms and Data Structures
+Awesome materials for algorithms and data structures.
 
 #### Syllabuses
-What to learn / What to look for.
+Find out what topics you need to learn.
 
 - [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
 A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
