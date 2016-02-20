@@ -4,6 +4,8 @@ A curated list of awesome competitive programming / algorithm / data structure r
 
 This list was created with a view to connect more people to information. It's aimed to cover a wide range of aspects and be a useful list for all.
 
+[What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
+
 *[![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (link status powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
 
 
@@ -33,10 +35,10 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
     * [Sites to ask Questions](#sites-to-ask-questions)
     * [Other Awesome Websites](#other-awesome-websites)
 * [Social Media](#social-media)
-	* [Blogs](#blogs)
-	* [Team Wikis](#team-wikis)
-	* [Youtube and Livestreams](#youtube-and-livestreams)
-	* [Quora](#quora)
+    * [Blogs](#blogs)
+    * [Team Wikis](#team-wikis)
+    * [Youtube and Livestreams](#youtube-and-livestreams)
+    * [Quora](#quora)
 * [Appendix](#appendix)
     * [Other Awesome Articles and FAQs](#other-awesome-articles-and-faqs)
 * [License](#license)
@@ -178,6 +180,8 @@ This book includes more than 100 programming challenges, as well as the theory a
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads  
 Most of the problems described in the book are really hard but they are explained in such a way that even beginners can understand.  
 It appears to be out of stock (as of Feb 10, 2016), but you can reserve one on their [official website](http://www.lookingforachallengethebook.com). 
+- [Computational Geometry: Algorithms and Applications](http://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), by Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars  
+This is a well-written book which covers a broad range of computational geometry problems.
 - [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb  
 This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
 - [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔  
