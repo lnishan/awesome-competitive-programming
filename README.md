@@ -24,6 +24,9 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
         * [C/C++](#cc)
         * [Java](#java)
         * [Miscellaneous](#miscellaneous)
+    * [Tools](#tools)
+        * [Personal use](#personal-use)
+        * [Contest Preparation](#contest-preparation)
 * [Awesome Learning Materials](#awesome-learning-materials)
     * [Open Courses](#open-courses)
     * [Books](#books)
@@ -154,6 +157,32 @@ Similar post on floating point numbers.
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)  
 A detailed side-by-side reference sheet. This is very helpful for a C++ programmer who wants to learn Java (for BigInteger mostly).
 
+### Tools
+Awesome tools that will make your life easier.
+
+#### Personal use
+
+- [Ineffable](http://codeforces.com/blog/entry/19083)  
+Ineffable is a simple command-line grader for local grading of solutions for problems of competitive programming contests.
+- [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea), for IntelliJ IDEA (Java)  
+CHelper Inlines library codes and provides a testing framework. You may refer to its  [manual](http://codeforces.com/blog/entry/3273).
+- [caide](https://github.com/slycelote/caide), for Visual Studio and CodeLite (C/C++/C#)  
+Inspired by CHelper, caide provides a similar feature set but for C/C++. It does automatic contest parsing, testing and library code inlining.
+- [JHelper](http://codeforces.com/blog/entry/13369), for AppCode and CLion (C/C++)  
+Also inspired by CHelper and designed with similar features.
+- [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
+A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
+
+#### Contest Preparation
+- [polygon](https://polygon.codeforces.com/)  
+polygon provides a platform and a rich set of tools for professional contest preparation. An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426)
+- [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/)
+- [Virtual Judge (vjudge)](http://vjudge.net)  
+Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.
+- [BNU Online Judge](http://www.bnuoj.com/v3/)  
+BNU Online Judge also allows users to create virtual contests.
+- [Kattis](https://open.kattis.com/)  
+Kattis assists in contest preparation (E-mail them for assistance).
 
 ## Awesome Learning Materials
 
@@ -276,16 +305,10 @@ It is suggested that you paste your codes at [ideone](http://ideone.com) or [pas
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
 
 ### Other Awesome Websites
-- [Virtual Judge (vjudge)](http://vjudge.net)  
-Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives such as: Codeforces, SPOJ, UVa, POJ, Codechef ... etc..
-- [BNU Online Judge](http://www.bnuoj.com/v3/)  
-BNU Online Judge also allows users to create virtual contests. The interface is quite nice but it isn't as widely used as the previous one (vjudge).
 - [VisuAlgo](http://visualgo.net)  
 VisuAlgo features a large collection of visualization tools for algorithms and data structures.
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
 USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
-- [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
-A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
 
 ## Social Media
 Meet the god-like competitive programmers!  
