@@ -6,8 +6,6 @@ This list was created with a view to connect more people to information. It's ai
 
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
-*[![Build Status](https://travis-ci.org/lnishan/awesome-competitive-programming.svg?branch=master)](https://travis-ci.org/lnishan/awesome-competitive-programming) (link status powered by [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot))*
-
 
 ## Contributing
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (including TODOs).
@@ -106,9 +104,9 @@ Stanford's team notebook is well maintained and the codes within are high-qualit
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
 - [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 from National Taiwan University  
-bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. Nice implementations for advanced data structures and algorithms.
+bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains nice implementations for advanced data structures and algorithms.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
-A notebook with some advanced data structures and algorithms.
+A notebook with some advanced data structures and algorithms including some from the China IOI camp.
 - [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
 A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant.
 - [igor's code archive](http://shygypsy.com/tools/)  
