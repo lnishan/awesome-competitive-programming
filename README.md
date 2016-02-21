@@ -81,7 +81,9 @@ Emaxx is widely used in the Russian-speaking competitive programming scene. Only
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
 Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
-PEGWiki is arguably much better than Wikipedia. It houses amazing in-depth wiki-like writeups on many topics.
+PEGWiki has amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion.
+- [Notes | HackerEarth](https://www.hackerearth.com/notes/trending/)  
+A great crowdsourcing platform for tutorials.
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
@@ -188,6 +190,8 @@ Kattis assists in contest preparation (E-mail them for assistance).
 ### Open Courses
 It's highly recommended that you begin your competitive programming journey with these awesome courses!
 
+- [Code Monk](https://www.hackerearth.com/codemonk/), by HackerEarth  
+This is a fantastic step-by-step guide to gear one up with some essential topics in competitive programming.
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
 This course offers comprehensive lecture slides and a short list of exercise problems.
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  
