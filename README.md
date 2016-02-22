@@ -83,7 +83,7 @@ Geeksforgeeks has a large amount of nicely written articles on different topics.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
 PEGWiki has amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion.
 - [Notes | HackerEarth](https://www.hackerearth.com/notes/trending/)  
-A great crowdsourcing platform for tutorials.
+A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/codemonk/).
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
@@ -103,15 +103,15 @@ It is advised that you write your own ones before looking at others'.
 This site contains a large amount of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
+- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University  
+bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.
 - [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University  
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
-- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 from National Taiwan University  
-bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains nice implementations for advanced data structures and algorithms.
-- [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet)  
-A notebook with some advanced data structures and algorithms including some from the China IOI camp.
-- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/)  
+- [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)  
+A notebook with some advanced data structures and algorithms including some from the China informatics scene.
+- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), 前原 貴憲 (maehara)  
 A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant.
-- [igor's code archive](http://shygypsy.com/tools/)  
+- [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego)  
 A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.
 
 ### Language Specifics
