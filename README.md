@@ -180,8 +180,6 @@ polygon provides a platform and a rich set of tools for professional contest pre
 - [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/)
 - [Virtual Judge (vjudge)](http://vjudge.net)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.
-- [BNU Online Judge](http://www.bnuoj.com/v3/)  
-BNU Online Judge also allows users to create virtual contests.
 - [Kattis](https://open.kattis.com/)  
 Kattis assists in contest preparation (E-mail them for assistance).
 
