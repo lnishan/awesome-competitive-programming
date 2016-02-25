@@ -100,7 +100,7 @@ Algorithm / Data structure implementations.
 It is advised that you write your own ones before looking at others'.
 
 - [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256)  
-This site contains a large amount of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
+This site contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
 - [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
 Stanford's team notebook is well maintained and the codes within are high-quality.
 - [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University  
@@ -171,6 +171,8 @@ CHelper Inlines library codes and provides a testing framework. You may refer to
 Inspired by CHelper, caide provides a similar feature set but for C/C++. It does automatic contest parsing, testing and library code inlining.
 - [JHelper](http://codeforces.com/blog/entry/13369), for AppCode and CLion (C/C++)  
 Also inspired by CHelper and designed with similar features.
+- Codeforces Parsers: [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser), [GoCF](https://github.com/sukeesh/GoCF), [cfparser](https://github.com/gnull/cfparser) (for emacs)  
+These tools parse Codeforces contest problems and help run sample tests.
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
 A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
 
@@ -191,7 +193,7 @@ Kattis assists in contest preparation (E-mail them for assistance).
 It's highly recommended that you begin your competitive programming journey with these awesome courses!
 
 - [Code Monk](https://www.hackerearth.com/codemonk/), by HackerEarth  
-This is a fantastic step-by-step guide to gear one up with some essential topics in competitive programming.
+This is a fantastic step-by-step guide to gear you up with some essential topics in competitive programming.
 - [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
 This course offers comprehensive lecture slides and a short list of exercise problems.
 - [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  
@@ -206,7 +208,7 @@ A list of recommended books for competitive programming.
 
 - [Competitive Programming](http://cpbook.net/), by Steven and Felix Halim  
 This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book.  
-The first edition is free for [download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
+The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
 - [Programming Challenges: The Programming Contest Training Manual](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla  
 This book includes more than 100 programming challenges, as well as the theory and key concepts necessary for approaching them. Problems are organized by topic, and supplemented by complete tutorial material.
 - [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads  
@@ -215,7 +217,7 @@ It appears to be out of stock (as of Feb 10, 2016), but you can reserve one on t
 - [Computational Geometry: Algorithms and Applications](http://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), by Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars  
 This is a well-written book which covers a broad range of computational geometry problems.
 - [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb  
-This book is free for [download](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
+This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming.
 - [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔  
 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional)
 - [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳  
@@ -243,6 +245,8 @@ Discrete Mathematics is closely relevant to competitive programming. This book p
 The book offers a deeper look into Discrete Mathematics with more stresses on number-related topics.
 - [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?ie=UTF8&qid=1455475253&sr=8-1&keywords=Linear+Algebra+and+Its+Applications), by David C. Lay, Steven R. Lay, Judi J. McDonald  
 The book does a good job at bridging the gap between a physical system (for scientists and engineers) and an abstract system (for mathematicians).
+- [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell  
+This is a well-written introductory probabilities book. It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License).
 - [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya  
 An old-time classic. Overall, the author provides a systematic way to creatively solve problems.
 
