@@ -244,7 +244,7 @@ The lecture slides that accompany the textbook are available on its [official we
 - [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena  
 The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](http://www.algorist.com).
 - [Algorithms](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne  
-This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations.
+This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It seems to be used in some IOI training camps as textbook.
 
 #### Books for Mathematics
 - [Discrete Mathematics and Its Applications](http://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050), by Kenneth H. Rosen  
@@ -353,6 +353,7 @@ Learn helpful tips, tutorials and insights from these people :)
 - Adam Bardashevich (subscriber): [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw)
 - Bohdan Pryshchenko (I_love_Tanya_Romanova): [Twitch](http://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
 - Vladimir Smykalov (enot.1.10): [Twitch](http://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
+- Aleksandar Abas (Alex7): [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw)
 
 ### Quora
 Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
