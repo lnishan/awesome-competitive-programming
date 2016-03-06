@@ -27,6 +27,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
         * [Contest Preparation](#contest-preparation)
 * [Awesome Learning Materials](#awesome-learning-materials)
     * [Open Courses](#open-courses)
+        * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
     * [Books](#books)
         * [Books for Algorithms](#books-for-algorithms)
         * [Books for Mathematics](#books-for-mathematics)
@@ -65,7 +66,7 @@ A list of awesome curated lists.
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
-- [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)  
+- [hkirat/Algorithmic-Resources](https://github.com/hkirat/algorithmic-resources)  
 This list collected materials for some relevant topics in competitive programming.
 
 #### Articles
@@ -109,7 +110,7 @@ bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-I
 One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
 - [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)  
 A notebook with some advanced data structures and algorithms including some from the China informatics scene.
-- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), 前原 貴憲 (maehara)  
+- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), by 前原 貴憲 (maehara)  
 A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant.
 - [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego)  
 A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.
@@ -203,6 +204,13 @@ A course on basic topics featuring good lecture slides.
 - [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
 Good lecture materials made by CKHS Infor Club.
 
+#### Open Courses for Algorithms and Data Structures
+
+- [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms)  
+A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
+- [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)  
+This one isn't included on the list above, but it's by far my personal favorite. This course was lectured by Prof. Charles Leiserson (coauthor of  Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field. The course offered great materials and generally more intuitive proofs and analyses.
+
 ### Books
 A list of recommended books for competitive programming.
 
@@ -256,7 +264,7 @@ Good online judges / contest platforms to practice.
 - [Codeforces](http://codeforces.com/)  
 Codeforces is one of the most popular contest platforms in the world. Currently maintained by Saratov State University, it features regular contests and numerous awesome original problems. Every contest provides immediate helpful tutorials. Furthermore, many warm-hearted Codeforces members kindly answers questions on Codeforces. One would indeed learn and improve tremendously here.
 - [topcoder](https://www.topcoder.com/)  
-TopCoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. Hence, TopCoder draws many elite programmers to compete and practice here. It has arguably been on a decline, but it still is a superb platform to practice. The annual TopCoder Open is also a widely-discussed event.
+topcoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. Hence, topcoder draws many elite programmers which makes the platform even more challenging and engaging. It has arguably been on a decline, but it still is a superb platform to practice. The annual topcoder Open (TCO) is also a widely-discussed event.
 - [Google Code Jam](https://code.google.com/codejam)  
 Google Code Jam is certainly one of the most highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions.
 - [CodeChef](https://www.codechef.com/)  
