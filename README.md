@@ -66,7 +66,7 @@ A list of awesome curated lists.
 A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
 - [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
 A very complete list of competitive programming resources. A must-have in your browser bookmark.
-- [hkirat/Algorithmic-Resources](https://github.com/hkirat/algorithmic-resources)  
+- [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resoureces)  
 This list collected materials for some relevant topics in competitive programming.
 
 #### Articles
