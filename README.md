@@ -22,7 +22,6 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
     * [Books](#books) -> [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
     * [Sites to Practice](#sites-to-practice) -> [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
     * [Sites to ask Questions](#sites-to-ask-questions)
-    * [Other Awesome Websites](#other-awesome-websites)
 * [Appendix](#appendix)
     * [Social Media](#social-media) -> [Blogs](#blogs) | [Team Wikis](#team-wikis) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
     * [Other Awesome Articles and FAQs](#other-awesome-articles-and-faqs)
@@ -143,22 +142,27 @@ Awesome tools that will make your life easier.
 
 #### Personal use
 
-- [Ineffable](http://codeforces.com/blog/entry/19083)  
-Ineffable is a simple command-line grader for local grading of solutions for problems of competitive programming contests.
-- [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea), for IntelliJ IDEA (Java)  
-CHelper Inlines library codes and provides a testing framework. You may refer to its  [manual](http://codeforces.com/blog/entry/3273).
-- [caide](https://github.com/slycelote/caide), for Visual Studio and CodeLite (C/C++/C#)  
-Inspired by CHelper, caide provides a similar feature set but for C/C++. It does automatic contest parsing, testing and library code inlining.
-- [JHelper](http://codeforces.com/blog/entry/13369), for AppCode and CLion (C/C++)  
-Also inspired by CHelper and designed with similar features.
-- Codeforces Parsers: [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser), [GoCF](https://github.com/sukeesh/GoCF), [cfparser](https://github.com/gnull/cfparser) (for emacs)  
+- General Practice Helpers:  
+These tools parse contests, inlines library codes and provides a testing framework.
+    - [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea), for IntelliJ IDEA (Java) ([manual](http://codeforces.com/blog/entry/3273))
+    - [caide](https://github.com/slycelote/caide), for Visual Studio and CodeLite (C/C++/C#)
+    - [JHelper](http://codeforces.com/blog/entry/13369), for AppCode and CLion (C/C++)
+- Codeforces Parsers:  
 These tools parse Codeforces contest problems and help run sample tests.
+    - [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser)
+    - [GoCF](https://github.com/sukeesh/GoCF)
+    - [cfparser](https://github.com/gnull/cfparser), for emacs
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
 A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
+- [VisuAlgo](http://visualgo.net)  
+VisuAlgo features a large collection of visualization tools for algorithms and data structures.
+- [Ineffable](http://codeforces.com/blog/entry/19083)  
+Ineffable is a simple command-line grader for local grading of solutions for problems of competitive programming contests.
 
 #### Contest Preparation
 - [polygon](https://polygon.codeforces.com/)  
-polygon provides a platform and a rich set of tools for professional contest preparation. An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426)
+polygon provides a platform and a rich set of tools for professional contest preparation.  
+An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426)
 - [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/)
 - [Virtual Judge (vjudge)](http://vjudge.net)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.
@@ -297,10 +301,6 @@ It is suggested that you paste your codes at [ideone](http://ideone.com) or [pas
 - [Codeforces](http://codeforces.com/)
 - [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
 - [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
-
-### Other Awesome Websites
-- [VisuAlgo](http://visualgo.net)  
-VisuAlgo features a large collection of visualization tools for algorithms and data structures.
 
 
 ## Appendix
