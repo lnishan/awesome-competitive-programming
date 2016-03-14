@@ -13,35 +13,18 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
-    * [Algorithms and Data Structures](#algorithms-and-data-structures)
-        * [Syllabuses](#syllabuses)
-        * [List of Lists](#list-of-lists)
-        * [Articles](#articles)
+    * [Algorithms and Data Structures](#algorithms-and-data-structures) -> [Syllabuses](#syllabuses) | [List of Lists](#list-of-lists) | [Articles](#articles)
     * [Implementations / Notebooks](#implementations--notebooks)
-    * [Language Specifics](#language-specifics)
-        * [C/C++](#cc)
-        * [Java](#java)
-        * [Miscellaneous](#miscellaneous)
-    * [Tools](#tools)
-        * [Personal use](#personal-use)
-        * [Contest Preparation](#contest-preparation)
+    * [Language Specifics](#language-specifics) -> [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
+    * [Tools](#tools) -> [Personal use](#personal-use), [Contest Preparation](#contest-preparation)
 * [Awesome Learning Materials](#awesome-learning-materials)
-    * [Open Courses](#open-courses)
-        * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
-    * [Books](#books)
-        * [Books for Algorithms](#books-for-algorithms)
-        * [Books for Mathematics](#books-for-mathematics)
-    * [Sites to Practice](#sites-to-practice)
-        * [Problem Classifiers](#problem-classifiers)
-        * [Contest Calendars](#contest-calendars)
+    * [Open Courses](#open-courses) -> [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
+    * [Books](#books) -> [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
+    * [Sites to Practice](#sites-to-practice) -> [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
     * [Sites to ask Questions](#sites-to-ask-questions)
     * [Other Awesome Websites](#other-awesome-websites)
-* [Social Media](#social-media)
-    * [Blogs](#blogs)
-    * [Team Wikis](#team-wikis)
-    * [Youtube and Livestreams](#youtube-and-livestreams)
-    * [Quora](#quora)
 * [Appendix](#appendix)
+    * [Social Media](#social-media) -> [Blogs](#blogs) | [Team Wikis](#team-wikis) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
     * [Other Awesome Articles and FAQs](#other-awesome-articles-and-faqs)
 * [License](#license)
 
@@ -325,11 +308,14 @@ VisuAlgo features a large collection of visualization tools for algorithms and d
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
 USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
 
-## Social Media
+
+## Appendix
+
+### Social Media
 Meet the god-like competitive programmers!  
 Learn helpful tips, tutorials and insights from these people :)
 
-### Blogs
+#### Blogs
 - [Codeforces blogs](http://codeforces.com/)
 - Petr Mitrichev (Petr): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
 - Bruce Merry (bmerry): [Entropy always increases](http://blog.brucemerry.org.za/)
@@ -343,10 +329,10 @@ Learn helpful tips, tutorials and insights from these people :)
 - Shiang-Yun Yang (morris1028): [Morris' Blog (Chinese)](http://morris821028.github.io/)
 - Yuhao Du (TooDifficuIt, TooSimple, xudyh): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
 
-### Team Wikis
+#### Team Wikis
 - Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
 
-### Youtube and Livestreams
+#### Youtube and Livestreams
 - [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw)
 - Petr Mitrichev (Petr): [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
 - Egor Kulikov (Egor): [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
@@ -355,7 +341,7 @@ Learn helpful tips, tutorials and insights from these people :)
 - Vladimir Smykalov (enot.1.10): [Twitch](http://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
 - Aleksandar Abas (Alex7): [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw)
 
-### Quora
+#### Quora
 Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
 | Awesome people to follow |  |  |  
@@ -366,9 +352,6 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 | [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia) |  
 | [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
 | [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) |
-
-
-## Appendix
 
 ### Other Awesome Articles and FAQs
 
