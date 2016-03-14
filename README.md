@@ -143,7 +143,7 @@ Awesome tools that will make your life easier.
 #### Personal use
 
 - General Practice Helpers:  
-These tools parse contests, inlines library codes and provides a testing framework.
+These tools parse contests, inline library codes and provide testing frameworks.
     - [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea), for IntelliJ IDEA (Java) ([manual](http://codeforces.com/blog/entry/3273))
     - [caide](https://github.com/slycelote/caide), for Visual Studio and CodeLite (C/C++/C#)
     - [JHelper](http://codeforces.com/blog/entry/13369), for AppCode and CLion (C/C++)
