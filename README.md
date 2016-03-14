@@ -13,7 +13,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
-    * [Algorithms and Data Structures](#algorithms-and-data-structures) -> [Syllabuses](#syllabuses) | [List of Lists](#list-of-lists) | [Articles](#articles)
+    * [Algorithms and Data Structures](#algorithms-and-data-structures) -> [Syllabuses](#syllabuses) | [List of Lists](#list-of-lists)
     * [Implementations / Notebooks](#implementations--notebooks)
     * [Language Specifics](#language-specifics) -> [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
     * [Tools](#tools) -> [Personal use](#personal-use), [Contest Preparation](#contest-preparation)
@@ -32,31 +32,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 ## Awesome Reference Materials
 
 ### Algorithms and Data Structures
-Awesome materials for algorithms and data structures.
-
-#### Syllabuses
-Find out what topics you need to learn.
-
-- [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
-A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
-- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)  
-It contains a list of important topics in competitive programming with exercise problems.
-
-#### List of Lists
-A list of awesome curated lists.
-
-- [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
-A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
-- [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
-A very complete list of competitive programming resources. A must-have in your browser bookmark.
-- [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resoureces)  
-This list collected materials for some relevant topics in competitive programming.
-
-#### Articles
-Sites with awesome articles.
-
-In addition to the [List of Lists](#list-of-lists) section above,  
-Here are some additional ones:
+Awesome websites to lookup and learn algorithms and data structures.
 
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected topcoder members. Many top programmers started learning data sciences from here.
@@ -68,6 +44,8 @@ Geeksforgeeks has a large amount of nicely written articles on different topics.
 PEGWiki has amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion.
 - [Notes | HackerEarth](https://www.hackerearth.com/notes/trending/)  
 A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/codemonk/).
+- [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
+USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
@@ -78,6 +56,24 @@ These are papers from the Chinese IOI training camps. It's interesting for the f
 A set of videos explaining LeetCode problems.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
 This site offers tutorials on popular interview topics.
+
+#### Syllabuses
+Find out what topics you need to learn.
+
+- [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
+A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
+- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)  
+It contains a list of important topics in competitive programming with exercise problems.
+
+#### List of Lists
+These are some other awesome curated lists.
+
+- [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
+A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
+- [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
+A very complete list of competitive programming resources. A must-have in your browser bookmark.
+- [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resoureces)  
+This list collected materials for some relevant topics in competitive programming.
 
 ### Implementations / Notebooks
 Algorithm / Data structure implementations.  
@@ -305,8 +301,6 @@ It is suggested that you paste your codes at [ideone](http://ideone.com) or [pas
 ### Other Awesome Websites
 - [VisuAlgo](http://visualgo.net)  
 VisuAlgo features a large collection of visualization tools for algorithms and data structures.
-- [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
-USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
 
 
 ## Appendix
