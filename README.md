@@ -53,6 +53,8 @@ PEGWiki has amazing in-depth wiki-like writeups on many topics. It's far better 
 A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/codemonk/).
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/)  
 USACO contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace.
+- [OLYMPIADS IN INFORMATICS](http://www.mii.lt/olympiads_in_informatics/index.html)  
+An international journal focused on the research and practice of professionals who are working in the field of teaching and learning informatics to talented student. 
 - [algolist (Russian)](http://algolist.manual.ru/)  
 algolist is a website devoted to algorithms of all sorts.
 - [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/)  
@@ -146,6 +148,8 @@ Awesome tools that will make your life easier.
 
 #### Personal use
 
+- [VisuAlgo](http://visualgo.net)  
+VisuAlgo features a large collection of visualization tools for algorithms and data structures.
 - General Practice Helpers:  
 These tools parse contests, inline library codes and provide testing frameworks.
     - [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea), for IntelliJ IDEA (Java) ([manual](http://codeforces.com/blog/entry/3273))
@@ -158,8 +162,6 @@ These tools parse Codeforces contest problems and help run sample tests.
     - [cfparser](https://github.com/gnull/cfparser), for emacs
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
 A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
-- [VisuAlgo](http://visualgo.net)  
-VisuAlgo features a large collection of visualization tools for algorithms and data structures.
 - [Ineffable](http://codeforces.com/blog/entry/19083)  
 Ineffable is a simple command-line grader for local grading of solutions for problems of competitive programming contests.
 
@@ -167,7 +169,8 @@ Ineffable is a simple command-line grader for local grading of solutions for pro
 - [polygon](https://polygon.codeforces.com/)  
 polygon provides a platform and a rich set of tools for professional contest preparation.  
 An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426)
-- [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/)
+- [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/)  
+This is a very simple tool to visualize small graphs.
 - [Virtual Judge (vjudge)](http://vjudge.net)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.
 - [BNU Online Judge](http://www.bnuoj.com/v3/)  
@@ -251,7 +254,7 @@ Good online judges / contest platforms to practice.
 - [Codeforces](http://codeforces.com/)  
 Codeforces is one of the most popular contest platforms in the world. Currently maintained by Saratov State University, it features regular contests and numerous awesome original problems. Every contest provides immediate helpful tutorials. Furthermore, many warm-hearted Codeforces members kindly answers questions on Codeforces. One would indeed learn and improve tremendously here.
 - [topcoder](https://www.topcoder.com/)  
-topcoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others. Hence, topcoder draws many elite programmers which makes the platform even more challenging and engaging. It has arguably been on a decline, but it still is a superb platform to practice. The annual topcoder Open (TCO) is also a widely-discussed event.
+topcoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and topcoder therefore appeals to many elite programmers . The annual topcoder Open (TCO) is also a widely-discussed event.
 - [Google Code Jam](https://code.google.com/codejam)  
 Google Code Jam is certainly one of the most highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions.
 - [CodeChef](https://www.codechef.com/)  
@@ -263,7 +266,7 @@ Timus Online Judge is the largest Russian archive of programming problems with a
 - [SGU](http://acm.sgu.ru/)  
 SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
 - [HDU](http://acm.hdu.edu.cn/)  
-HDU is an online judge maintained by Hangzhou Dianzi University. It holds a pretty nice problemset. Users can also run virtual contests on this platform.
+HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene.
 - [UVa](https://uva.onlinejudge.org/)  
 An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
 - [HackerRank](https://www.hackerrank.com)  
@@ -279,7 +282,7 @@ Aizu online judge is a contest platform and problem archive hosted by The Univer
 
 #### Problem Classifiers
 Sites classifying programming problems.  
-Choose a category (eg. DP) of interest and practice problems on that topic.
+You can choose a category (eg. DP) of interest and practice problems on that topic.
 
 - [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
@@ -290,7 +293,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 
 #### Contest Calendars
 Calendars for impending programming contests.  
-Never miss another contest!
+(Never miss another contest!)
 
 - [Programming Contest Calendar | HackerRank](https://www.hackerrank.com/calendar)
 - [clist.by](http://clist.by/)
@@ -300,11 +303,14 @@ Never miss another contest!
 
 ### Sites to ask Questions
 These are great sites to ask questions.  
-It is suggested that you paste your codes at [ideone](http://ideone.com) or [pastebin](http://pastebin.com).
+Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com) or other sites to avoid formatting issues.
 
-- [Codeforces](http://codeforces.com/)
-- [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
-- [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)
+- [Codeforces](http://codeforces.com/)  
+For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related.
+- [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)  
+You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway.
+- [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)  
+This place is generally for the academics, so don't ask questions about contest problems here.
 
 
 ## Appendix
