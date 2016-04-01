@@ -13,18 +13,26 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
-    * [Algorithms and Data Structures](#algorithms-and-data-structures) -> [Syllabuses](#syllabuses) | [List of Lists](#list-of-lists)
+    * [Algorithms and Data Structures](#algorithms-and-data-structures)
+        * [Syllabuses](#syllabuses) | [List of Lists](#list-of-lists)
     * [Implementations / Notebooks](#implementations--notebooks)
-    * [Language Specifics](#language-specifics) -> [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
-    * [Tools](#tools) -> [Personal use](#personal-use), [Contest Preparation](#contest-preparation)
+    * [Language Specifics](#language-specifics)
+        * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
+    * [Tools](#tools)
+        * [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
 * [Awesome Learning Materials](#awesome-learning-materials)
-    * [Open Courses](#open-courses) -> [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
-    * [Books](#books) -> [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
-    * [Sites to Practice](#sites-to-practice) -> [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
+    * [Open Courses](#open-courses)
+        * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
+    * [Books](#books)
+        * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
+    * [Sites to Practice](#sites-to-practice)
+        * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
     * [Sites to ask Questions](#sites-to-ask-questions)
 * [Appendix](#appendix)
-    * [Social Media](#social-media) -> [Blogs](#blogs) | [Team Wikis](#team-wikis) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
-    * [Other Awesome Articles and FAQs](#other-awesome-articles-and-faqs)
+    * [Social Media](#social-media)
+        * [Blogs](#blogs) | [Team Wikis](#team-wikis) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
+    * [Other Awesome Resources](#other-awesome-resources)
+        * [Articles](articles) | [FAQs](#faqs) | [Interview Questions](#interview-questions)
 * [License](#license)
 
 
@@ -51,10 +59,6 @@ algolist is a website devoted to algorithms of all sorts.
 演算法筆記 is one of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms.
 - [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1)  
 These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things.
-- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
-A set of videos explaining LeetCode problems.
-- [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
-This site offers tutorials on popular interview topics.
 
 #### Syllabuses
 Find out what topics you need to learn.
@@ -347,10 +351,14 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 | [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
 | [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) |
 
-### Other Awesome Articles and FAQs
+### Other Awesome Resources
+
+#### Articles
 
 - [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
 - [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
+
+#### FAQs
 
 - [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5)
 - [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
@@ -359,6 +367,11 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 - [How is competitive programming different from real-life programming? - Quora](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
 - [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming)
 
+#### Interview Questions
+- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
+A set of videos explaining LeetCode problems.
+- [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
+This site offers tutorials on popular interview topics.
 
 ## License
 
