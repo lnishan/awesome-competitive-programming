@@ -141,7 +141,7 @@ This post teaches everything one needs to know about floating point numbers. A m
 - [你应该知道的浮点数基础知识 • cenalulu's Tech Blog (Chinese)](http://cenalulu.github.io/linux/about-denormalized-float-number/)  
 Similar post on floating point numbers.
 - [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp)  
-A detailed side-by-side reference sheet. This is very helpful for a C++ programmer who wants to learn Java (for BigInteger mostly).
+A detailed side-by-side reference sheet for common syntaxes.
 
 ### Tools
 Awesome tools that will make your life easier.
@@ -163,7 +163,7 @@ These tools parse Codeforces contest problems and help run sample tests.
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
 A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
 - [Ineffable](http://codeforces.com/blog/entry/19083)  
-Ineffable is a simple command-line grader for local grading of solutions for problems of competitive programming contests.
+Ineffable is a simple command-line grader for local grading.
 
 #### Contest Preparation
 - [polygon](https://polygon.codeforces.com/)  
@@ -246,7 +246,7 @@ The book does a good job at bridging the gap between a physical system (for scie
 - [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell  
 This is a well-written introductory probabilities book. It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License).
 - [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya  
-An old-time classic. Overall, the author provides a systematic way to creatively solve problems.
+An old-time classic. In this book, the author provides a systematic way to solve problems creatively.
 
 ### Sites to Practice
 Good online judges / contest platforms to practice.
@@ -274,7 +274,7 @@ HackerRank is a company that focuses on competitive programming challenges for b
 - [POJ](http://poj.org/)  
 POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
 - [Project Euler](https://projecteuler.net/)  
-There are lots of good math problems on this site. You may also discuss with others on its forum.
+Project Euler features a stunning set of good math problems. You may also discuss with others on its forum.
 - [Hackerearth](https://www.hackerearth.com/)  
 HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. Its clients include Adobe, Altimetrik, Citrix Systems, InMobi, Symantec and Wipro.
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
