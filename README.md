@@ -272,11 +272,11 @@ An old-school problem archive / online judge with rich history. Thousands of pro
 - [HackerRank](https://www.hackerrank.com)  
 HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages (including, but not limited to, Java, C++, PHP, SQL) and span multiple computer science domains.
 - [POJ](http://poj.org/)  
-POJ is an online judge maintained by Peking University. It holds a large amount of great problems.
+POJ is an online judge maintained by Peking University. Many great problems can be found here.
 - [Project Euler](https://projecteuler.net/)  
-Project Euler features a stunning set of good math problems. You may also discuss with others on its forum.
+Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss.
 - [Hackerearth](https://www.hackerearth.com/)  
-HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. Its clients include Adobe, Altimetrik, Citrix Systems, InMobi, Symantec and Wipro.
+HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions.
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
 Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan.
 
