@@ -374,7 +374,7 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 - [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming)
 
 #### Interview Questions
-- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLvHc59peqCbM43SNkoQpk59Ys05kHbHjH)  
+- [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLGvfHSgImk4ZR3v2drDwHrmwu2a645sxL)  
 A set of videos explaining LeetCode problems.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
 This site offers tutorials on popular interview topics.
