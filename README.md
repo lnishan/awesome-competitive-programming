@@ -173,7 +173,7 @@ An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/
 This is a very simple tool to visualize small graphs.
 - [Virtual Judge (vjudge)](http://vjudge.net)  
 Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.
-- [BNU Online Judge](http://www.bnuoj.com/v3/)  
+- [BNU Online Judge](https://www.bnuoj.com/v3/)  
 BNU Online Judge also allows users to create virtual contests.
 - [Kattis](https://open.kattis.com/)  
 Kattis assists in contest preparation (E-mail them for assistance).
@@ -221,7 +221,7 @@ This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc
 - [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳  
 The Art of Algorithms and Programming Contests (English)  
 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional)
-- [算法竞赛入门经典——训练指南 (Chinese)](http://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋  
+- [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋  
 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional)
 - [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮
 
@@ -284,7 +284,7 @@ Aizu online judge is a contest platform and problem archive hosted by The Univer
 Sites classifying programming problems.  
 You can choose a category (eg. DP) of interest and practice problems on that topic.
 
-- [A2 Online Judge (Mixed)](http://a2oj.com/Categories.jsp)
+- [A2 Online Judge (Mixed)](https://a2oj.com/Categories.jsp)
 - [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
 - [UVa Online Judge (Competitive Programming Book)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
 - [Codeforces Tags (DP as an example)](http://codeforces.com/problemset/tags/dp)
