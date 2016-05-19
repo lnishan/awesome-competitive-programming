@@ -244,15 +244,17 @@ An old-time classic. In this book, the author provides a systematic way to solve
 | ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
 
 #### Problem Classifiers
-Sites classifying programming problems.  
+> Sites classifying programming problems.  
 You can choose a category (eg. DP) of interest and practice problems on that topic.
 
-- [A2 Online Judge (Mixed)](https://a2oj.com/Categories.jsp)
-- [Problem Classifier (SPOJ)](http://problemclassifier.appspot.com/)
-- [UVa Online Judge (Competitive Programming Book)](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
-- [Codeforces Tags (DP as an example)](http://codeforces.com/problemset/tags/dp)
-- [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
-- [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [A2 Online Judge](https://a2oj.com/Categories.jsp) | Mixed |
+| ★★★ | [Problem Classifier](http://problemclassifier.appspot.com/) | SPOJ |
+| ★★☆ | [UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) | CP Book |
+| ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset/tags/dp) | CF (DP) |
+| ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup) | HackerRank |
+| ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 
 #### Contest Calendars
 > Calendars for impending programming contests.  
