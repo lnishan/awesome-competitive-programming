@@ -159,25 +159,22 @@ Kattis assists in contest preparation (E-mail them for assistance).
 ## Awesome Learning Materials
 
 ### Open Courses
-It's highly recommended that you begin your competitive programming journey with these awesome courses!
+> It's highly recommended that you begin your competitive programming journey with these awesome courses!
 
-- [Code Monk](https://www.hackerearth.com/codemonk/), by HackerEarth  
-This is a fantastic step-by-step guide to gear you up with some essential topics in competitive programming.
-- [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/)  
-This course offers comprehensive lecture slides and a short list of exercise problems.
-- [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  
-An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice.
-- [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  
-A course on basic topics featuring good lecture slides.
-- [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012)  
-Good lecture materials made by CKHS Infor Club.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Code Monk](https://www.hackerearth.com/codemonk/), by HackerEarth | This is a fantastic step-by-step guide to gear you up with some essential topics in competitive programming. |
+| ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | This course offers comprehensive lecture slides and a short list of exercise problems. |
+| ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
+| ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides.
+| ★☆☆ | [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012) | Good lecture materials made by CKHS Infor Club. |
 
 #### Open Courses for Algorithms and Data Structures
 
-- [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms)  
-A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
-- [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)  
-This one isn't included on the list above, but it's by far my personal favorite. This course was lectured by Prof. Charles Leiserson (coauthor of  Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field. The course offered great materials and generally more intuitive proofs and analyses.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
+| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | This one isn't included on the list above, but it's by far my personal favorite. This course was lectured by Prof. Charles Leiserson (coauthor of  Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field. The course offered great materials and generally more intuitive proofs and analyses. |
 
 ### Books
 A list of recommended books for competitive programming.
