@@ -84,20 +84,15 @@ This list collected materials for some relevant topics in competitive programmin
 Algorithm / Data structure implementations.  
 It is advised that you write your own ones before looking at others'.
 
-- [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256)  
-This site contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary).
-- [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html)  
-Stanford's team notebook is well maintained and the codes within are high-quality.
-- [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University  
-bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.
-- [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University  
-One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from.
-- [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)  
-A notebook with some advanced data structures and algorithms including some from the China informatics scene.
-- [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), by 前原 貴憲 (maehara)  
-A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant.
-- [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego)  
-A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256) | This site contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
+| ★★☆ | [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html) | Stanford's team notebook is well maintained and the codes within are high-quality. |
+| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
+| ★☆☆ | [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University | One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from. |
+| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
+| ★★☆ | [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), by 前原 貴憲 (maehara) | A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant. |
+| ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
 
 ### Language Specifics
 This section mainly focuses on languages and other miscellaneous knowledge.
