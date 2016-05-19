@@ -20,6 +20,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
         * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
     * [Tools](#tools)
         * [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
+
 * [Awesome Learning Materials](#awesome-learning-materials)
     * [Open Courses](#open-courses)
         * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
@@ -28,11 +29,13 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
     * [Sites to Practice](#sites-to-practice)
         * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
     * [Sites to ask Questions](#sites-to-ask-questions)
+
 * [Appendix](#appendix)
     * [Social Media](#social-media)
         * [Blogs](#blogs) | [Team Wikis](#team-wikis) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
     * [Other Awesome Resources](#other-awesome-resources)
         * [Articles](articles) | [FAQs](#faqs) | [Interview Questions](#interview-questions)
+
 * [License](#license)
 
 
