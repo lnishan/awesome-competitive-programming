@@ -249,36 +249,24 @@ This is a well-written introductory probabilities book. It's free for [download 
 An old-time classic. In this book, the author provides a systematic way to solve problems creatively.
 
 ### Sites to Practice
-Good online judges / contest platforms to practice.
+> Good online judges / contest platforms to practice.
 
-- [Codeforces](http://codeforces.com/)  
-Codeforces is one of, if not, the most popular contest platforms out there. Currently maintained by Saratov State University, it features regular contests and countless awesome original problems. Additionally, every contest provides immediate helpful tutorials (usually) written by the authors themselves. Codeforces also houses a strong and engaging community. All in all, ene would indeed learn and improve tremendously here.
-- [topcoder](https://www.topcoder.com/)  
-topcoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and topcoder therefore appeals to many elite programmers . The annual topcoder Open (TCO) is also a widely-discussed event.
-- [Google Code Jam](https://code.google.com/codejam)  
-Google Code Jam is certainly one of the most highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions.
-- [CodeChef](https://www.codechef.com/)  
-CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India.
-- [SPOJ](http://www.spoj.com/)  
-The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules.
-- [Timus](http://acm.timus.ru/)  
-Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
-- [SGU](http://acm.sgu.ru/)  
-SGU is an old-school online judge maintained by Saratov State University. A renowned competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
-- [HDU](http://acm.hdu.edu.cn/)  
-HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene.
-- [UVa](https://uva.onlinejudge.org/)  
-An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
-- [HackerRank](https://www.hackerrank.com)  
-HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains.
-- [POJ](http://poj.org/)  
-POJ is an online judge with many great problems maintained by Peking University.
-- [Project Euler](https://projecteuler.net/)  
-Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss.
-- [Hackerearth](https://www.hackerearth.com/)  
-HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions.
-- [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  
-Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Codeforces](http://codeforces.com/) | Codeforces is one of, if not, the most popular contest platforms out there. Currently maintained by Saratov State University, it features regular contests and countless awesome original problems. Additionally, every contest provides immediate helpful tutorials (usually) written by the authors themselves. Codeforces also houses a strong and engaging community. All in all, ene would indeed learn and improve tremendously here. |
+| ★★★ | [topcoder](https://www.topcoder.com/) | topcoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and topcoder therefore appeals to many elite programmers. The annual topcoder Open (TCO) is also a widely-discussed event. |
+| ★★★ | [Google Code Jam](https://code.google.com/codejam) | Google Code Jam is certainly one of the most highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions. |
+| ★★☆ | [CodeChef](https://www.codechef.com/) | CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India. |
+| ★★★ | [SPOJ](http://www.spoj.com/) | The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules. |
+| ★★☆ | [Timus](http://acm.timus.ru/) | Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps. |
+| ★★☆ | [SGU](http://acm.sgu.ru/) | SGU is an old-school online judge maintained by Saratov State University. A renowned competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills. |
+| ★☆☆ | [HDU](http://acm.hdu.edu.cn/) | HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene. |
+| ★☆☆ | [UVa](https://uva.onlinejudge.org/) | An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section. |
+| ★★☆ | [HackerRank](https://www.hackerrank.com) | HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains. |
+| ★★☆ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. |
+| ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
+| ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. |
+| ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
 
 #### Problem Classifiers
 Sites classifying programming problems.  
@@ -292,7 +280,7 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 - [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/)
 
 #### Contest Calendars
-Calendars for impending programming contests.  
+> Calendars for impending programming contests.  
 (Never miss another contest!)
 
 | ☆ | Name | Description |
