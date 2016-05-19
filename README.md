@@ -44,7 +44,7 @@ Awesome websites to lookup and learn algorithms and data structures.
 - [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 This is a list of tutorials written by respected topcoder members. Many top programmers started learning data sciences from here.
 - [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/)  
-Emaxx is widely used in the Russian-speaking competitive programming scene. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
+Emaxx is widely used in the Russian-speaking competitive programming community. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
 - [Algorithms | GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)  
 Geeksforgeeks has a large amount of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.
 - [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)   
@@ -252,7 +252,7 @@ An old-time classic. In this book, the author provides a systematic way to solve
 Good online judges / contest platforms to practice.
 
 - [Codeforces](http://codeforces.com/)  
-Codeforces is one of the most popular contest platforms in the world. Currently maintained by Saratov State University, it features regular contests and numerous awesome original problems. Every contest provides immediate helpful tutorials. Furthermore, many warm-hearted Codeforces members kindly answers questions on Codeforces. One would indeed learn and improve tremendously here.
+Codeforces is one of, if not, the most popular contest platforms out there. Currently maintained by Saratov State University, it features regular contests and countless awesome original problems. Additionally, every contest provides immediate helpful tutorials (usually) written by the authors themselves. Codeforces also houses a strong and engaging community. All in all, ene would indeed learn and improve tremendously here.
 - [topcoder](https://www.topcoder.com/)  
 topcoder has been around since 2001. Rich in history, It's considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and topcoder therefore appeals to many elite programmers . The annual topcoder Open (TCO) is also a widely-discussed event.
 - [Google Code Jam](https://code.google.com/codejam)  
@@ -264,15 +264,15 @@ The SPOJ platform is centered around an online judge system. It holds a staggeri
 - [Timus](http://acm.timus.ru/)  
 Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
 - [SGU](http://acm.sgu.ru/)  
-SGU is an old-school online judge maintained by Saratov State University. A high-rated competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
+SGU is an old-school online judge maintained by Saratov State University. A renowned competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills.
 - [HDU](http://acm.hdu.edu.cn/)  
 HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene.
 - [UVa](https://uva.onlinejudge.org/)  
 An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section.
 - [HackerRank](https://www.hackerrank.com)  
-HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages (including, but not limited to, Java, C++, PHP, SQL) and span multiple computer science domains.
+HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains.
 - [POJ](http://poj.org/)  
-POJ is an online judge maintained by Peking University. Many great problems can be found here.
+POJ is an online judge with many great problems maintained by Peking University.
 - [Project Euler](https://projecteuler.net/)  
 Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss.
 - [Hackerearth](https://www.hackerearth.com/)  
