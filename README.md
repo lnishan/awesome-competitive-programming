@@ -295,11 +295,13 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 Calendars for impending programming contests.  
 (Never miss another contest!)
 
-- [Programming Contest Calendar | HackerRank](https://www.hackerrank.com/calendar)
-- [clist.by](http://clist.by/)
-- [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar)
-- [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
-- [CodeHorizon](http://www.star-lord.me/CodeHorizon/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon)
+| ☆ | Name | Description |
+| --- | --- | --- |
+|  | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) |  |
+|  | [clist.by](http://clist.by/) |  |
+|  | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
+|  | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
+|  | [CodeHorizon](http://www.star-lord.me/CodeHorizon/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
 
 ### Sites to ask Questions
 These are great sites to ask questions.  
