@@ -292,7 +292,7 @@ Learn helpful tips, tutorials and insights from these people :)
 - Aleksandar Abas (Alex7): [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw)
 
 ### Quora
-Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
+> Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
 | Awesome people to follow |  |  |  
 | --- | --- | --- |  
