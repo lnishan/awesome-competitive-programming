@@ -44,6 +44,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 * [Other Awesome Resources](#other-awesome-resources)
     * [Articles](articles)
     * [FAQs](#faqs)
+    * [Awesome Lists](#awesome-lists)
     * [Interview Questions](#interview-questions)
 
 * [License](#license)
@@ -312,13 +313,16 @@ Learn helpful tips, tutorials and insights from these people :)
 ## Other Awesome Resources
 
 ### Articles
+> Informative and helpful articles
 
 | Subject |
 | --- |
+| [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
 | [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
 | [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
 
 ### FAQs
+> Fine answers to frequently-asked questions 
 
 | Question |
 | --- |
@@ -326,6 +330,19 @@ Learn helpful tips, tutorials and insights from these people :)
 | [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems) ... [What is the best strategy to improve my skills in competitive programming in 2-3 months? - Quora](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months) ... [What is a good 6 month plan to start and progress through competitive programming? - Quora](https://www.quora.com/What-is-a-good-6-month-plan-to-start-and-progress-through-competitive-programming) |
 | [How is competitive programming different from real-life programming? - Quora](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming) |
 | [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming) |
+
+### Awesome Lists
+> Relevant awesome lists
+
+| Repository |
+| --- |
+| [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
+| [enjalot/algovis](https://github.com/enjalot/algovis) |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) |
+| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
+| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
+| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
+| [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
 
 ### Interview Questions
 | Name | Description |
