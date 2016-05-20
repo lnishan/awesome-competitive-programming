@@ -268,28 +268,34 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 Learn helpful tips, tutorials and insights from these people :)
 
 ### Blogs
-- [Codeforces blogs](http://codeforces.com/)
-- Petr Mitrichev (Petr): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
-- Bruce Merry (bmerry): [Entropy always increases](http://blog.brucemerry.org.za/)
-- Przemysław Dębiak (Psyho): [Psyho's blog](http://psyho.gg/)
-- Anudeep Nekkanti (anudeep2011): [Namespace Anudeep ;)](http://blog.anudeep2011.com/)
-- vexorian (vexorian): [vexorian's blog](http://www.vexorian.com/)
-- Ashar Fuadi (fushar): [Fushar's blog](http://fusharblog.com/)
-- LiJie Chen (WJMZBMR): [WJMZBMR (Chinese)](http://wjmzbmr.com/)
-- Huang I-Wen (dreamoon): [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/)
-- Po-Jui Chen (a00012025): [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/)
-- Shiang-Yun Yang (morris1028): [Morris' Blog (Chinese)](http://morris821028.github.io/)
-- Yuhao Du (TooDifficuIt, TooSimple, xudyh): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
-- Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
+
+| Name (Handle) | Blog Name |
+| --- | --- |
+| | [Codeforces blogs](http://codeforces.com/) |
+| Petr Mitrichev (Petr) | [Algorithms Weekly](http://petr-mitrichev.blogspot.com/) |
+| Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
+| Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
+| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](http://blog.anudeep2011.com/) |
+| vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
+| Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
+| LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
+| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
+| Po-Jui Chen (a00012025) | [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/) |
+| Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
+| Yuhao Du (TooDifficuIt, TooSimple, xudyh) | [xudyh (Chinese, Emptied)](http://xudyh.github.io/) |
+| Dreadnought (TankEngineer, rowdark, AngryBacon) | [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/) |
 
 ### Youtube and Livestreams
-- [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw)
-- Petr Mitrichev (Petr): [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
-- Egor Kulikov (Egor): [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
-- Adam Bardashevich (subscriber): [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw)
-- Bohdan Pryshchenko (I_love_Tanya_Romanova): [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
-- Vladimir Smykalov (enot.1.10): [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
-- Aleksandar Abas (Alex7): [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw)
+
+| Name (Handle) | Link |
+| --- | --- |
+|  | [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw) |
+| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+| Egor Kulikov (Egor) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
+| Adam Bardashevich (subscriber) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
+| Bohdan Pryshchenko (I_love_Tanya_Romanova) | [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
+| Vladimir Smykalov (enot.1.10) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
+| Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
