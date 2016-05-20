@@ -121,39 +121,28 @@ It is advised that you write your own ones before looking at others'.
 | ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 ### Tools
-Awesome tools that will make your life easier.
+> Awesome tools that will make your life easier.
 
 #### Personal use
 
-- [VisuAlgo](http://visualgo.net)  
-VisuAlgo features a large collection of visualization tools for algorithms and data structures.
-- General Practice Helpers:  
-These tools parse contests, inline library codes and provide testing frameworks.
-    - [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea), for IntelliJ IDEA (Java) ([manual](http://codeforces.com/blog/entry/3273))
-    - [caide](https://github.com/slycelote/caide), for Visual Studio and CodeLite (C/C++/C#)
-    - [JHelper](http://codeforces.com/blog/entry/13369), for AppCode and CLion (C/C++)
-- Codeforces Parsers:  
-These tools parse Codeforces contest problems and help run sample tests.
-    - [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser)
-    - [GoCF](https://github.com/sukeesh/GoCF)
-    - [cfparser](https://github.com/gnull/cfparser), for emacs
-- [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)  
-A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence.
-- [Ineffable](http://codeforces.com/blog/entry/19083)  
-Ineffable is a simple command-line grader for local grading.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [VisuAlgo](http://visualgo.net) | VisuAlgo features a large collection of visualization tools for algorithms and data structures. |
+| ★★★ | General Practice Helpers: ... ☘[CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea)☘ (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... ☘[caide](https://github.com/slycelote/caide)☘ (Visual Studio, CodeLite) ... ☘[JHelper](http://codeforces.com/blog/entry/13369)☘ (AppCode, CLion) | These tools parse contests, inline library codes and provide testing frameworks. |
+| ★★☆ | Codeforces Parsers: ... ☘[Codeforces Parser](https://github.com/johnathan79717/codeforces-parser)☘ ... ☘[GoCF](https://github.com/sukeesh/GoCF)☘ ... ☘[cfparser](https://github.com/gnull/cfparser)☘ for emacs | These tools parse Codeforces contest problems and help run sample tests. |
+| ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence. |
+| ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | Ineffable is a simple command-line grader for local grading. |
 
 #### Contest Preparation
-- [polygon](https://polygon.codeforces.com/)  
-polygon provides a platform and a rich set of tools for professional contest preparation.  
-An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426)
-- [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/)  
-This is a very simple tool to visualize small graphs.
-- [Virtual Judge (vjudge)](http://vjudge.net)  
-Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.
-- [BNU Online Judge](https://www.bnuoj.com/v3/)  
-BNU Online Judge also allows users to create virtual contests.
-- [Kattis](https://open.kattis.com/)  
-Kattis assists in contest preparation (E-mail them for assistance).
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426) |
+| ★☆☆
+ | [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/) | This is a very simple tool to visualize small graphs. |
+| ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
+| ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
+| ★★☆ | [Kattis](https://open.kattis.com/) | Kattis assists in contest preparation (E-mail them for assistance). |
 
 ## Awesome Learning Materials
 
