@@ -58,22 +58,21 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | These are papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
 
 #### Syllabuses
-Find out what topics you need to learn.
+> Find out what topics you need to learn.
 
-- [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/)  
-A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.
-- [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)  
-It contains a list of important topics in competitive programming with exercise problems.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/) | A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC. |
+| ★★☆ | [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit) | A list of important topics in competitive programming with exercise problems. |
 
 #### List of Lists
-These are some other awesome curated lists.
+> These are some other awesome curated lists.
 
-- [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529)  
-A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.
-- [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)  
-A very complete list of competitive programming resources. A must-have in your browser bookmark.
-- [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources)  
-This list collected materials for some relevant topics in competitive programming.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529) | A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more. |
+| ★★★ | [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) | A very complete list of competitive programming resources. A must-have in your browser bookmark. |
+| ★☆☆ | [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) | This list collected materials for some relevant topics in competitive programming. |
 
 ### Implementations / Notebooks
 > Algorithm / Data structure implementations.  
