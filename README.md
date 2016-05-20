@@ -14,27 +14,37 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 ## Table of Contents
 * [Awesome Reference Materials](#awesome-reference-materials)
     * [Algorithms and Data Structures](#algorithms-and-data-structures)
-        * [Syllabuses](#syllabuses) | [List of Lists](#list-of-lists)
+        * [Syllabuses](#syllabuses)
+        * [List of Lists](#list-of-lists)
     * [Implementations / Notebooks](#implementations--notebooks)
     * [Language Specifics](#language-specifics)
-        * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
+        * [C/C++](#cc)
+        * [Java](#java)
+        * [Miscellaneous](#miscellaneous)
     * [Tools](#tools)
-        * [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
+        * [Personal use](#personal-use)
+        * [Contest Preparation](#contest-preparation)
 
 * [Awesome Learning Materials](#awesome-learning-materials)
     * [Open Courses](#open-courses)
         * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
     * [Books](#books)
-        * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
+        * [Books for Algorithms](#books-for-algorithms)
+        * [Books for Mathematics](#books-for-mathematics)
     * [Sites to Practice](#sites-to-practice)
-        * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
+        * [Problem Classifiers](#problem-classifiers)
+        * [Contest Calendars](#contest-calendars)
     * [Sites to ask Questions](#sites-to-ask-questions)
 
-* [Appendix](#appendix)
-    * [Social Media](#social-media)
-        * [Blogs](#blogs) | [Team Wikis](#team-wikis) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
-    * [Other Awesome Resources](#other-awesome-resources)
-        * [Articles](articles) | [FAQs](#faqs) | [Interview Questions](#interview-questions)
+* [Community](#community)
+    * [Blogs](#blogs)
+    * [Youtube and Livestreams](#youtube-and-livestreams)
+    * [Quora](#quora)
+
+* [Other Awesome Resources](#other-awesome-resources)
+    * [Articles](articles)
+    * [FAQs](#faqs)
+    * [Interview Questions](#interview-questions)
 
 * [License](#license)
 
@@ -253,13 +263,11 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 | ★★☆ | [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
 
 
-## Appendix
-
-### Social Media
-Meet the god-like competitive programmers!  
+## Community
+> Meet the god-like competitive programmers!  
 Learn helpful tips, tutorials and insights from these people :)
 
-#### Blogs
+### Blogs
 - [Codeforces blogs](http://codeforces.com/)
 - Petr Mitrichev (Petr): [Algorithms Weekly](http://petr-mitrichev.blogspot.com/)
 - Bruce Merry (bmerry): [Entropy always increases](http://blog.brucemerry.org.za/)
@@ -272,11 +280,9 @@ Learn helpful tips, tutorials and insights from these people :)
 - Po-Jui Chen (a00012025): [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/)
 - Shiang-Yun Yang (morris1028): [Morris' Blog (Chinese)](http://morris821028.github.io/)
 - Yuhao Du (TooDifficuIt, TooSimple, xudyh): [xudyh (Chinese, Emptied)](http://xudyh.github.io/)
-
-#### Team Wikis
 - Dreadnought (TankEngineer, rowdark, AngryBacon): [Dreadnought's Wiki (Chinese)](http://dreadnought.icpc-camp.org/)
 
-#### Youtube and Livestreams
+### Youtube and Livestreams
 - [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw)
 - Petr Mitrichev (Petr): [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
 - Egor Kulikov (Egor): [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
@@ -285,7 +291,7 @@ Learn helpful tips, tutorials and insights from these people :)
 - Vladimir Smykalov (enot.1.10): [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA)
 - Aleksandar Abas (Alex7): [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw)
 
-#### Quora
+### Quora
 Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
 | Awesome people to follow |  |  |  
@@ -297,14 +303,14 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 | [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
 | [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) |
 
-### Other Awesome Resources
+## Other Awesome Resources
 
-#### Articles
+### Articles
 
 - [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen)
 - [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon)
 
-#### FAQs
+### FAQs
 
 - [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5)
 - [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems)  
@@ -313,7 +319,7 @@ Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-
 - [How is competitive programming different from real-life programming? - Quora](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
 - [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming)
 
-#### Interview Questions
+### Interview Questions
 - [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLGvfHSgImk4ZR3v2drDwHrmwu2a645sxL)  
 A set of videos explaining LeetCode problems.
 - [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html)  
