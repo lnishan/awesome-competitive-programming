@@ -256,15 +256,14 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 | ★★★ | [CodeHorizon](http://www.star-lord.me/CodeHorizon/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
 
 ### Sites to ask Questions
-These are great sites to ask questions.  
+> These are great sites to ask questions.  
 Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com) or other sites to avoid formatting issues.
 
-- [Codeforces](http://codeforces.com/)  
-For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related.
-- [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)  
-You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway.
-- [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/)  
-This place is generally for the academics, so don't ask questions about contest problems here.
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
+| ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
+| ★★☆ | [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
 
 
 ## Appendix
