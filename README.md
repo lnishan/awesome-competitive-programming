@@ -128,8 +128,8 @@ It is advised that you write your own ones before looking at others'.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [VisuAlgo](http://visualgo.net) | VisuAlgo features a large collection of visualization tools for algorithms and data structures. |
-| ★★★ | General Practice Helpers: ... ☘[CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea)☘ (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... ☘[caide](https://github.com/slycelote/caide)☘ (Visual Studio, CodeLite) ... ☘[JHelper](http://codeforces.com/blog/entry/13369)☘ (AppCode, CLion) | These tools parse contests, inline library codes and provide testing frameworks. |
-| ★★☆ | Codeforces Parsers: ... ☘[Codeforces Parser](https://github.com/johnathan79717/codeforces-parser)☘ ... ☘[GoCF](https://github.com/sukeesh/GoCF)☘ ... ☘[cfparser](https://github.com/gnull/cfparser)☘ for emacs | These tools parse Codeforces contest problems and help run sample tests. |
+| ★★★ | General Practice Helpers: ... [☘CHelper☘](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [☘caide☘](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... [☘JHelper☘](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | These tools parse contests, inline library codes and provide testing frameworks. |
+| ★★☆ | Codeforces Parsers: ... [☘Codeforces Parser☘](https://github.com/johnathan79717/codeforces-parser) ... [☘GoCF☘](https://github.com/sukeesh/GoCF) ... [☘cfparser☘](https://github.com/gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence. |
 | ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | Ineffable is a simple command-line grader for local grading. |
 
