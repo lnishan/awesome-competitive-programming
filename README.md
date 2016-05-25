@@ -348,6 +348,7 @@ Learn helpful tips, tutorials and insights from these people :)
 ### Interview Questions
 | Name | Description |
 | --- | --- |
+| [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 | [LeetCode Video Tutorials](https://www.youtube.com/playlist?list=PLGvfHSgImk4ZR3v2drDwHrmwu2a645sxL) | A set of videos explaining LeetCode problems. |
 | [数据结构与算法/leetcode/lintcode题解 (LeetCode tutorials) (Chinese)](http://algorithm.yuanbin.me/zh-hans/index.html) | Tutorials on popular interview topics. |
 
