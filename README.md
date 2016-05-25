@@ -93,12 +93,12 @@ It is advised that you write your own ones before looking at others'.
 | --- | --- | --- |
 | ★★★ | [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256) | This site contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
 | ★★☆ | [Stanford University ACM Team Notebook (2014-15)](http://stanford.edu/~liszt90/acm/notebook.html) | Stanford's team notebook is well maintained and the codes within are high-quality. |
-| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 is the team representing National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
+| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
 | ★☆☆ | [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University | One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from. |
 | ★☆☆ | [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
 | ★★☆ | [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), by 前原 貴憲 (maehara) | A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant. |
 | ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
-| ★★☆ | [PetarV-/Algorithms](https://github.com/PetarV-/Algorithms), by Petar Veličković (PetarV) | An occasionally updated assorted list of data structures and algorithms' implementations in C++, which at times extends beyond what is necessary for competitive programming. Most of the implementations have been "battle-tested" in previous contests. |
+| ★☆☆ | [PetarV-/Algorithms](https://github.com/PetarV-/Algorithms), by Petar Veličković (PetarV) | An occasionally updated assorted list of data structures and algorithms' implementations in C++, which at times extends beyond what is necessary for competitive programming. |
 
 ### Language Specifics
 > This section mainly focuses on languages and other miscellaneous knowledge.
@@ -224,7 +224,7 @@ It is advised that you write your own ones before looking at others'.
 | ★☆☆ | [HDU](http://acm.hdu.edu.cn/) | HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene. |
 | ★★☆ | [UVa](https://uva.onlinejudge.org/) | An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](http://uhunt.felix-halim.net/id/0) following its "Competitive Programming Exercise" section. |
 | ★★☆ | [HackerRank](https://www.hackerrank.com) | HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains. |
-| ★★★ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. Most Chinese competitive programmers began their journey here. |
+| ★★☆ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. Most Chinese competitive programmers began their journey here. |
 | ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
 | ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. |
 | ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
@@ -335,15 +335,15 @@ Learn helpful tips, tutorials and insights from these people :)
 ### Awesome Lists
 > Relevant awesome lists
 
-| Repository |
-| --- |
-| [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
-| [enjalot/algovis](https://github.com/enjalot/algovis) |
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) |
-| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
-| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
-| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
-| [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
+| Name | Repository |
+| --- | --- |
+| Algorithms | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
+| Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
+| Math | [rossant/awesome-math](https://github.com/rossant/awesome-math) |
+| C++ | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
+| Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
+| Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
+| Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
 
 ### Interview Questions
 | Name | Description |
