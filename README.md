@@ -141,8 +141,8 @@ It is advised that you write your own ones before looking at others'.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [VisuAlgo](http://visualgo.net) | VisuAlgo features a large collection of visualization tools for algorithms and data structures. |
-| ★★★ | General Practice Helpers: ... [☘CHelper☘](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [☘caide☘](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... [☘JHelper☘](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | These tools parse contests, inline library codes and provide testing frameworks. |
-| ★★☆ | Codeforces Parsers: ... [☘Codeforces Parser☘](https://github.com/johnathan79717/codeforces-parser) ... [☘GoCF☘](https://github.com/sukeesh/GoCF) ... [☘cfparser☘](https://github.com/gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
+| ★★★ | General Practice Helpers: ... ☘[CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... ☘[caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... ☘[JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | These tools parse contests, inline library codes and provide testing frameworks. |
+| ★★☆ | Codeforces Parsers: ... ☘[Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... ☘[GoCF](https://github.com/sukeesh/GoCF) ... ☘[cfparser](https://github.com/gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem can be equivalent to a simple or known and studied integer sequence. |
 | ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | Ineffable is a simple command-line grader for local grading. |
 
@@ -249,8 +249,8 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) |  |
-| ★★☆ | [clist.by](http://clist.by/) |  |
+| ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | You can add it to Google Calendar! |
+| ★★☆ | [clist.by](http://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://www.star-lord.me/CodeHorizon/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
