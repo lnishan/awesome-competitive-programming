@@ -42,7 +42,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
     * [Quora](#quora)
 
 * [Other Awesome Resources](#other-awesome-resources)
-    * [Articles](articles)
+    * [Articles](#articles)
     * [FAQs](#faqs)
     * [Awesome Lists](#awesome-lists)
     * [Interview Questions](#interview-questions)
@@ -254,7 +254,7 @@ You can choose a category (eg. DP) of interest and practice problems on that top
 | ★★☆ | [clist.by](http://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
-| ★★★ | [CodeHorizon](http://www.star-lord.me/CodeHorizon/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
+| ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
 
 ### Sites to ask Questions
 > These are great sites to ask questions.  
