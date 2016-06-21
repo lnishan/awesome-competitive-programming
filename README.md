@@ -1,8 +1,9 @@
 # Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome competitive programming / algorithm / data structure resources.
+A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
-This list was created with a view to connect more people to information. It's aimed to cover a wide range of aspects and be a useful list for all.
+This list was aimed to be a complete reference for everyone.  
+From novice to master, I hope you'll find something interesting in here.
 
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 

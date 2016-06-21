@@ -6,12 +6,14 @@
 The guiding principle for this list is to connect more people to information.  
 So thank you for paying an interest in this page :)
 
+Please just note that this is **curated** list of the best resources in each category, not a complete catalogue of everything. I have a somewhat higher standard than most other Awesome Lists out there.
+
 ### TODOs
-1. Books for math
-2. Better descriptions
-3. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
-4. ICPC News site (eg. snarknews)
-5. A short reference sheet
+1. Better descriptions
+2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
+3. ICPC News site (eg. snarknews)
+4. A short reference sheet
+5. Anything you can think of!
 
 ### Submission
 1. For new items or modifications, submit a pull request here ([learn how to](https://help.github.com/articles/using-pull-requests/)).
