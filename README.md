@@ -181,8 +181,8 @@ It is advised that you write your own ones before looking at others'.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★☆ | [Code Monk](https://www.hackerearth.com/codemonk/), by HackerEarth | This is a fantastic step-by-step guide to gear you up with some essential topics in competitive programming. |
-| ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | This course offers comprehensive lecture slides and a short list of exercise problems. |
+| ★★☆ | [Code Monk](https://www.hackerearth.com/codemonk/), by HackerEarth | A fantastic step-by-step tutorial on the essential topics in competitive programming. |
+| ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides.
 | ★☆☆ | [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012) | CKHS Infor Club made some great lecture handouts over the years. |
@@ -192,7 +192,7 @@ It is advised that you write your own ones before looking at others'.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
-| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | This one isn't included on the list above, but it's by far my personal favorite. This course was lectured by Prof. Charles Leiserson (coauthor of  Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field. The course offered great materials and generally more intuitive proofs and analyses. |
+| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (coauthor of Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field, the course offered great materials, intuitive, comprehensive proofs and analyses. |
 
 ### Books
 > A list of recommended books for competitive programming.
@@ -204,7 +204,7 @@ It is advised that you write your own ones before looking at others'.
 | ★★★ | [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads | Most of the problems described in the book are really hard but they are explained in such a way that even beginners can understand. It appears to be out of stock (as of May, 2016), but you can reserve one on their [official website](http://www.lookingforachallengethebook.com). |
 | ★★☆ | [Computational Geometry: Algorithms and Applications](http://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), by Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars | This is a well-written book which covers a broad range of computational geometry problems. |
 | ★☆☆ | [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb | This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming. |
-| ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) |
+| ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) ... An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. |
 | ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
 | ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
