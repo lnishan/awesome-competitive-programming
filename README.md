@@ -151,7 +151,7 @@ It is advised that you write your own ones before looking at others'.
 | ★★☆ | [Sublime Text](https://www.sublimetext.com/3) | GUI / Cross-Platform | Sublime Text is an extraordinary text editor. Packed with powerful and innovative features like Multiple Carets, Minimaps and Command Palletes, it attracts a strong and engaging community. Sublime Text is highly extensible, so be sure to have [Package Control](https://packagecontrol.io/) installed and explore perhaps one of the largest catalogue of plugins! |
 | ★★☆ | [Eclipse](https://eclipse.org/downloads/) | GUI / Cross-Platform | Eclipse is another good IDE for Java. It's an okay alternative to Intellij IDEA (A tad inferior to IDEA by today's standards). Sometimes contests only provide Eclipse for some reason, so this might be a good incentive to try and use Eclipse. |
 | ★★☆ | [CLion](https://www.jetbrains.com/clion/download/) | GUI / Cross-Platform | CLion, produced by JetBrains - the same company who made Intellij IDEA, is a powerful IDE for C++. Free educational licenses are available OR you can try out their [EAP (Early Access Program)](https://confluence.jetbrains.com/display/CLION/Early+Access+Program) which is still free as of June 20, 2016. You may want to turn off its code inspection feature as it will cause quite a bit of lag. |
-| ★☆☆ | Other IDEs | Mixed | [☘Visual Studio](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) is the IDE to use in case you want to code in C#, but beware that it will be a 7GB installation. ... Both [☘Atom](https://atom.io/) and [☘Visual Studio Code](https://code.visualstudio.com/) are built with Electron (written in JavaScript) and therefore resource-hogging, unfit for speed coding. ... [☘CodeLite](http://codelite.org/) is a newly rising IDE. It's not good for speed coding as the load-up and project-creation times are extraordinary. | 
+| ★☆☆ | Other IDEs | Mixed | [☘Visual Studio](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) is the IDE to use in case you want to code in C#, but beware that it will be a 7GB installation. ... Both [☘Atom](https://atom.io/) and [☘Visual Studio Code](https://code.visualstudio.com/) are built with Electron (written in JavaScript) and therefore resource-hogging, unfit for speed coding. ... [☘CodeLite](http://codelite.org/) is a newly rising IDE. It's not good for speed coding because the load-up and project-creation times are extraordinary. | 
 
 #### Personal use
 
@@ -354,8 +354,11 @@ Learn helpful tips, tutorials and insights from these people :)
 ### Awesome Lists
 > Relevant awesome lists
 
-| Name | Repository |
+| Name | Link |
 | --- | --- |
+| C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+| Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
+| Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
 | Algorithms | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math](https://github.com/rossant/awesome-math) |
