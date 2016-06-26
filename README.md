@@ -66,7 +66,7 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/notes/trending/) | A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/codemonk/). |
 | ★★☆ | [USA Computing Olympiad (USACO)](http://www.usaco.org/) | Contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace. |
 | ★☆☆ | [OLYMPIADS IN INFORMATICS](http://www.mii.lt/olympiads_in_informatics/index.html) | An international journal focused on the research and practice of professionals who are working in the field of teaching and learning informatics to talented student. |
-| ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A website devoted to algorithms of all sorts. |
+| ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
 
@@ -89,11 +89,11 @@ Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (includin
 
 ### Implementations / Notebooks
 > Algorithm / Data structure implementations.  
-It is advised that you write your own ones before looking at others'.
+It is advised that you write yours first before looking at others'.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256) | This site contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
+| ★★★ | [CodeLibrary](http://www.codelibrary.ml/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
 | ★★☆ | [jaehyunp/stanfordacm](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
 | ★★☆ | [ngthanhtrung23/ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
 | ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
@@ -104,7 +104,7 @@ It is advised that you write your own ones before looking at others'.
 | ★☆☆ | [PetarV-/Algorithms](https://github.com/PetarV-/Algorithms), by Petar Veličković (PetarV) | An occasionally updated assorted list of data structures and algorithms' implementations in C++, which at times extends beyond what is necessary for competitive programming. |
 
 ### Language Specifics
-> This section mainly focuses on languages and other miscellaneous knowledge.
+> Languages and other miscellaneous knowledge.
 
 #### C/C++
 
@@ -157,19 +157,19 @@ It is advised that you write your own ones before looking at others'.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [VisuAlgo](http://visualgo.net) | VisuAlgo features a large collection of visualization tools for algorithms and data structures. |
-| ★★★ | General Practice Helpers: ... [☘CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [☘caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... [☘JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | These tools parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
+| ★★★ | [VisuAlgo](http://visualgo.net) | A website featuring a large collection of visualization tools for algorithms and data structures. |
+| ★★★ | General Practice Helpers: ... [☘CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [☘caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... [☘JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
 | ★★☆ | Codeforces Parsers: ... [☘Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [☘GoCF](https://github.com/sukeesh/GoCF) ... [☘cfparser](https://github.com/gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
 | ★★☆ | Syntax Highlighters: ... [☘tohtml.com](https://tohtml.com/) ... [☘markup.su](http://markup.su/highlighter/) ... [☘hilite.me](http://hilite.me/) | These syntax highlighters are very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
-| ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | Ineffable is a simple command-line grader for local grading. |
+| ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | A simple command-line grader for local grading. |
 
 #### Contest Preparation
 
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426) |
-| ★☆☆ | [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/) | This is a very simple tool to visualize small graphs. |
+| ★☆☆ | [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/) | A very simple tool to visualize small graphs. |
 | ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
 | ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
 | ★★☆ | [Kattis](https://open.kattis.com/) | Kattis assists in contest preparation (E-mail them for assistance). |
@@ -192,7 +192,7 @@ It is advised that you write your own ones before looking at others'.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
-| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (coauthor of Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field, the course offered great materials, intuitive, comprehensive proofs and analyses. |
+| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (coauthor of Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field, the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 
 ### Books
 > A list of recommended books for competitive programming.
@@ -203,8 +203,8 @@ It is advised that you write your own ones before looking at others'.
 | ★★☆ | [Programming Challenges: The Programming Contest Training Manual](http://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla | This book includes more than 100 programming challenges, as well as the theory and key concepts necessary for approaching them. Problems are organized by topic, and supplemented by complete tutorial material. |
 | ★★★ | [Looking for a Challenge](http://www.lookingforachallengethebook.com/), written by a group of authors associated with the Polish Olympiads | Most of the problems described in the book are really hard but they are explained in such a way that even beginners can understand. It appears to be out of stock (as of May, 2016), but you can reserve one on their [official website](http://www.lookingforachallengethebook.com). |
 | ★★☆ | [Computational Geometry: Algorithms and Applications](http://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), by Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars | This is a well-written book which covers a broad range of computational geometry problems. |
-| ★☆☆ | [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb | This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covered various topics relevant to competitive programming. |
-| ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) ... An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. |
+| ★☆☆ | [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb | This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covers various topics relevant to competitive programming. |
+| ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. ... 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
 | ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
@@ -229,7 +229,7 @@ It is advised that you write your own ones before looking at others'.
 | ★★☆ | [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya | An old-time classic. In this book, the author provides a systematic way to solve problems creatively. |
 
 ### Sites to Practice
-> Good online judges / contest platforms to practice.
+> Good online judge systems / contest platforms to practice.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
@@ -250,7 +250,7 @@ It is advised that you write your own ones before looking at others'.
 
 #### Problem Classifiers
 > Sites classifying programming problems.  
-You can choose a category (eg. DP) of interest and practice problems on that topic.
+Choose a category (eg. DP) of interest and practice problems on that topic.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
