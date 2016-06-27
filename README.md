@@ -161,7 +161,8 @@ It is advised that you write yours first before looking at others'.
 | ★★★ | General Practice Helpers: ... [☘CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [☘caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... [☘JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
 | ★★☆ | Codeforces Parsers: ... [☘Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [☘GoCF](https://github.com/sukeesh/GoCF) ... [☘cfparser](https://github.com/gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
-| ★★☆ | Syntax Highlighters: ... [☘tohtml.com](https://tohtml.com/) ... [☘markup.su](http://markup.su/highlighter/) ... [☘hilite.me](http://hilite.me/) | These syntax highlighters are very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
+| ★★☆ | Syntax Highlighters: ... [☘tohtml.com](https://tohtml.com/) ... [☘markup.su](http://markup.su/highlighter/) ... [☘hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
+| ★★☆ | Code Sharing: ... [☘Ideone.com](http://ideone.com/) ... [☘Pastebin.com](http://pastebin.com/) ... [☘Ubuntu Pastebin](http://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
 | ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | A simple command-line grader for local grading. |
 
 #### Contest Preparation
@@ -192,7 +193,7 @@ It is advised that you write yours first before looking at others'.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
-| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (coauthor of Introduction to Algorithms) and Prof. Erik Demaine who is a brilliant and established scholar in the field, the course offers great materials, accompanied by intuitive and comprehensive analyses. |
+| ★★★ | [MIT SMA 5503: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 
 ### Books
 > A list of recommended books for competitive programming.
