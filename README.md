@@ -257,7 +257,7 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | [Project Euler](https://projecteuler.net/) | Project Euler features a stunning set of good math problems. It also hosts a forum where people can discuss. |
 | ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. |
 | ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
-| ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu) | COJ is hosted by University of Informatics Sciences (UCI, by its acronym in Spanish), located in Cuba. Feature ACM ICPC and Progresive constest styles, mostly from Caribbean and Latin American problem setters, also has problem classifier and contest calendar. |
+| ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml) | COJ is hosted by University of Informatics Sciences (UCI, by its acronym in Spanish), located in Cuba. Feature ACM ICPC and Progresive constest styles, mostly from Caribbean and Latin American problem setters, also has problem classifier and contest calendar. |
 
 #### Problem Classifiers
 > Sites classifying programming problems.  
@@ -307,7 +307,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Petr Mitrichev (Petr) | [Algorithms Weekly](http://petr-mitrichev.blogspot.com/) |
 | Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
 | Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
-| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](http://blog.anudeep2011.com/) |
+| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
 | vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
 | Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
 | LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
@@ -345,6 +345,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia) |  
 | [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
 | [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) |  |
+
 
 ## Other Awesome Resources
 
