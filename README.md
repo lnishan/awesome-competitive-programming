@@ -41,6 +41,7 @@ Share the list with your classmates, your friends and everyone :)
     * [Books](#books)
         * [Books for Algorithms](#books-for-algorithms)
         * [Books for Mathematics](#books-for-mathematics)
+    * [Slides](#slides)
     * [Sites to Practice](#sites-to-practice)
         * [Problem Classifiers](#problem-classifiers)
         * [Contest Calendars](#contest-calendars)
@@ -237,6 +238,14 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?ie=UTF8&qid=1455475253&sr=8-1&keywords=Linear+Algebra+and+Its+Applications), by David C. Lay, Steven R. Lay, Judi J. McDonald | The book does a brilliant job at bridging the gap between a physical system (for scientists and engineers) and an abstract system (for mathematicians). |
 | ★★☆ | [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell | This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License). |
 | ★★☆ | [How to Solve It: A New Aspect of Mathematical Method](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya | An old-time classic. In this book, the author provides a systematic way to solve problems creatively. |
+
+### Slides
+> A list of slides for competitive programming.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | English slides and source codes from [
+Arabic Competitive Programming ](https://www.youtube.com/user/nobody123497) channel | Lots of slides covering varity of algorthmic topics written in English. |
 
 ### Sites to Practice
 > Good online judge systems / contest platforms to practice.
