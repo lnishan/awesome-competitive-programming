@@ -45,6 +45,7 @@ Share the list with your classmates, your friends and everyone :)
     * [Sites to Practice](#sites-to-practice)
         * [Problem Classifiers](#problem-classifiers)
         * [Contest Calendars](#contest-calendars)
+    * [Practice Sheets](#practice-sheets)
     * [Sites to ask Questions](#sites-to-ask-questions)
 
 * [Community](#community)
@@ -292,6 +293,13 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
+
+### Practice Sheets
+> Online Sheets to guide during training in different levels.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Sheet targets new comers. Starts with Div2 A, B, C and then covers few other judges. Read the first sheet page for all notes. Videos are in Arabic, so find English Repleacements.|
 
 ### Sites to ask Questions
 > These are great sites to ask questions.  
