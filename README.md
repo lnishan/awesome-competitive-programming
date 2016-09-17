@@ -244,7 +244,7 @@ It is advised that you write yours first before looking at others'.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★☆ | English slides and source codes from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Lots of slides covering varity of algorthmic topics written in English. |
+| ★★☆ | [English slides](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) and source codes from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Lots of slides covering varity of algorthmic topics written in English. |
 
 ### Sites to Practice
 > Good online judge systems / contest platforms to practice.
