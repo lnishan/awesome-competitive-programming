@@ -178,6 +178,7 @@ It is advised that you write yours first before looking at others'.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426) |
+| ★★☆ | [Graph Editor](https://csacademy.com/app/graph_editor/) | A fantasic tool to create and visualize graphs. |
 | ★☆☆ | [A simple tool for graph visualization](http://mxwell.github.io/draw-graph/) | A very simple tool to visualize small graphs. |
 | ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
 | ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
