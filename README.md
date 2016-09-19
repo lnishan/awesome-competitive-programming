@@ -196,6 +196,7 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides.
 | ★★☆ | [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx) | A course by ITMO University on competitive coding on edX.|
 | ★☆☆ | [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012) | CKHS Infor Club made some great lecture handouts over the years.|
+| ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
 
 #### Open Courses for Algorithms and Data Structures
 
@@ -271,6 +272,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) | CP Book |
 | ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset/tags/dp) | CF (DP) |
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup) | HackerRank |
+| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Simple problems for newcomers |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 
 #### Contest Calendars
