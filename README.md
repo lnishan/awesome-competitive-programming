@@ -93,6 +93,7 @@ Share the list with your classmates, your friends and everyone :)
 | --- | --- | --- |
 | ★★★ | [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529) | A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more. |
 | ★★★ | [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) | A very complete list of competitive programming resources. A must-have in your browser bookmark. |
+| ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
 | ★☆☆ | [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) | This list collected materials for some relevant topics in competitive programming. |
 
 ### Implementations / Notebooks
@@ -364,6 +365,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
 | [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
 | [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
+| [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/), by Vishwesh Shrimali |
 
 ### FAQs
 > Fine answers to frequently-asked questions 
