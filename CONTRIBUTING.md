@@ -6,12 +6,12 @@
 The guiding principle for this list is to connect more people to information.  
 So thank you for paying an interest in this page :)
 
-Please just note that this is a **curated** list which means it's not a complete catalogue of everything. I have a somewhat higher standard than most other Awesome Lists.
+Please just note that this is a **curated** list which means it's not a complete catalogue of everything.
 
 ### TODOs
 1. Better descriptions
-2. More great resources from other regions (eg. Russian scene, BR ICPC Camp)
-3. ICPC News site (eg. snarknews)
+2. More great resources from other regions
+3. Social media around programming competitions (eg. ACM-ICPC)
 4. A short reference sheet
 5. Anything you can think of!
 
