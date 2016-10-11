@@ -2,8 +2,8 @@
 
 ## Contributing Guidelines
 
-### Princicple
-The guiding principle for this list is to connect more people to information.  
+### Principle
+The guiding principle for this list is to connect more people to information and resources regarding Competitive Programming.
 So thank you for paying an interest in this page :)
 
 Please just note that this is a **curated** list which means it's not a complete catalogue of everything. I have a somewhat higher standard than most other Awesome Lists.
