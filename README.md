@@ -9,7 +9,7 @@ No matter who you are, I hope you'll find this list helpful.
 
 
 ## Contributing
-Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+Please kindly follow [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md) to get started.
 
 You can also contribute by sharing!  
 Share the list with your classmates, your friends and everyone :)
@@ -102,15 +102,15 @@ It is advised that you write yours first before looking at others'.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
+| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko ([user:indy256]) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
 | ★★☆ | [jaehyunp/stanfordacm](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
-| ★★☆ | [ngthanhtrung23/ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
-| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
+| ★★☆ | [ngthanhtrung23/ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda ([user:I_love_Hoang_Yen], [user:flashmt], [user:nguyenhungtam]) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
+| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), team bcw0x1bd2 ([user:darkhh], [user:bobogei81123], [user:step5]) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
 | ★☆☆ | [SuprDewd/CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming), by team viRUs from Reykjavik University | One of the very few notebooks to include a tester (even integration with Travis CI). A great notebook to learn from. |
-| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
+| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell ([user:foreverbell]) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
 | ★★☆ | [Spaghetti Source - 各種アルゴリズムの C++ による実装 (Japanese)](http://www.prefield.com/algorithm/), by 前原 貴憲 (maehara) | A neatly categorized notebook in Japanese. This website is no longer being updated, but the topics discussed here are still relevant. |
-| ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
-| ★☆☆ | [PetarV-/Algorithms](https://github.com/PetarV-/Algorithms), by Petar Veličković (PetarV) | An occasionally updated assorted list of data structures and algorithms' implementations in C++, which at times extends beyond what is necessary for competitive programming. |
+| ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk ([user:Abednego]) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
+| ★☆☆ | [PetarV-/Algorithms](https://github.com/PetarV-/Algorithms), by Petar Veličković ([user:PetarV]) | An occasionally updated assorted list of data structures and algorithms' implementations in C++, which at times extends beyond what is necessary for competitive programming. |
 
 ### Language Specifics
 > Languages and other miscellaneous knowledge.
@@ -133,7 +133,7 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | [How to sort arrays in Java and avoid TLE - Codeforces](http://codeforces.com/blog/entry/7108) | Some tips on how to avoid hitting the worst case of quick sort |
 | ★★☆ | [Java.math.BigInteger Class - TutorialPrint](http://www.tutorialspoint.com/java/math/java_math_biginteger.htm) | A quick reference for the famous BigInteger class in Java | 
 | ★★☆ | [BigNum arithmetic in Java — Let's outperform BigInteger! - Codeforces](http://codeforces.com/blog/entry/17235) | A basic but faster custom BigInteger class |
-| ★★☆ | [EZ Collections, EZ Life (new Java library for contests) - Codeforces](http://codeforces.com/blog/entry/14328) | A Java library for contests written by Alexey Dergunov (dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented |
+| ★★☆ | [EZ Collections, EZ Life (new Java library for contests) - Codeforces](http://codeforces.com/blog/entry/14328) | A Java library for contests written by Alexey Dergunov ([user:dalex]). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented |
 
 #### Miscellaneous
 
@@ -196,7 +196,7 @@ It is advised that you write yours first before looking at others'.
 | ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 | ★★☆ | [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx) | A course by ITMO University on competitive coding on edX.|
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures given by top competitive programmers like Sergey Kulik, Kevin Charles Atienza and Anudeep Nekkanti. Primarily focused on exploring these concepts by applying them to actual competitive contest problems. |
-| ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
+| ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson ([user:SuprDewd])](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides.
 | ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
 | ★☆☆ | [建國中學資訊科培訓 (CKHS Training) (Chinese)](http://pisces.ck.tp.edu.tw/~peng/index.php?year=2012) | Some great lecture handouts made by CKHS Infor Club. |
@@ -253,7 +253,7 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | [CodeChef](https://www.codechef.com/) | CodeChef is a non-profit educational initiative of Directi. It's a global competitive programming platform and has a large community of programmers that helps students and professionals test and improve their coding skills. Its objective is to provide a platform for practice, competition and improvement for both students and professional software developers. Apart from this, it aims to reach out to students while they are young and inculcate a culture of programming in India. |
 | ★★★ | [SPOJ](http://www.spoj.com/) | The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules. |
 | ★★☆ | [Timus](http://acm.timus.ru/) | Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps. |
-| ★★☆ | [SGU](http://acm.sgu.ru/) | SGU is an old-school online judge maintained by Saratov State University. A renowned competitive programmer - Huang I-Wen (dreamoon) thinks that it's the hardest online judge because its problems require unusual skills. |
+| ★★☆ | [SGU](http://acm.sgu.ru/) | SGU is an old-school online judge maintained by Saratov State University. A renowned competitive programmer - Huang I-Wen (dreamoonm [user:doreamon]) thinks that it's the hardest online judge because its problems require unusual skills. |
 | ★☆☆ | [HDU](http://acm.hdu.edu.cn/) | HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene. |
 | ★★★ | [AtCoder](https://atcoder.jp) | AtCoder is a new but phenomenal contest platform created by a team of highly-rated Japanese competitive programmers. |
 | ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
@@ -311,30 +311,30 @@ Learn helpful tips, tutorials and insights from these people :)
 | Name (Handle) | Blog Name |
 | --- | --- |
 | | [Codeforces blogs](http://codeforces.com/) |
-| Petr Mitrichev (Petr) | [Algorithms Weekly](http://petr-mitrichev.blogspot.com/) |
-| Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
-| Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
-| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
-| vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
-| Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
-| LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
-| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
-| Po-Jui Chen (a00012025) | [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/) |
+| Petr Mitrichev ([user:Petr]) | [Algorithms Weekly](http://petr-mitrichev.blogspot.com/) |
+| Bruce Merry ([user:bmerry]) | [Entropy always increases](http://blog.brucemerry.org.za/) |
+| Przemysław Dębiak ([user:SomeGuyTookMyHandle]) | [Psyho's blog](http://psyho.gg/) |
+| Anudeep Nekkanti ([user:anudeep2011]) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
+| vexorian ([user:vexorian]) | [vexorian's blog](http://www.vexorian.com/) |
+| Ashar Fuadi ([user:fushar]) | [Fushar's blog](http://fusharblog.com/) |
+| LiJie Chen ([user:WJMZBMR]) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
+| Huang I-Wen ([user:doreamon], dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
+| Po-Jui Chen ([user:a00012025]) | [code倉庫 (Chinese)](http://cbdcoding.blogspot.tw/) |
 | Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
-| Yuhao Du (TooDifficuIt, TooSimple, xudyh) | [xudyh (Chinese)](http://xudyh.github.io/) |
+| Yuhao Du ([user:TooDifficuIt], TooSimple, xudyh) | [xudyh (Chinese)](http://xudyh.github.io/) |
 
 ### Youtube and Livestreams
 
 | Name (Handle) | Link |
 | --- | --- |
 |  | [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw) |
-| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
-| Egor Kulikov (Egor) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
-| Adam Bardashevich (subscriber) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
-| Bohdan Pryshchenko (I_love_Tanya_Romanova) | [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
-| Vladimir Smykalov (enot.1.10) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
-| Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
-| Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
+| Petr Mitrichev ([user:Petr]) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+| Egor Kulikov ([user:Egor]) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
+| Adam Bardashevich ([user:subscriber]) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
+| Bohdan Pryshchenko ([user:I_love_Tanya_Romanova]) | [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
+| Vladimir Smykalov ([user:enot.1.10]) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
+| Aleksandar Abas ([user:Alex7]) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
+| Mostafa Saad Ibrahim ([user:mostafa.saad.fci]) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
 | Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
 
 ### Quora
@@ -342,18 +342,18 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Important Community Figures | Description |
 | --- | --- |
-| [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executive Director of [ACM-ICPC](https://icpc.baylor.edu). CS Professor at Baylor University. | 
-| [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | Organizer of [IPSC](https://ipsc.ksp.sk) and [IOI](http://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm and CS Education Researcher. Former highly-rated competitive programmer. |
-| [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly) | Founder of [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com) Lead Software Engineer. Former member of the [Google Code Jam](https://code.google.com/codejam/) team. |
+| [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executive Director of ACM-ICPC. CS Professor at Baylor University. | 
+| [Michal Forišek ([user:misof])](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | Organizer of [IPSC](https://ipsc.ksp.sk) and [IOI](http://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm and CS Education Researcher. Former highly-rated competitive programmer. |
+| [Ahmed Aly ([user:ahmed_aly])](https://www.quora.com/profile/Ahmed-Aly) | Founder of [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com) Lead Software Engineer. Former member of the [Google Code Jam](https://code.google.com/codejam/) team. |
 
 | Competitive Programmers |  |  |  
 | --- | --- | --- |  
-| [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson) |  
-| [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  
-| [Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko) | [Vladimir Novakovski (vnovakovski)](https://www.quora.com/profile/Vladimir-Novakovski) | [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4) |  
-| [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia) |  
-| [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
-| [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) |  |
+| [Thanh Trung Nguyen ([user:I_love_Hoang_Yen])](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi ([user:bbi5291])](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson ([user:jonathanpaulson])](https://www.quora.com/profile/Jonathan-Paulson) |  
+| [Miguel Oliveira ([user:mogers])](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov ([user:yeputons])](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák ([user:Mimino])](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  
+| [Bohdan Pryshchenko ([user:I_love_Tanya_Romanova])](https://www.quora.com/profile/Bohdan-Pryshchenko) | [Vladimir Novakovski ([user:vnovakovski])](https://www.quora.com/profile/Vladimir-Novakovski) | [Nick Wu ([user:xiaowuc1])](https://www.quora.com/profile/Nick-Wu-4) |  
+| [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu ([user:darkshadows])](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia ([user:ashish1294])](https://www.quora.com/profile/Ashish-Kedia) |  
+| [Johnny Ho ([user:random.johnnyh])](https://www.quora.com/profile/Johnny-Ho) | [Joshua Pan ([user:lonerz])](https://www.quora.com/profile/Joshua-Pan-1) | [Anudeep Nekkanti ([user:anudeep2011])](https://www.quora.com/profile/Anudeep-Nekkanti) |  
+| [Steven Hao ([user:stevenkplus])](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. ([user:razimantv])](https://www.quora.com/profile/Raziman-T-V) |  |
 
 
 ## Other Awesome Resources
@@ -363,9 +363,9 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Subject |
 | --- |
-| [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
-| [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
-| [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
+| [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho, [user:SomeGuyTookMyHandle]) |
+| [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen ([user:I_love_Hoang_Yen]) |
+| [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon, [user:doreamon]) |
 | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/), by Vishwesh Shrimali |
 
 ### FAQs
