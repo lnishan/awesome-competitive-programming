@@ -68,7 +68,7 @@ Share the list with your classmates, your friends and everyone :)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) | A list of tutorials written by respected topcoder members. Many top programmers started learning data sciences from here. |
-| ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.github.io/) | A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
+| ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://e-maxx-eng.appspot.com/) | A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
 | ★★☆ | [Algorithms - GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) | A website with a large archive of nicely written articles on different topics. It is a great complimentary resource for algorithm courses. |
 | ★★☆ | [PEGWiki](http://wcipeg.com/wiki/Special:AllPages) | A website with amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion. |
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/practice/notes/trending/) | A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/practice/codemonk/). |
