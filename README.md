@@ -336,6 +336,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 | Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
 | Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
+| ACM ICPC
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
@@ -376,7 +377,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | [How do I start competitive programming? - Quora](https://www.quora.com/How-do-I-start-competitive-programming-5) |
 | [How can I become good at competitive programming? - Quora](https://www.quora.com/How-can-I-become-good-at-competitive-programming-Are-there-any-courses-that-will-take-me-one-step-forward-before-I-start-doing-SPOJ-or-TopCoder-problems) ... [What is the best strategy to improve my skills in competitive programming in 2-3 months? - Quora](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months) ... [What is a good 6 month plan to start and progress through competitive programming? - Quora](https://www.quora.com/What-is-a-good-6-month-plan-to-start-and-progress-through-competitive-programming) |
 | [How is competitive programming different from real-life programming? - Quora](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming) |
-| [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming) |
+| [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming) 
+| [How has competitive programming helped you get a job?](https://www.quora.com/How-has-competitive-programming-helped-you-get-a-job)
 
 ### Awesome Lists
 > Relevant awesome lists
@@ -393,6 +395,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
+
 
 ### Interview Questions
 | Name | Description |
