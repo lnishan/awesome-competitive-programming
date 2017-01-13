@@ -168,6 +168,8 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
 | ★★☆ | Code Sharing: ... [Ideone.com](http://ideone.com/) ... [Pastebin.com](http://pastebin.com/) ... [Ubuntu Pastebin](http://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
 | ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | A simple command-line grader for local grading. |
+| ★★☆ | [Graph Visualizer](http://mostafa-abdullah.github.io/graph/) | A tool to easily draw/edit graph and get its input test case. |
+| ★★★ | [Graph Random Test Case](http://mostafa-abdullah.github.io/graph/random-case.html) | A tool to generate huge test cases according to certain conditions (like weighted vs unweighted, directed vs undirected..etc). |
 
 #### Contest Preparation
 
