@@ -2,8 +2,7 @@
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
-This list is aimed to provide a complete reference and guidance for everyone.  
-No matter who you are, I hope you'll find this list helpful.
+Created with a view to connecting people to information, this list below contains a complete collection of all the fantastic resources I've collected over the course of my 11-year competitive programming career. I hope you'll find it useful :)
 
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
