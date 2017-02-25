@@ -294,6 +294,7 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 | ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
 | ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
 | ★★☆ | [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
+| ★★☆ | [Algorithmic Competitive Programming Stack Exchange (proposed)](http://area51.stackexchange.com/proposals/104641/algorithmic-competitive-programming/) | Competitive programming enthusiasts on Stack Exchange are discussing whether to create a new competitive programming Q&A site. |
 
 
 ## Community
