@@ -40,9 +40,11 @@ Share the list with your classmates, your friends and everyone :)
     * [Books](#books)
         * [Books for Algorithms](#books-for-algorithms)
         * [Books for Mathematics](#books-for-mathematics)
+    * [Slides](#slides)
     * [Sites to Practice](#sites-to-practice)
         * [Problem Classifiers](#problem-classifiers)
         * [Contest Calendars](#contest-calendars)
+    * [Practice Sheets](#practice-sheets)
     * [Sites to ask Questions](#sites-to-ask-questions)
 
 * [Community](#community)
@@ -237,6 +239,13 @@ It is advised that you write yours first before looking at others'.
 | ★★☆ | [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html), by Charles M. Grinstead, J. Laurie Snell | This is a well-written introductory probabilities book. ... It's free for [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) (released under GNU Free Documentation License). |
 | ★★☆ | [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X), by G. Polya | An old-time classic. In this book, the author provides a systematic way to solve problems creatively. |
 
+### Slides
+> A list of slides for competitive programming.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [English slides](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) and source codes from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Lots of slides covering varity of algorthmic topics written in English. |
+
 ### Sites to Practice
 > Good online judge systems / contest platforms to practice.
 
@@ -285,6 +294,13 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
+
+### Practice Sheets
+> Online Sheets to guide during training in different levels.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Sheet targets new comers. Starts with Div2 A, B, C and then covers few other judges. Read the first sheet page for all notes. Videos are in Arabic, so find English Repleacements.|
 
 ### Sites to ask Questions
 > These are great sites to ask questions.  
