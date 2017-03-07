@@ -376,7 +376,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | [How is competitive programming different from real-life programming? - Quora](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming) |
 | [What have you gained from competitive programming? - Quora](https://www.quora.com/What-have-you-gained-from-competitive-programming) |
 
-
 ### Awesome Lists
 > Relevant awesome lists
 
