@@ -2,7 +2,7 @@
 
 ## Contributing Guidelines
 
-### Princicple
+### Principle
 The guiding principle for this list is to connect more people to information.  
 So thank you for paying an interest in this page :)
 
