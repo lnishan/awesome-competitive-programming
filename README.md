@@ -161,7 +161,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★☆☆ | [Hackerearth](https://www.hackerearth.com/) | HackerEarth is a startup technology company based in Bangalore, India that provides recruitment solutions. |
 | ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml) | COJ is hosted by University of Informatics Sciences (UCI, by its acronym in Spanish), located in Cuba. Feature ACM ICPC and Progresive constest styles, mostly from Caribbean and Latin American problem setters, also has problem classifier and contest calendar. |
 | ★★☆ | [CS Academy](https://csacademy.com) | New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks. It supports live chat, interactive lessons and an integrated online editor (that actually works). |
-| ★★☆ | [Russian Code Cup](http://www.russiancodecup.ru/en/) | Programming competitions powered by Mail.Ru Group. Competition consists of 3 qualification, 1 elimination and 1 final rounds. For each round contestants are given 4-8 problems which must be solved in a fixed amound of time. |
+| ★★☆ | [Russian Code Cup](http://www.russiancodecup.ru/en/) | Programming competitions powered by Mail.Ru Group. Competition consists of 3 qualification, 1 elimination and 1 final rounds. For each round contestants are given 4-8 problems which must be solved in a fixed amount of time. |
 
 ### Problem Classifiers
 > Sites classifying programming problems.  
