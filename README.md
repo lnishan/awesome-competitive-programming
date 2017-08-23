@@ -341,17 +341,17 @@ Learn helpful tips, tutorials and insights from these people :)
 | Important Community Figures | Description |
 | --- | --- |
 | [Bill Poucher](https://www.quora.com/profile/Bill-Poucher) | Executive Director of [ACM-ICPC](https://icpc.baylor.edu). CS Professor at Baylor University. | 
-| [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | Organizer of [IPSC](https://ipsc.ksp.sk) and [IOI](http://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm and CS Education Researcher. Former highly-rated competitive programmer. |
-| [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly) | Founder of [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com) Lead Software Engineer. Former member of the [Google Code Jam](https://code.google.com/codejam/) team. |
+| [Michal Forišek ([user:misof])](https://www.quora.com/profile/Michal-Fori%C5%A1ek) | Organizer of [IPSC](https://ipsc.ksp.sk) and [IOI](http://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm and CS Education Researcher. Former highly-rated competitive programmer. |
+| [Ahmed Aly ([user:ahmed_aly])](https://www.quora.com/profile/Ahmed-Aly) | Founder of [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com) Lead Software Engineer. Former member of the [Google Code Jam](https://code.google.com/codejam/) team. |
 
 | Competitive Programmers |  |  |  
 | --- | --- | --- |  
-| [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson) |  
-| [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  
-| [Bohdan Pryshchenko (I_love_Tanya_Romanova)](https://www.quora.com/profile/Bohdan-Pryshchenko) | [Vladimir Novakovski (vnovakovski)](https://www.quora.com/profile/Vladimir-Novakovski) | [Nick Wu (xiaowuc1)](https://www.quora.com/profile/Nick-Wu-4) |  
-| [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu (darkshadows)](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia (ashish1294)](https://www.quora.com/profile/Ashish-Kedia) |  
-| [Johnny Ho (random.johnnyh)](https://www.quora.com/profile/Johnny-Ho) | [Joshua Pan (lonerz)](https://www.quora.com/profile/Joshua-Pan-1) | [Anudeep Nekkanti (anudeep2011)](https://www.quora.com/profile/Anudeep-Nekkanti) |  
-| [Steven Hao (stevenkplus)](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. (razimantv)](https://www.quora.com/profile/Raziman-T-V) |  |
+| [Thanh Trung Nguyen ([user:I_love_Hoang_Yen])](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi ([user:bbi5291])](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson ([user:jonathanpaulson])](https://www.quora.com/profile/Jonathan-Paulson) |  
+| [Miguel Oliveira ([user:mogers])](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov ([user:yeputons])](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák ([user:Mimino])](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  
+| [Bohdan Pryshchenko ([user:I_love_Tanya_Romanova])](https://www.quora.com/profile/Bohdan-Pryshchenko) | [Vladimir Novakovski ([user:vnovakovski])](https://www.quora.com/profile/Vladimir-Novakovski) | [Nick Wu ([user:xiaowuc1])](https://www.quora.com/profile/Nick-Wu-4) |  
+| [Cosmin Negruseri](https://www.quora.com/profile/Cosmin-Negruseri) | [Lalit Kundu ([user:darkshadows])](https://www.quora.com/profile/Lalit-Kundu) | [Ashish Kedia ([user:ashish1294])](https://www.quora.com/profile/Ashish-Kedia) |  
+| [Johnny Ho ([user:random.johnnyh])](https://www.quora.com/profile/Johnny-Ho) | [Joshua Pan ([user:lonerz])](https://www.quora.com/profile/Joshua-Pan-1) | [Anudeep Nekkanti ([user:anudeep2011])](https://www.quora.com/profile/Anudeep-Nekkanti) |  
+| [Steven Hao ([user:stevenkplus])](https://www.quora.com/profile/Steven-Hao) | [Raziman T.V. ([user:razimantv])](https://www.quora.com/profile/Raziman-T-V) |  |
 
 
 ## Other Awesome Resources
