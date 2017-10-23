@@ -60,7 +60,6 @@ Share the list with your classmates, your friends and everyone :)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/) | A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC. |
-| ★★★ | [Competitive Programmer's Handbook](https://cses.fi/book.html) | A detailed walk-through of all techniques from beginner level to IOT/ICPC level, by Finnish programmer Antti Laaksonen. |
 | ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
 | ★★☆ | [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit) | A list of important topics in competitive programming with exercise problems. |
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Simple problems for newcomers |
@@ -83,8 +82,6 @@ Share the list with your classmates, your friends and everyone :)
 | ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
-| ★☆☆ | [Lynbrook High School CS Club Slides](http://lynbrookcs.com/) | Slides from Lynbrook High CS Club, staffed by mostly US training campers. |
-
 
 ## Open Courses
 > Consider beginning your competitive programming journey with these awesome courses!
@@ -98,6 +95,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides.
 | ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
+| ★★☆ | [UIUC Algorithm Course](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/#hwexams) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
 
 ### Open Courses for Algorithms and Data Structures
 
@@ -388,6 +386,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
+| Free Algorithm Books | [haseebr/competitive-programming](https://github.com/haseebr/competitive-programming/tree/master/Materials) |
 
 ### Interview Questions
 | Name | Description |
