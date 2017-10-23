@@ -387,7 +387,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
-| Free Algorithm Books | [haseebr/competitive-programming](https://github.com/haseebr/competitive-programming/tree/master/Materials) |
 
 ### Interview Questions
 | Name | Description |
