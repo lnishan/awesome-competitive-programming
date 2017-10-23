@@ -83,6 +83,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
 
+
 ## Open Courses
 > Consider beginning your competitive programming journey with these awesome courses!
 
