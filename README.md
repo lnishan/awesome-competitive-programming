@@ -22,26 +22,26 @@ Share the list with your classmates, your friends and everyone :)
 
 ## Table of Contents
 
-* [List of Lists](#list-of-lists)
-* [Syllabuses](#syllabuses)
-* [Tutorial Websites](#tutorial-websites)
-* [Open Courses](#open-courses)
-    * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
-* [Books](#books)
-    * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
-* [Sites for Practice](#sites-for-practice)
-    * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
-* [Sites for Questions](#sites-for-questions)
-* [Implementations](#implementations)
-* [Language Specifics](#language-specifics)
-    * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
-* [Tools](#tools)
-    * [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
-* [Community](#community)
-    * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
-* [Other Awesome Resources](#other-awesome-resources) 
-    * [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
-* [License](#license)
+* List of Lists
+* Syllabuses
+* Tutorial Websites
+* Open Courses
+    * Open Courses for Algorithms and Data Structures
+* Books
+    * Books for Algorithms | Books for Mathematics
+* Sites for Practice
+    * Problem Classifiers | Contest Calendars
+* Sites for Questions
+* Implementations
+* Language Specifics
+    * C/C++ | Java | Miscellaneous
+* Tools
+    * IDEs | Personal use | Contest Preparation
+* Community
+    * Blogs | Youtube and Livestreams | Quora
+* Other Awesome Resources
+    * Articles | FAQs | Awesome Lists | Interview Questions
+* License
 
 
 ## List of Lists
