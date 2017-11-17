@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list goo.gl,vjudge.net,travis-ci.org,quora.com,i.creativecommons.org,csdn.net,amazon.com,amazon.cn,icpc,codechef,tcframe,amzn.to
+  - awesome_bot README.md --allow-dupe --white-list codeforces.com,goo.gl,vjudge.net,travis-ci.org,quora.com,i.creativecommons.org,csdn.net,amazon.com,amazon.cn,icpc,codechef,tcframe,amzn.to
