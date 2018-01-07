@@ -204,7 +204,6 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
 | ★★★ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/community/862d2091c64e447cacde77d4c76a9ac3?r=acp) | Most questions get a response in < 30 minutes. Questions can range from beginner simple questions to in-depth questions. |
 | ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
-| ★★☆ | [Algorithmic Competitive Programming Stack Exchange (proposed)](http://area51.stackexchange.com/proposals/104641/algorithmic-competitive-programming/) | Competitive programming enthusiasts on Stack Exchange are discussing whether to create a new competitive programming Q&A site. |
 
 
 ## Implementations
