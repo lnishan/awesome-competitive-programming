@@ -387,6 +387,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
+| Programming Community Curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus) |
 
 ### Interview Questions
 | Name | Description |
