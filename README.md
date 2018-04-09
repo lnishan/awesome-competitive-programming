@@ -318,16 +318,22 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Name (Handle) | Link |
 | --- | --- |
-| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) |
+| Gate Lectures by Ravindrababu Ravula | [Youtube](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ) |
+| Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
+| Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
+| GeeksforGeeks | [Youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) |
+| Algorithms Live! | [Youtube](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)|
+| CodeChef | [Youtube](https://www.youtube.com/user/codechefofficial/featured) |
+| HackerRank | [Youtube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww/videos) |
+| IDeserve | [Youtube](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw/featured) |
+| code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of HackerRank, LeetCode, Topcoder and Codeforces. |
+| "Sothe" the Algorithm Wolf | [Youtube](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) |
 | Egor Kulikov (Egor) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
 | Adam Bardashevich (subscriber) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
 | Bohdan Pryshchenko (I_love_Tanya_Romanova) | [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
 | Vladimir Smykalov (enot.1.10) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
 | Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
-| Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
-| Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
-| Algorithms Live! | [Youtube](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)|
-| code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of HackerRank, LeetCode, Topcoder and Codeforces. |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
