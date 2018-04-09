@@ -328,7 +328,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
 | Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
 | Algorithms Live! | [Youtube](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)|
-| Code Report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), active as of April 2018|
+| code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of HackerRank, LeetCode, Topcoder and Codeforces. |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
