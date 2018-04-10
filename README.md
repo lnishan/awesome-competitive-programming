@@ -94,7 +94,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 | ★★☆ | [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions) | A course by ITMO University on competitive coding on edX.|
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures given by top competitive programmers like Sergey Kulik, Kevin Charles Atienza and Anudeep Nekkanti. Primarily focused on exploring these concepts by applying them to actual competitive contest problems. |
-| ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
+| ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson ([user:SuprDewd])](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides. |
 | ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
 
@@ -302,25 +302,25 @@ Learn helpful tips, tutorials and insights from these people :)
 | Name (Handle) | Blog Name |
 | --- | --- |
 | | [Codeforces blogs](http://codeforces.com/) |
-| Petr Mitrichev (Petr) | [Algorithms Weekly](http://petr-mitrichev.blogspot.com/) |
-| Makoto Soejima (rng_58) | [rng_58's blog](https://rng-58.blogspot.jp) |
-| Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
-| Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
-| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
-| vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
-| Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
-| LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
-| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
+| Petr Mitrichev ([user:Petr]) | [Algorithms Weekly](http://petr-mitrichev.blogspot.com/) |
+| Makoto Soejima ([user:rng_58]) | [rng_58's blog](https://rng-58.blogspot.jp) |
+| Bruce Merry ([user:bmerry]) | [Entropy always increases](http://blog.brucemerry.org.za/) |
+| Przemysław Dębiak ([user:SomeGuyTookMyHandle]) | [Psyho's blog](http://psyho.gg/) |
+| Anudeep Nekkanti ([user:anudeep2011]) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
+| vexorian ([user:vexorian]) | [vexorian's blog](http://www.vexorian.com/) |
+| Ashar Fuadi ([user:fushar]) | [Fushar's blog](http://fusharblog.com/) |
+| LiJie Chen ([user:WJMZBMR]) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
+| Huang I-Wen ([user:doreamon], dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.tw/) |
 | Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](http://morris821028.github.io/) |
-| Yuhao Du (TooDifficuIt, TooSimple, xudyh) | [xudyh (Chinese)](http://xudyh.github.io/) |
+| Yuhao Du ([user:TooDifficuIt], TooSimple, xudyh) | [xudyh (Chinese)](http://xudyh.github.io/) |
 
 ### Youtube and Livestreams
 
 | Name (Handle) | Link |
 | --- | --- |
-| Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) |
+| Petr Mitrichev ([user:Petr]) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) |
 | Gate Lectures by Ravindrababu Ravula | [Youtube](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ) |
-| Mostafa Saad Ibrahim (mostafa.saad.fci) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
+| Mostafa Saad Ibrahim ([user:mostafa.saad.fci]) | [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
 | Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525), with many tutorial videos. |
 | GeeksforGeeks | [Youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) |
 | Algorithms Live! | [Youtube](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)|
@@ -329,11 +329,11 @@ Learn helpful tips, tutorials and insights from these people :)
 | IDeserve | [Youtube](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw/featured) |
 | code_report | [Youtube](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ), with contest updates and problem tutorials of HackerRank, LeetCode, Topcoder and Codeforces. |
 | "Sothe" the Algorithm Wolf | [Youtube](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) |
-| Egor Kulikov (Egor) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
-| Adam Bardashevich (subscriber) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
-| Bohdan Pryshchenko (I_love_Tanya_Romanova) | [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
-| Vladimir Smykalov (enot.1.10) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
-| Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
+| Egor Kulikov ([user:Egor]) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
+| Adam Bardashevich ([user:subscriber]) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
+| Bohdan Pryshchenko ([user:I_love_Tanya_Romanova]) | [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
+| Vladimir Smykalov ([user:enot.1.10]) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
+| Aleksandar Abas ([user:Alex7]) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
@@ -361,9 +361,9 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Subject |
 | --- |
-| [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho) |
-| [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
-| [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
+| [Overview of Programming Contests](http://psyho.gg/overview-of-programming-contests/), by Przemysław Dębiak (Psyho, [user:SomeGuyTookMyHandle]) |
+| [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen ([user:I_love_Hoang_Yen]) |
+| [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon, [user:doreamon]) |
 | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/), by Vishwesh Shrimali |
 | [Complete reference to competitive programming - HackerEarth](https://www.hackerearth.com/getstarted-competitive-programming/), by Ravi Ojha |
 | [Getting started with the sport of competitive programming - HackerEarth](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/), by Triveni Mahatha |
