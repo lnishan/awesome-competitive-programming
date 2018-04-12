@@ -143,7 +143,6 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Intermediate Counting & Probability](https://artofproblemsolving.com/store/item/intermediate-counting), by David Patrick | Topics in counting and probability byformer USA Mathematical Olympiad winner David Patrick , topics  include inclusion-exclusion, 1-1 correspondences, the Pigeonhole Principle, constructive expectation, Fibonacci and Catalan numbers, recursion, conditional probability, generating functions, graph theory, and much more.. |
 
 
-
 ## Sites for Practice
 > Good online judge systems / contest platforms to practice.
 
@@ -337,8 +336,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | Vladimir Smykalov (enot.1.10) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
 | Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 | Mikhail Tikhomirov (Endagorion) | [Youtube](https://www.youtube.com/user/Endagorion/) |
-
-
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
