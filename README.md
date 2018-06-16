@@ -188,6 +188,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
+| ★★★ | [stopStalk](https://www.stopstalk.com) |Coding calendar and Manage all coding profiles at one platform|
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
 | ★★☆ | [clist.by](https://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
