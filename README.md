@@ -168,7 +168,8 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [CS Academy](https://csacademy.com) | New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks. It supports live chat, interactive lessons and an integrated online editor (that actually works). |
 | ★★☆ | [Russian Code Cup](https://www.russiancodecup.ru/en/) | Programming competitions powered by Mail.Ru Group. Competition consists of 3 qualification, 1 elimination and 1 final rounds. For each round contestants are given 4-8 problems which must be solved in a fixed amount of time. |
 | ★★☆ | [CodeFights](https://codesignal.com/) | CodeFights is a website for competitive programming practice and interview preparation. It features daily challenges of varying difficulty, an archive of problems and regular (every 15 minutes) mini-tournaments. Good for beginners. |
-
+| ★★☆ | [Toph](https://toph.co/) | Toph is a platform for competitive programmers with a growing archive of problems and regular contests. It has a section dedicated for beginners with easy problems. |
+ 
 ### Problem Classifiers
 > Sites classifying programming problems.  
 Choose a category (eg. DP) of interest and practice problems on that topic.
