@@ -52,7 +52,7 @@ Share the list with your classmates, your friends and everyone :)
 | --- | --- | --- |
 | ★★★ | [Good Blog Post Resources about Algorithm and Data Structures - Codeforces](http://codeforces.com/blog/entry/13529) | A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more. |
 | ★★★ | [All of the good tutorials found on codeforces - Codeforces](http://codeforces.com/blog/entry/57282) | Another good collection of tutorial blog posts written by Codeforces users. |
-| ★★★ | [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) | A very complete list of competitive programming resources. A must-have in your browser bookmark. |
+| ★★★ | [Data Structures and Algorithms - CodeChef Discuss](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3) | A very complete list of competitive programming resources. A must-have in your browser bookmark. |
 | ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
 
 
