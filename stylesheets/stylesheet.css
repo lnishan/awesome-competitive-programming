@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.9;
   color: #606c71; }
 
 a {
@@ -61,7 +61,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 5rem 7rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
