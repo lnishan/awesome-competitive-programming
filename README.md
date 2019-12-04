@@ -85,7 +85,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
 | ★★★ | [Mini-Editorials](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees | Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems |
-
+| ★★★ | [OI-wiki](https://oi-wiki.org/), by a group of Chinese OIer | Huge number of knowledge about competitive programming in Chinese, free |
 
 ## Open Courses
 > Consider beginning your competitive programming journey with these awesome courses!
@@ -123,6 +123,8 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
 | ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
+| ★★☆ | [算法竞赛进阶指南（Chinese）](https://book.douban.com/subject/30136932/), by 李煜东 | This book is mainly based on the knowledge system involved in the ccf-noi informatics olympiad to prepare, the basic skills of computer programming -- data structure and algorithm for in-depth explanation. Not friendly to beginners. |
+| ★★☆ | [算法竞赛入门到进阶（Chinese）](http://www.tup.tsinghua.edu.cn/booksCenter/book_08163901.html), by 罗勇军、郭卫斌 | Easy to read |
 
 ### Books for Algorithms
 
