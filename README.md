@@ -346,6 +346,12 @@ Learn helpful tips, tutorials and insights from these people :)
 | Vladimir Smykalov (enot.1.10) | [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
 | Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 | Mikhail Tikhomirov (Endagorion) | [Youtube](https://www.youtube.com/user/Endagorion/) |
+| Gennady Korotkevich (tourist) | [Youtube](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw), Screencasts by Gennady Korotkevich a.k.a toursit on CP community  |
+| Kamil Dębowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg), Short tutorial videos on different competitive programming topics and problems |
+| Kamil Dębowski (Errichto 2) | [Youtube](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ), The second one has streams, problem solving, and is mainly for the competitive programming community |
+| Alex Danilyuk (Um_nik) | [Youtube](https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw), Screencasts of Codeforces, Topcoder, Educational contests |
+| Aoxiang Cui (Aoxiang Cui) | [Youtube](https://www.youtube.com/channel/UCDVYMs-SYiJxhIU2T0e7gzw/featured), Screencast of Atcoder, codeforces and leetcode contests |
+| Ting Zhang (happygirlzt) | [Youtube](https://www.youtube.com/channel/UCamg61pfZpRnTp5-L4XEM1Q/featured), Tutorial Solutions to Leetcode problems |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
