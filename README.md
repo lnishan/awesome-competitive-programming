@@ -107,7 +107,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 | ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
-
+| ★★★ | [Data Structures and Algorithms Courses at Classpert](https://classpert.com/search?filter%5Bprice%5D%5B%5D=0&filter%5Bprice%5D%5B%5D=0&p=1&q=&tag=data_structures_and_algorithms) | List of around 40 free Data Structures and Algorithms Online Courses. |
 
 ## Books
 > A list of recommended books for competitive programming.
