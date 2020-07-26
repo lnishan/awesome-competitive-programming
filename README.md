@@ -349,7 +349,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
 | mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool) |
 
-
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
