@@ -348,6 +348,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 | Mikhail Tikhomirov (Endagorion) | [Youtube](https://www.youtube.com/user/Endagorion/) |
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
+| David Harmeyer (SecondThread) | [Youtube](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) |
 | mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool) |
 
 ### Quora
