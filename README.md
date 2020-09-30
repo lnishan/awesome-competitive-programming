@@ -350,6 +350,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
 | David Harmeyer (SecondThread) | [Youtube](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) |
 | mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool) |
+|William Lin | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
