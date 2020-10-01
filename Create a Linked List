@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct node
+{
+	int data;
+	struct node  *next;
+}*start,*save,*ptr;
+
+int main()
+{
+   start=NULL;
+   char ch='y';
+   
+   while(ch=='Y' || ch=='y')
+   {
+   	  ptr = (struct node *)malloc(sizeof(struct node));
+   	  printf(" Input the value in the nodes : ");
+   	  scanf(" %d", &ptr->data);
+   	  ptr->next=NULL;
+   	  if(start==NULL)
+   	  {
+   	  	start=ptr;
+		 }
+		 else
+		 {
+		     save=start;
+		     start=ptr;
+		     ptr->next=save;
+		 }
+		 
+		 printf("Want to add more node  Y|N   ");
+		 scanf(" %c", &ch);
+	   }	
+	   
+	   while(start!=NULL)
+	   {
+	   	printf(" Data = %d\n", start->data);  
+	   	start=start->next;
+	   }
+}
