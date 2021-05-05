@@ -86,6 +86,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
 | ★★★ | [Mini-Editorials](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees | Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems |
 | ★★☆ | [OI Wiki (Competitive Programming) (Chinese)](https://oi-wiki.org/) | OI Wiki is committed to being a free and open continuously updated programming competition (competitive programming) knowledge integration site. This wiki is a sort of companion or guide for the competitive programmer who's trying to learn something |
+| ★★★ | [Learn through Python and R Notebooks](https://www.nbshare.io/) | At nbshare.io, users can upload their Python and R notebooks for free. These notebooks are hands on tutorials to learn topics from Python/R programming, Statistical analysis to machine learning. |
 
 
 ## Open Courses
