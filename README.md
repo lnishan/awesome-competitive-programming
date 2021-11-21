@@ -356,7 +356,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool), High quality videos on basic programming, data structures and algorithms |
 | William Lin (tmwilliamlin168) | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q), Mostly streams, tips but inspiring and sometimes insightful |
 | CodeNCode (kazama460) | [Youtube](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ), Short lectures covering various CP related topics like Graph Theory, Number theory, DP, Advanced Data structures. |
-| Colin Galen(galen_colin) | [Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw), Editorials, screencasts |
+| Colin Galen (galen_colin) | [Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw), Editorials, screencasts |
 | William Feset | [Youtube](https://www.youtube.com/user/purpongie), High quality videos covering almost all data structures, algorithms |
 
 ### Quora
