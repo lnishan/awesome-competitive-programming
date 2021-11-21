@@ -353,9 +353,12 @@ Learn helpful tips, tutorials and insights from these people :)
 | Aleksandar Abas (Alex7) | [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
 | Mikhail Tikhomirov (Endagorion) | [Youtube](https://www.youtube.com/user/Endagorion/) |
 | Kamil Debowski (Errichto) | [Youtube](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) |
-| David Harmeyer (SecondThread) | [Youtube](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) |
-| mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool) |
-| William Lin (tmwilliamlin168) | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) |
+| David Harmeyer (SecondThread) | [Youtube](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g), Editorials, High qualtiy lectures(advanced topics) |
+| mycodeschool   |  [Youtube](https://www.youtube.com/user/mycodeschool), High quality videos on basic programming, data structures and algorithms |
+| William Lin (tmwilliamlin168) | [Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q), Mostly streams, tips but inspiring and sometimes insightful |
+| CodeNCode (kazama460) | [Youtube](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ), Short lectures covering various CP related topics like Graph Theory, Number theory, DP, Advanced Data structures. |
+| Colin Galen (galen_colin) | [Youtube](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw), Editorials, screencasts |
+| William Feset | [Youtube](https://www.youtube.com/user/purpongie), High quality videos covering almost all data structures, algorithms |
 
 ### Quora
 > Visit [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
