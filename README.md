@@ -108,6 +108,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 | ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
+| ★★★ | [Graph Data Structure & Algorithms course](https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms) | Practice and master all interview questions related to Graph Data Structure & Algorithms |
 
 
 ## Books
@@ -201,6 +202,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
 | ★★★ | [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar) | Google Calendar export available |
+| ★★★ | [Codedrift Contest-InterviewBit](https://www.interviewbit.com/contest/codedrift-august-2-0/) |  |
 
 
 ## Sites for Questions
@@ -284,6 +286,11 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★☆ | [Eclipse](https://www.eclipse.org/downloads/) | GUI / Cross-Platform | Eclipse is another good IDE for Java. It's an okay alternative to Intellij IDEA (A tad inferior to IDEA by today's standards). Sometimes contests only provide Eclipse for some reason, so this might be a good incentive to try and use Eclipse. |
 | ★★☆ | [CLion](https://www.jetbrains.com/clion/download/) | GUI / Cross-Platform | CLion, produced by JetBrains - the same company who made Intellij IDEA, is a powerful IDE for C++. Free educational licenses are available OR you can try out their [EAP (Early Access Program)](https://confluence.jetbrains.com/display/CLION/Early+Access+Program) which is still free as of Apr, 2018. You may want to turn off its code inspection feature as it will cause quite a bit of lag. |
 | ★☆☆ | Other IDEs | Mixed | [Visual Studio](https://visualstudio.microsoft.com/vs/community/) is the IDE to use in case you want to code in C#. ... Both [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/) are built with Electron (written in JavaScript) and therefore somewhat resource-hogging. ... [CodeLite](https://codelite.org/) is a newly rising IDE. Beware that the load-up and project-creation times can be extraordinary. | 
+| ★★★ | [Online-CPP-Compiler](https://www.interviewbit.com/online-cpp-compiler/) | Hybrid / Windows | C++ online compiler helps code and run your C++ programs online. Quick and easy way to save and share your codes online. |
+| ★★★ | [Online-C-Compiler](https://www.interviewbit.com/online-c-compiler/) | Hybrid / Windows | Practice and execute C programs with our online compiler(supports gcc c compiler). Quick and easy way to save and share your codes online. |
+| ★★★ | [Online-C-Compiler](https://www.interviewbit.com/online-c-compiler/) | Hybrid / Windows | Practice and execute C programs with our online compiler(supports gcc c compiler). Quick and easy way to save and share your codes online. |
+| ★★★ | [Online-Python-Compiler](https://www.interviewbit.com/online-python-compiler/) | Hybrid / Windows | Online compiler (interpreter) helps code, compile, run and debug python programs online. Quick and easy way to save and share your codes online. |
+| ★★★ | [Online-Java-Compiler](https://www.interviewbit.com/online-java-compiler/) | Hybrid / Windows | Our java online compiler helps code, compile, run and debug your Java programs online.|
 
 ### Personal use
 
