@@ -381,6 +381,11 @@ Learn helpful tips, tutorials and insights from these people :)
 
 ## Other Awesome Resources
 
+### Social Media
+| ☆ | Name | Description |
+| --- | --- | --- |
+|  | [CompetitiveCoders.com](https://www.competitivecoders.com) | Community for competitive programmers to come together, show solutions and discuss programming competitions
+
 ### Articles
 > Informative and helpful articles
 
