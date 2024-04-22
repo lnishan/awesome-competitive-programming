@@ -188,7 +188,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
-| ★★★ | [CP31 Sheet](http://www.tle-eliminators.com/cp-sheet) | 31 problems chosen from each level, ranging from 800 to 1600 |
+| ★★★ | [CP31 Sheet](http://www.tle-eliminators.com/cp-sheet) | 31 problems chosen from each level, ranging from 800 to 1600 level |
 
 ### Contest Calendars
 > Calendars for impending programming contests.  
