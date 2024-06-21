@@ -419,6 +419,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
 | Community-curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus) |
+| Free C++ online courses | [Free C++ courses list](https://coursesity.com/free-tutorials-learn/C++/40) |
 
 ### Interview Questions
 | Name | Description |
