@@ -7,6 +7,7 @@ Created with a view to connecting people to information, this list below contain
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated problem-solving orchestration, multi-agent code review, and development workflow management. MIT licensed.
 ## Contributing
 
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
