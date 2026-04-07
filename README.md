@@ -420,6 +420,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
 | Community-curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus) |
+| RemoteOpenClaw | [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw |
 
 ### Interview Questions
 | Name | Description |
