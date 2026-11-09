@@ -298,6 +298,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★☆ | Code Sharing: ... [Ideone.com](https://ideone.com/) ... [Pastebin.com](https://pastebin.com/) ... [Ubuntu Pastebin](https://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
 | ★★☆ | [Ineffable](http://codeforces.com/blog/entry/19083) | A simple command-line grader for local grading. |
 | ★★☆ | [uDebug](https://www.udebug.com/) | A platform that provides expected outputs for user-specified inputs to problems on the UVa Online Judge. Some problems also provide additional test cases for debugging. |
+| ★☆☆ | [LeekCF Hinter](https://github.com/ahmadsh2007/LeekCF-Hinter): [API](https://leekcf-hinter-api.leekcf.workers.dev), [Chrome Extension](https://chromewebstore.google.com/detail/leekcf-rating/fnkoldggbbjmndapidpegfpkkokboklp), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/leekcf-rating) | Graded hints for most Codeforces problems, 2 to 5 per problem, from a small nudge up to the full solution. The extension reveals them one at a time on the problem page, and the API is free and needs no key. An AI model writes them from the official editorial, so they can be wrong. |
 
 ### Contest Preparation
 
